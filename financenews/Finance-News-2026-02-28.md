@@ -1,0 +1,33 @@
+# 台股與金融新聞整理（2026-02-28，Asia/Taipei）
+
+1. **台股早盤回檔，台積電與聯發科走弱拖累大盤**  
+   權值股回落使指數早盤承壓，市場短線轉向觀察電子權值股能否止穩。盤勢結構仍受 AI 供應鏈與資金輪動主導。  
+   來源：https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tbE5TdmdSVGRTa2ZKWHQ5WkhfWUQtWnNLSEFnY3RvSWZYVDZmMlV0SWtKOXdrT3JNbk9oUm1GbVlBQm53S19wTVAzS09hQQ?oc=5
+
+2. **台積電站上 2000 元關卡，推升台股攻高**  
+   台積電轉強帶動市場風險偏好回升，指數同步走高。資金對半導體與高權值股的集中度仍高。  
+   來源：https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oczJSODI3NGp1TjItMXd5X1lEakRqZm5QTXprY3VzRlJ2UE5SREhvM1ZSU3lZZG9BWHVCR0pYU3VwM04ta1dLNmczRmlRZw?oc=5
+
+3. **國泰證券看 2026 台股：AI 科技與金融為主軸**  
+   券商觀點指出，AI 產業鏈與金融股可望成為資金配置核心。投資人可留意政策與資金面共振帶來的族群輪動機會。  
+   來源：https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zT285QlZsY2FSN2dqOURIRlc3Nk5YXzJWR1dYQ09XcmxidGNnd2RwY1UxaGRxN2t6VTBFMlV5UVNtSWdUc29aQTJQLWNLX2pO0gFWQVVfeXFMUHNnYzNlYTlyTWo2dXFjUGk5dURYRG1mcmlDaDJuc1prVVdzeDVERHM1M3YzTjlTcTFUN2ZVcWRhUVdDU2xUdUNUQ0tHXy1TNFVpaUR6Wmc?oc=5
+
+4. **金管會鬆綁 ETF 單一成分股 30% 限制，市場解讀偏多**  
+   監理調整有助提升 ETF 設計彈性，並對高權值成分股形成支撐。政策面變化也可能改變資金在被動型商品的流向。  
+   來源：https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTSUlxa3J3R29BekxsZHI1Z1cwcjFvbTZHOXFmc0ZrdDgzNHliS3k2UXBQWmVWSVpLQjdzOGVGNDl0bVZzY3VNR0dpdm44cWRXaGYyckJLR1NvUdIBX0FVX3lxTE90ZTFIaU9GbG0yUVRlLU9xZGsycDRTNHdWVzJQRGtOZEY2cEl0TURMa0NrdUJ1RFZqMXU3b2FxamFzWW5BbTZRZU9pVWI3WWRaSVZweUE5MzQ5VDJoZzkw?oc=5
+
+5. **就市論勢：金融、軍工、航太受政策題材帶動**  
+   法人看法認為政策利多有助相關族群維持相對強勢。市場在震盪盤中傾向尋找具政策支撐與基本面題材的標的。  
+   來源：https://news.google.com/rss/articles/CBMiUEFVX3lxTE50WmNqNHRJMlh4U3hiWDd4Z1Z3UElZVnMzcXZHZ2Fwenh2RVMtRThyeU5rakljX0JlVDV6NmtFdTg5aldMNXcxT0k4VVlJSGMy0gFWQVVfeXFMTk9mRlRHQTlZV1pnVlp0aWJ2S25QY3Rzd0J2Zm9iSXFOU2x5b1B6YV9oQnZrWVk0OFVuOXgtamttZkZJTVhfbEt3MEJQMl92RHRJbmNfVHc?oc=5
+
+6. **台積電與金融股助攻，大盤守住月線**  
+   權值股尾盤拉抬顯示資金仍偏好高流動性標的。盤勢顯示電子與金融的雙主軸仍是短線關鍵。  
+   來源：https://news.google.com/rss/articles/CBMi1gVBVV95cUxNZW1PQW5za0h4UEp1QS1tNWs0V2h3aVdpLVdXZ0dKZ3BINUY4VkFac3pIb2NSVWtfbGdTelNJWGx1WDVsbkhwOFk5akt4a1VMSVZSdndYZUp6dmxocHIybUpmVnRWNnhaZGRQbE1pNnhjZVlQQkFBbEZ3YTNxMDd6azI3a1gyWE5yYnI4a3IwRTFRaTF1ZVRpcldDc2pNOGZIVS1qY3ZhdGpJSWF1bGpmUFdXcnVjVkw3QjFUWXF2OHdDOUNtT3NEU2xSTmFDdEZnZ3JVemxPUFU3amgxOW1aRTd4Sl8yOTU5R2dwVldMX0VDZ1pIM3JGTEJVR25DM25oSURtQ3ZQNkhFY0xhN2pVOWZ0enpWaHd5YkZPRXY3dmMxT3UtSXpBSzJLbWRnSkI5RmJHM0JicWNFVXJZSXlhMHQ1bVpBT0FmbUgyMHltSHFxLVdrNmtNTThSS2Z3cDJHeC1zWmdPRUlCRHdUXzNuNE9uaThMa0JFaFlscHRVNEZQU2YxWWxDMGtYVjZZSnF6eUdkOVc3Mmx4aENCQVVhaW12Vm9OSFh6VmZTb3lYdGcybDNLc0RHVVhsbTNFeVl1V201bjllLUliNGhBUkRUR0k1S2M5bmhWSkt3TW5jeGszNVBOOHREOElnSUE0NkdkcUxUVUdIWEFObEhTck8zQVdBQXZaMTZhaE5qc3FRWUl2a1k3Nkc0UDRaUHpUNWc4Sl82WjVaRlBBRmY5VDZuaDVRQXFDdUJCbGJHbTM2VHBMRzg5bVF1b3o3Uk00NzF5MnNWOWk4OHFhZ3FzWi1uS3RrQlJ0ZUc0d3I2cGRDanNyMk9tWU1SaTA5aF9LcUt1TkllOGNwUFhNS25tQTdndmpKZzFZRVBUSHJHd3BoZFB3V1lMaVFaSnh0VDVIX2hHZjZ6Q01KYzlmR1QyMWphTWtlQ1VncUVHNWpjcmI3RGVmMWdZYnc?oc=5
+
+7. **金融股撐盤但台股仍下跌，顯示盤面分歧**  
+   即使金融類股相對抗跌，電子權值回檔仍使指數收黑。多空交錯下，資金呈現防禦與成長股並行配置。  
+   來源：https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lN1kwU1M2VXhBTWR1TUd5LU9pZzBxMm1ieF9GS09pRVkxS2dnUkljUFZWNEloVDF5amhfcWpQM0Z6czI0aTQxNTFhczJVSEdQ0gFWQVVfeXFMUEVmTlE4Qk14emJYNWpXVk9MSnFWcWVtc0dTTzdnZjlZR1gwR2hHX1B2NHRoSjIxNWd6bDQ4UEpRT3RkeFdMR3g4MmRZUmh0UTJ3Nzlyc1E?oc=5
+
+8. **台股開盤反彈後整理，金融股表現影響短線節奏**  
+   市場在急漲後轉入震盪，觀察重點落在金融與電子是否能同步接棒。若量能未擴增，指數可能維持區間整理。  
+   來源：https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mbVpzWGQzNGtUR05JUEtKVUM0Z3JGcnNmT2hqeGt5VGw0d3FoclNhSFMwTEx3NFVkTlNMcHNZSm9VMXp1ejNfXzQ4SG53Rzg?oc=5
