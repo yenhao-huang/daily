@@ -1,0 +1,41 @@
+# 台股與金融新聞整理（2026-03-01，Asia/Taipei）
+
+1. **台股量價齊揚，指數一度改寫歷史高點**  
+   市場出現高成交量與指數創高並行，反映資金風險偏好快速升溫。電子權值股帶動下，短線波動也同步放大。  
+   來源：<https://ec.ltn.com.tw/>
+   連結：<https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1bE1XRWJQMG8tT3IwVWNnVElHVl9HVnJZei14V2V1RDBHcmEtdG1DandQTjRkX0Y1alpMay1vUVVyUFVxZ3d5VWtJSW1jWld2NWpQb2ZRNWRJUm1WMFJZ?oc=5>
+
+2. **台積電突破 2,000 元關卡，牽動大盤結構重估**  
+   台積電股價續創高，對加權指數貢獻度持續擴大，市場聚焦其估值與外資部位變化。相關供應鏈與 ETF 亦出現連動行情。  
+   來源：<https://tw.stock.yahoo.com/>
+   連結：<https://news.google.com/rss/articles/CBMiyAJBVV95cUxPcG5oUkptUXAtVnRCQkVnTDJ0Q0NFRDBua3o0S1RPMWlMNkNuNzJSRGdNSDNqdWo3bDczN3VpSWMzeGl4TDhQVmdsaGJxNzlxUlVXcnF5b0hkb0hwQndUVlhFWGFpVWlhbWQ4ME4wNkVNZzE4cGItU3FYV2JuSTMwMDQtMkotZzU0LVBNM25DYTJJYmpyMFNjbC1WOTNudV9ldjdpRVEzRWN0N3JpVWdHWV9PVk1sWXFGZG9ZajY5UUswMi1KeGN1WHVTY1dBV0VJRHFsbUNMT2NnZ2l1VFdjR1BmVFk1N3JPSmdUUFdFY0NQcmJUVjFfUldReENsaHhXQjYyNndwSHQxMzJXZE1jSU5ISzVocWcyMFBYR0RGRXY2eXIxM3ZvQnBPMjdSLTlKbmMyVmNIZXFQcE9Wc3Z0UGF5WFhITm9z?oc=5>
+
+3. **台股單日大漲逾 900 點，收盤再寫新高**  
+   權值股急拉帶動指數跳升，市場追價力道強勁。法人提醒在高檔區須留意籌碼與短線過熱風險。  
+   來源：<https://ec.ltn.com.tw/>
+   連結：<https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XZi15dVNVeElhWF9MdGIwa203dEpjODFTVDd1aVJvU0hjSXpPTnVlUHFfRHlJMC1YZ2lIMTRVVk5oRzQyQWotUk02YnlZNXFhMXc1Qlgtb3VVamhLLWVV?oc=5>
+
+4. **ETF 配息與除息題材升溫，資金持續湧入**  
+   高股息與主題型 ETF 仍為散戶與退休配置熱門標的，帶動相關商品交易活躍。市場關注配息穩定性與成分股評價。  
+   來源：<https://www.sinotrade.com.tw/>
+   連結：<https://news.google.com/rss/articles/CBMixwNBVV95cUxNX1VUbmx1ZFJFaHM4S19SOGdNQVNMVVVfX3V0MU9OSlNSWmlhLUxEeWF6ZmhvNlZiMzBwN0RLT2RoZjQweGx4cThuS2h4elJBaGNBdjBBWWpiektRV0pFeDE4LWNvbHNFR1JOMUhNaUxIWVVIRWJzQWFIUXJxY19jYWZoeENYQ19RWEhxVHBKR1VBVktHTDFGS1o2ekYydUJPM3RMekt1UkZhbF9hcU9NSElWRTNiNnVpeHYwaWs2cVVTYndIVXhPRktYOV9TZGRRSTl3a1Q4V2lGMW9xY0N0ejdZMmcyRGQtbURCUGpoRXFndEM1X3M1eTlvUlJ6MTNGRDJrX1NHLUFTaXB1OE1sdWhaSnljU1BpRWZ6aDAtcmhDMEU2QzNHSnctaUdQeWV2d09Da0NJRUtUekFiTWFsRTBhUDd4Wk1zTEh3aVQ5YWF5QmhCaXk3THZiZjROSGdTaVNDQkV3SXQtX3ZmN3MyZTFHdjZvdkpCbnpza1BoblBqeWh4X1ROY19kYlU3MFZNdHBpa1BfNVFpNUNTcUljMWFIdlZrbFpDLTJ6VUhGQ3B6OGhscjVKTElQSFVNbThQZmFvYmtJcw?oc=5>
+
+5. **台積電股東人數突破 200 萬，零股投資熱度延續**  
+   股東結構持續擴大，顯示散戶參與度高且資金黏著度強。低門檻投資機制讓權值股更容易成為長期配置核心。  
+   來源：<https://finance.ettoday.net/>
+   連結：<https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LRnBfNHhqamRZOGVZWjVfUGczT1FvOWs1T0ZaTmNPN1VfQXFYX3R0MHN3Z1NGQ0NQelhEd2s3VmhENnhWNVVwY1BkRXgxN0hqUGfSAW5BVV95cUxPT3VWTkdhSWppRWc4VDVnYWVhUW44SGtPUGdmZHFRWk5pUUtLNlZyeWdVU0EwcWpJdzBxVXlIVEtCeVlXLV9YRE5CZll0WUdtRnIxWkNRVUJDRk5hcVdNdk5ESC1aaGpWU3ZZUkIyQQ?oc=5>
+
+6. **證交所針對「千金股制度」議題釋出研議方向**  
+   主管機關回應市場對高價股交易制度的討論，預期將持續優化市場機制與公平性。制度調整若落地，可能影響高價股流動性結構。  
+   來源：<https://tw.stock.yahoo.com/>
+   連結：<https://news.google.com/rss/articles/CBMirANBVV95cUxPdkpXMEZuZXBPR3VGMHJYdmk5bnBMZHFqQ2ZzRk12dmNBbm05bFBCemlvWFBZdWFSalYySXFLOW9xcEUwN1VzMU1fRy1fTGJYV1JWaGg4eWc5cFJweGxYenU4MHJJTk5jX2g2cDhhMjdiQTBMSVMtSGxmUFpjQW5DTFZSRHlNbjFFa016NUFRb0ptQmF6RWFkemFiZFNMYlJQQzd2cTlON0F2OWc3eHZ4SzItNUJrYWhjNGpHYnFrUmRGRExXME8xODBBcXQtRk9DTFRGSGhXV0s5RzU2VDFZTVBGeDgwNDZVczlvNVNLeVZLTzVQeW4tUEVfN0JEYUoyLUU0MXIyZHFRVmZVN2ZESXQwZFNpTXczc0hXa1NDcmZpNGZRRGxuN2REakFUVlF2Z1luRERhWFlqR2RNa0FEWGRjZkFxaUdZcHNaMWZXcnlaZ1JOVmdsV3ltQVFQTXpNQ2ttaWZqRWJreXpVdHpiNU9lSHQyNmNsbHZrYkVTSXZQdjZnVnJtMnBsVDBvdHpiWE00R0lGUF9aOElhVnJKSzFSVXBfUGw5dWtHcQ?oc=5>
+
+7. **輝達財報後震盪，台股半導體鏈同步受牽動**  
+   國際 AI 龍頭財報與展望牽動台灣科技權值股走勢，顯示台股與美股科技循環連動緊密。短線資金在「成長敘事」與「估值壓力」間擺盪。  
+   來源：<https://tw.stock.yahoo.com/>
+   連結：<https://news.google.com/rss/articles/CBMivAJBVV95cUxPTDNSRmdrZjBZZ2hMVkJxdmQ1NExrN1ZIeEhHcTdPYlpDLWtET0ZTQzFkamFOb1A5UFVoSTFwNjF0SDZ4M2JOaVM1OWdUTWZLR2t2T25DSkJpOWQ3QXhVMFFSZVd6UUR5UFRKNGh0c0xRRXBBVFQ3YUx1cjN1Qm9lMmtVZ21lVkhDTVdQRHpaOHpOTklyOXFlallDRVliMGtiLTlPckFfNTJQMktLZnltLTdtV1FGcmsyaV9DRHF1TGJKclRuVUdReVJHb2x0cHFLeVdhT3NtVUFiUGJBSTh1dFZhZFN0eENjdThXQ29KaFNIelJqYlFJVFRKc1BXa3Z4VEFVaGhVSDlXSlVuaHlVUXBSdVpOMVdtWFZDX2hvZVR2bGVSdVBkSlBBTzVwaWFrQUl2WGtjSTl4X05v?oc=5>
+
+8. **散戶資金轉向主題 ETF，海外與 AI 題材吸睛**  
+   新增投資人數顯示資金有從傳統高股息轉向成長主題趨勢，海外市場商品關注度提高。此現象反映投資人風險承受度上升與資產配置多元化。  
+   來源：<https://tw.stock.yahoo.com/>
+   連結：<https://news.google.com/rss/articles/CBMixgNBVV95cUxNR3pzMlU4OFVsQW50QU1jY3g1b3ZkdUVzdUVCdlBid3RWS3VoX2tTWmVGbXp4eEx4RzRMS0NSWGpGMUdGLXoyQTY0RmNSX2oxcWthUzRVOWV3d2FzX3VKMFc5TXlWazdoMzZHMjlnbWpfQmFJcWxGMzdXMVoxZjlGQktsYjdWNWhnWUltM0c1STQxTEU2WjUybHItaDBmd3E1SEF2Wkt5VjNqWkVCSnRqRnV2SVhHY2NnVXNmVXBBcllpNVVXa2hfNi1nemR6MmJjTmxHZGdYaU5fN3pmS2dSc3pqRFl1NFNSSlhUM1pMZUtocVJVUksyV0x4U0NHd0NQN19lU0RwWUhkZWlwY29TSlVnS2xJREFPQm4xdklYMlNndl84bWxyd0NEV0RyNmtleWExaUdPTzhsZ1l6eWtJUEpNUVdnTFJjSFQ1ckVaZ1l0VEhvYjh5eWcwa1NQTGpyak9PX0pPbHpkcXp3MDNtcFl5R0xtSjNyR0c2c0ZBSV9IVTZWQnNKUWl2OWdiT3R0WkJKRkJacnZoZ3pGMGZiMWlLTXBFSGoxTS1tTzRlZFBSaHdVZ2Q0QVlwaWp4NnpYMk4tSUt3?oc=5>
