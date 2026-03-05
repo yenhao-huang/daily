@@ -1,0 +1,31 @@
+# 台股與金融新聞整理（2026-03-06，Asia/Taipei）
+
+> 範圍：大盤/族群、個股、總經政策、國際連動（彙整可取得之最新公開報導）
+
+1. **台股失守月線，外資賣壓下金融股相對抗跌**  
+   摘要：市場關注 AI 題材波動擴大下的資金撤出，指數面臨技術面壓力。盤面上金融族群相對穩健，顯示資金偏向防禦配置。  
+   來源：https://news.google.com/rss/articles/CBMizANBVV95cUxOVUppckQ1R0Z3bGljc2RrNzZqQ3VMSkFCd0xKYjNiZHM5QkFFQmcyckEyQnRKdjNjZ2k4WDhHR0VkVHdfZ3B2ODdxbG80WHV0c21EejNBUzZqcGlMUmpfLWkwRkRPLThZbWhKbjVkc3ZFVTZELXV1bE1lbmc2Q0dBc2lnTEpjMzNUOHMtdFVCUGVpNzRBRXY2dG5laGgyQmg5eHZYU2J2UzMtRmFMSHpuaUxpLUw2MFBQM3lrb2JvQmNoQWFpSVcxVlFIeHotTGRzM1pmRkstSkRiR1JNQnVueDJyaFpqSDdXRHM4d09KZWYzUnQxOVM1YXBycUJia29PWTBXWFFMVDlrelNjSUFGU1R6SlBtZWQyU2dUbVQtREVKTklMSjd0YlkyZU11OXU0OENlVUJsU0EzVVF1bVNWeTFxM1diQzh4c3ZKUW05M0lhMkNUaFhXTDh0SEcwNjhvc1QwQ21nMGlCX2RMTFhjaFpsSER4TVNLbW9VYy01Y3FJYjByRzFVWmZEbGRyTFJYY1VWV0RrSEVDUE9Vck9NWjVhdEVDTjVTVndUWEtlWlpCeXhhNXhPVndyUU5LY2tocGRSUHB5TkQxV25w?oc=5
+
+2. **台股 12 月開局收黑，法人盤點年底潛力股**  
+   摘要：指數收在相對低檔，市場轉向檢視獲利能見度與估值安全邊際。法人名單顯示資金偏好由高波動題材轉向基本面與防禦屬性。  
+   來源：https://news.google.com/rss/articles/CBMiakFVX3lxTE9aUlBpbFlDZnpKMmNZckMyUWFBbVBGVnF1LWhib0NmVmhOZXZXVE03eGpCckU2VGVBOFBfRnB5R1BXbnVRTjMtdHhlamJUU2FtMmZxOE00S3ZGZ3hzR0x4d3JURGduUVRpOUE?oc=5
+
+3. **外資轉買超逾 200 億，低價金融股成焦點**  
+   摘要：在連續賣超後，外資回補帶動市場情緒回穩。買盤集中於價格基期相對低、殖利率與評價具吸引力的金融股。  
+   來源：https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xM0duWDV3SUtuNUF3TFllZFdKRVNLekphSTJUMlRoMS1uUzk5NlRkSTdnd2hVRjNGMHpTelpORE1zbmlaMGgtUDk4Vzh4Z2s?oc=5
+
+4. **央行對外資祭出 T+1 換匯規範，抑制短線匯市波動**  
+   摘要：政策目標在於降低短期熱錢快速進出對新台幣與資本市場的擾動。後續觀察重點是外資交易節奏與金融股、出口股的相對表現。  
+   來源：https://news.google.com/rss/articles/CBMiUEFVX3lxTE92UkhqLW05QkJCTzRuMTZxamN0RG9fcVd5S2wxUEg4dnlBRWd0TjYtUEtfUUo5VEplemRTb1d4UmJKbndXa0FpN3N0QkNjcmpq0gFWQVVfeXFMT01HQTV2OUVMYUk4TTVlZC0yUkdadEJaWWkyc25ITDcwVE1Xb1U2a2xoNHBEY2tBN3AtcWFCN3cxUVYwMDhiNGVfRFpmekw1eERWR3l5Z2c?oc=5
+
+5. **央行連續凍結利率，市場評估對股市與營建影響有限**  
+   摘要：利率按兵不動符合預期，資產價格衝擊相對可控。資金面仍受全球降息路徑與美元走勢牽動，台股以選股為主。  
+   來源：https://news.google.com/rss/articles/CBMilgNBVV95cUxQR3VaVFJ1QTR3ZlV5NmViWkNjQ1VoSkp0V3A3NWxnRXd5akFUaGtlUU5vR2pnRFB2YnFCSXhsT1VSaTRadXRUR3lYT1dhS2tIdXFyYnpra2lCVTF2WlAyQlFCa3RrVTJERENqejBqRUpBbkdqTG5TVjNHQktRN1AxRlNNVS1sQV80SWVEWjNaRTQzdXNPZEZ4OWxJV0gtRzh3NWtUNnJ5bWpQaDI4SldBZjNpa2lCVlNtaDBGc2tFVkpDaDJSMzZZUU1YdkVfcHpmcDVEMHhoWHphVXNIQWtzZ2xCUm1nR1VpY1B0dXpwQ0RQUUc3S256SkhkLWtoa1VRUzN2YXFobXFqQS1WMXhFLXlhRWhLTjRMU0RzbnpGSWdOOWRKd1NzeXdCZjhjbjJKV2FpWkhZelVqWDFjc0gzYTQyVTJsaEZjblJiNUwxb1lyZXJxQTJJMXdLY2RfbWlxMkR2TFZyTkZ5THUydGVCUXNwejY2UkhZOWwzUHVoWHllOTZpQWRmYkc0N3Z1YXk5U2FJSFV3?oc=5
+
+6. **「超級央行週」預期降息，市場關注受惠族群輪動**  
+   摘要：若主要央行進入寬鬆循環，資金成本下行有利高股息、金融與內需族群評價修復。惟仍需留意外部需求與匯率對企業獲利的再平衡。  
+   來源：https://news.google.com/rss/articles/CBMifkFVX3lxTE01RldhUDhKMHFNZFVweGZvY3VULTE5bGtlaTZhS2ZvYkRmY1hUYXJJNVJRS1ZYN2xXZExvRkVjMm5PX3hCRkY0Tmg5ZTNMRy1vQklzMWtDd1MwOEg3QVZvZWhpR2ZWcjFvVWNHQnM2Mm16NHpMYjhSamM2Rnd0Zw?oc=5
+
+7. **2026 年台股配置：AI 回檔逢低、金融股列入核心觀察**  
+   摘要：市場意見偏向在 AI 高波動中採分批布局，同步提高金融與傳產配置比例以平衡風險。顯示多數策略已由單一成長敘事轉向「攻守並重」。  
+   來源：https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDh5ZHpUWnhTSDB5TEtKdk9JSGlRSHVIMWFlVTdtRzBqdkNSU3V6bnhzSjJtR05oalEtTURkeWVTTDZtSlpTT2plSDk3SzFjZnJ2MTZ6d1FCQnJyeWUwX3piY0xlbkRwdnRVQnZIVlczRk1LUjB2enMzaTdKY1pfMg?oc=5
