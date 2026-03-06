@@ -1,0 +1,33 @@
+# 台股與金融新聞整理（2026-03-07，Asia/Taipei）
+
+1. **台積電走弱，台股震盪收跌 73 點**  
+   摘要：中央社報導台積電下跌拖累大盤，指數收在 33599 點，顯示權值股對盤勢影響仍大。短線資金在高檔波動下轉向防禦與題材輪動。  
+   來源：<https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0ZU5RTDNnTHpEZ25XT21fTkY5MDJWaU9UYjlGTUhUNTdfeVJGdTl1Uy1LbS1KdHVGSEN2YWhpQ2NhZDhHeTBFdHJ2a29NaVBMUlFpdV9hUktBSzMzUnc?oc=5>
+
+2. **台股早盤強彈逾 1300 點、重返 34000 點**  
+   摘要：在前波急跌後，盤面出現大幅技術性反彈，早盤一度強勢收復重要整數關卡。顯示市場情緒快速切換，短線波動仍高。  
+   來源：<https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1VGJsOGlyR1BOWGJGWGM2QXc2aXNpeFJqQlUwdDdPYU4wSmVvNHJNaG94c0lCYmt3RWk1cDQ3MnBIaHhNWDUtZ0ZpaGp6Ykd0SmJPeWNDT3NDQmtKMHc?oc=5>
+
+3. **三大法人賣超台股 292.63 億元**  
+   摘要：法人動向維持偏保守，賣壓對指數形成壓抑。外資與機構資金是否回流，將是後續大盤能否延續反彈的關鍵。  
+   來源：<https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HMVdTd1ltSW1yRDZIa0xPaFg2dklLV0V2THFIQnBJdDd0WVpnZ0pqMFVDcnRtTVRBVjdGazBacHQtYVp3UzY3SE4tak83bTN4c2ZnekE4dndqaU5RU1E?oc=5>
+
+4. **美伊衝突升溫，金管會稱台灣基本面穩健並密切監控**  
+   摘要：國際地緣風險擾動金融市場，台股連跌引發政策面關注。主管機關強調市場體質與監理機制，盼穩定投資人預期。  
+   來源：<https://news.google.com/rss/articles/CBMihwNBVV95cUxQQngyNkllSTJTblR6TFFZMDZxaWoyRTVURFlPRjVjcEJjS2FXY0ZmckE0Tlo1VzFHVmxGQVo3SGxfYTI4MXpHcXFpTFVlMjJEMWZzQnNPN0RUbDVENGRGVnFhX0phRzlGX1R3Vy1GZTFXb2JsWEtRSEx1cElicllvbjBwSHVGZGVRNjJGdkwxLXhVSkJUWUs5OC1xa1Jjb1UtcTRhd2VtNVRPSGdHQmhhdlNEM0Z0b1BFTk04b3Q2eUxBVGJVVnBxRFQtRUZ5M3M0Nm41b0ZUNWhTd2VfdDFFMXNTeFlCQTVHdl8yMnRxNmdleDdUdGFLYTNPdVQ5a1FoZnZkV25HZFdUclJnZWdiWmtfZ3UydTdSLVRWU3hOS3F4RDZqemExS1VEV3F4LVFFdkRhRmVqTGExSEhxSGRuYmIwaTY3amFEaTJSUmpQblpIZ0ZqeUFjanp3NlVQd1RxSGNRbUk1OHJNRnZmVE5nRnNCcW82ZWc1TTYxQk14LVRmM0E3THZR?oc=5>
+
+5. **中東戰火下台股上演 V 轉，國家隊與投信進場支撐**  
+   摘要：經濟日報指出在外資賣壓下，本土資金成為穩盤主力。盤勢呈現「外資偏空、本土撐盤」的結構性分歧。  
+   來源：<https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tVm1hQmlJamhBTGJ5cFJ0dG1jSjdyOWRjLUpCeFpnUUl6TjJWRW9MemNlUHk5STUzb2pwOEVUU21nZGRPU2VLeHhMYUR6bTlIV212N1JQSUhEUdIBX0FVX3lxTE5QSUloS28yUHdSa0I0MjJOZkFLNHdDVXdMdFVjUXQ4WjAyWlJqRm12cEMyVmtyay03Ymc4QXNSZDVueGtRb2F2TzZLMWpyTjNfNzU2c2JWaEdGRFFXbTF3?oc=5>
+
+6. **外資單日大舉賣超，市場波動擴大**  
+   摘要：多家財經媒體指出外資在風險事件期間快速降曝險，放大台股日內波幅。短線操作難度提高，資金更偏向高流動性標的。  
+   來源：<https://news.google.com/rss/articles/CBMinwRBVV95cUxQbG0tR0pZTjI3N3hma0JfbW5xQnA1V0U2RGNKMlE1VVZ2cEEzVFZLRE5fb0Z6MTNoTGVaM19pWlM0cDkxZmZYTUMwMWEzNVp6TFUwMXM0a2VEWUNEZ3lyZkpHMEttU3BkMzlRZFM1Ymw3cFVlenZaZ0M3RVFwQXoxUkZDbDlKQ0hscnJGSEJLeTV4eHVQRXhHT18xMDJ6TUlXQm5kZkcyYldpZHQ4UjhIN0MyTFh2OG0tWlZ1eWhmUUYyYXdJb3NXNDRLTml4Rkl2YjBPMzJuU21TdUpkdDdqejZPM0Z1RlVmVDlmQ0s1U0w0QnRVRTVkNGhnTHJibFlYMGVtb2luTnhfRFQxY29NczV2ZzdHb3NZQXFCNU1uZDNSX3ZuU3BtQUR1dXRNT1oySjlsWTFLVlh6QTdHWHQwMV9uRHRZZHdnZUx0Z1pmSHFpazYxUHhub3ktSVZOQmdrUkFwS0hfZkpxVXo3YmR1LUxCM0VvZmVjQ2dINEJ3QjdxdFU1RG8xQ1NUQmp3TG5hRkdJWmdPS05jVlVfbk53bjRSRlZxSzFPYWQxcS1NTVljWFZObGRueHpyTWYzaTFrQ1JXYml4amJzWjY0aDJJSUlyQWowdWZOdXJKQXhMQ1ZoMDh4aUp4aW0xQkNiU3YxRUNLbXZsYm1ucXZ1RDVxcjVVTTFEVHh2SzF3SzBFcXZyQUliQkFrVlUyZDNEUQ?oc=5>
+
+7. **新台幣連兩日走貶，市場解讀為資金避險與外資調節**  
+   摘要：匯市走勢反映近期風險偏好下降，外資部位與美元動向成主要牽引。若匯率波動延續，可能同步影響股債資產評價。  
+   來源：<https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wMWlsTDlNTUxxWjk4THpSSmdha3liT2dmVXNNU3VXVWlTV0ROSXh4angwLU1nWm9vckJ5dS1VaHR3NEhHUDV4eDVfMVpENnVvY0xlR1FPSkdZdW5wT2F3?oc=5>
+
+8. **台股後市聚焦 35000 點攻防與國際風險變數**  
+   摘要：法人普遍認為短線將持續受地緣政治與外資部位牽動，震盪整理機率高。中期仍需觀察企業獲利與政策訊號是否支撐評價。  
+   來源：<https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYldxZFJPaWI2NF92X2Q4Z3dRdXRvV25yQnZGTW9meWxrcmg4LXh4X2RCY3RwVmo1eVlTWFNqaThXWXNGU1JWZjFlVkVIRDRHazNadUlXLThzUdIBX0FVX3lxTE1QT2lrbzlOVWdDRjRMbFZybmZreHdBMF85UUtQZVFtaTFac3h5RTljYXI2aGtqek14d0t0c1pqY0xRVE1vSHBQN3hadHJVeUF4WnFGUjlOeWxMTUJ6Zy1V?oc=5>
