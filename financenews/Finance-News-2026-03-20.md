@@ -1,0 +1,33 @@
+# 台股與金融新聞整理（2026-03-20，Asia/Taipei）
+
+1. **台股重挫 658 點、失守月線，塑化族群逆勢走揚**  
+   在權值電子股壓力下，加權指數明顯回檔，但部分傳產族群呈現資金避風港效果。盤面顯示資金短線從高估值題材股輪動至相對防禦標的。  
+   來源：<https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pc1lOUnhqcGVqbm8tTXJRVGJEblRGY1hDTDVYOUlnajIyY3FBTHVuUW9RSl9uTHJIWEROSmM5NUpxaEYxRklIZTM5OWpTcE9CZ056czRvekdkXzN4OUE?oc=5>
+
+2. **鮑爾偏鷹談話衝擊風險資產，法人稱台股基本面未變**  
+   美股震盪外溢至台股，市場短線風險偏好下降。多家法人仍認為台灣 AI 與半導體中長線需求結構未被破壞。  
+   來源：<https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KLWVGakNTUHlWMUZTUGxoNTBINjIwNmFqV0VEb0Y4RWJMZ1RWX25WckxwX0hCN1poVWtEeXptVG04VzZUQlRDY2xPTHFvcHNxX0HSAVJBVV95cUxNSi1lRmpDU1B5VjFGU1BsaDUwSDYyMDZhaldFRG9GOEViTGdUVl9uVnJMcF9IQjdaaFVrRHl6bVRtOFc2VEJUQ2NsT0xxb3BzcV9B?oc=5>
+
+3. **央行理監事會：政策利率連 8 凍，貨幣立場偏緊**  
+   央行延續利率不變，並對通膨與外部不確定性維持審慎態度。利率路徑偏向觀察數據，市場對短期降息預期再度降溫。  
+   來源：<https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Q2RmWU93YUN5TXRaV2dKRjNtNlNWTi1wSEQ2VFEzMHVJWlYzQm1va1Y4bjVvVUhmRWt6ZDF0MGJfNno3azhRb29yWFAxQm5PQ2cydDE3NHNRQdIBX0FVX3lxTE96WkNiTnFEQ0hsd00ydE5nMHVJeWpOcVRRN1B0SGs5ZVNYS1A5ZGxKcEt2bUFPYUpCc29hLXFoVVVOdkNGbnlGTlg3YjNiemZscFk5Y2g4QmJjRGRLQmxB?oc=5>
+
+4. **央行放寬自然人第 2 戶房貸成數上限至 6 成**  
+   在維持利率不動同時，央行對選擇性信用管制採取局部調整。政策訊號被市場解讀為「利率穩、房貸管制微調」，對房市與資金配置影響受關注。  
+   來源：<https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ra2pISXhqZ0FfcUVfMFh4bW1DRFdNNTRKOWNTdi1obVlQQXI5SU80YnJSNE00Q2tPbXJCS2hIOElEd2YyRDVJdDhndGdNbzR6Z3dlQVJXVjJTX05rNEE?oc=5>
+
+5. **外資與自營商大幅調節，台股千億賣超壓力浮現**  
+   法人資金面明顯轉保守，短線市場籌碼承壓。分析觀點多建議以分批、控管部位方式因應波動加劇環境。  
+   來源：<https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CSTBNM3E3Y2FoWkd0RVJsUHQyMk9WR1EzN19iOXdqQ1o5NzY3dGR3VXM2UWpSNVgyMkNKY19XdWFLMGdWbl9aVmkwMl9LMGtLdGhJem5CSHlMU0RRVnFz?oc=5>
+
+6. **台積電開高走低，台股一度翻黑**  
+   權王盤中轉弱加劇指數震盪，顯示高權重個股仍主導整體盤勢方向。短線市場對半導體估值與國際利率預期高度敏感。  
+   來源：<https://news.google.com/rss/articles/CBMi7wNBVV95cUxQZVJVMk43VlFXaHl2SXI2ai1abTNtbC10UDFKMndhQkd0S2J2eUxsbm5EbVJyVTFKcV9ZVE5Rejg5MW9MMHNKMDFoUG81aVJUYnBpdUlPSnRlREx1ZW1GbFJOWlBQSGxOQWl1dG9iY3M0YklndlJQdG5iRXUwZ3g4b2gyb1hjc1JjTUJ6N1NHM2xMdEg0STBZUmlBQ3J1TXAtMlA5VWxtUkdEUWk0SzZrTVlnR3hna09XR242ZGZfbzRnemUyNUxkV25fcF92MDdoUW9qMHpyVGVJbnpqQ1BrWFJLaXg1cFZhWDZtTlhka3R6RjhDclRKclVTdlZLOGVxV1ExZ3R5cXVnSlQ0WTdNenZsTktKZUJEWGRic2V1VlJWd3Zmc0FiRVpXNl8wcU5qbHc4allpLXdxZ1NDZzFuTFgyLVZjUC1INlhueHlzSndPaXFaWlMyQ2tMWlc0NkdxZ3dsaU01R1FXTXlES3AwbTBtSjhlLVU4ZDItM1JrUEJwUWFJc1ZYb2pwQzkxSDVZaGtUcFNYUloxUXdhcHh3Yk1xZmE5RjJtTU9PUDk5amY1cFlodm5vajdTR0hQTXhabDRTZkZTS0hvSjFta0NDQkpMYnhwMUt2eTRqY3JHOGZNdXYzYXJvcF90RnZpMnM?oc=5>
+
+7. **美股重挫連動台股，法人稱短震盪不改 AI 長多架構**  
+   聯準會偏鷹與油價變動提高全球市場波動，台股同步反應。部分機構認為若回檔擴大，反而可能提供中期布局窗口。  
+   來源：<https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVDJiaWo4bjZjek1uR20wRXlMa3NicmZ1eWh4dEx3aURJcTBBNGVTQnlYem5ubTM0enE1N1dRTGNta2t3X3FBRUpESG5zeWE0MjMtRHp0QnNiZGJEeFpfVzN0ZjI5Z3FpUmpURkFOb0w2dWJUQm9OZzBpNEpwVDYzZHdySWFscFBqQVZWaVpPNFc1bUp6S3hmNDFEZ2FCeFlGa3FrVWZBVm0tSm1JdUtxX1ljUWhsbVZzcFU5V18zNGRhbHZiMU9xNFp6NWxwY3RqRXZCRGU1WTZ3R1pPRTAzWVFiY3QzWjNYQW54Zjh2RkFPakV4YmNuM3lqZm5MY05aWEpGWW1FVEN4aFh1aFVBTmZPWnBpUWdGYjZjMU5FbEItNXpYaHVaMWtBM2RkUUhpRUsxYUNtZko1ODJQX3pIVW5ESzhYTjBNQ2RRN0p4emQzQnhpbjVGRHo5ZVQxNllfQjBMNnFR?oc=5>
+
+8. **美軍參戰消息引發市場情緒波動，外資聚焦半導體短空長多**  
+   地緣政治升溫提高風險溢酬，但外資觀點指出 AI 與半導體供應鏈的長期需求仍具支撐。市場短線更可能呈現事件驅動型大幅震盪。  
+   來源：<https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fdWkzV0ZpSTRsM0F1Q3lpeDREY2FFUDJJR3FPbGlyQ3dBWlAxWVNsMmlDQzMwV2UtVnZoMHVaaDRERzNnaVlOWllEUk9LSENiOWfSAW5BVV95cUxNSDJFanh2dTIxTk1pcFlTR0R4NHBnMWFSQlBBa0s3b1hKLXZ5VUsyeC03Y0ppbXN0ZlBLRDFBU1pMTUJtNkVuWm5FcnhPZEljbGdKZUVURmZBVk15TThWRjlhM0M3WVJleHRWQkg0Zw?oc=5>
