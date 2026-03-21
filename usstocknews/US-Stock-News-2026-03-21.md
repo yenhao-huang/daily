@@ -1,0 +1,34 @@
+# 美股與美國金融市場新聞整理（2026-03-21，Asia/Taipei）
+
+## 1. Wall Street ends muted after strong jobs data nibbles at Fed rate cut bets
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMingFBVV95cUxQVHF3czNHSlNoeWRuTU5saFUzcVBaSGZqRGVYbl9CSTRzWlRoaTZERG8tX0JjWXFkaW5kb1pjby15Rk5ZWl8yMy1vZURySXJlOElIZTV0akxaWUtnclkxemZfWVN6WUpwY2ZVY2dSMHlRRkhrVnd0Y3FoRzRPUkp6Qy1tVkF2YU5pTVpPQWF0MlpFdW9GZk9sT3VRT0JIdw?oc=5
+
+## 2. Nasdaq ends slightly up, S&P 500 flat as Fed brings little surprise
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3hEc0NJdW1iTkctS2FITkpqWTZOSXpYaEd0WkNjMkE2endwMkJfTlU0cWU1Mm5nQlZaRzVrRW5CZnBBUDBzVU81OElTS3djQWQ5WVVQXy1mUEZxZG40cXJMZXhiaThKNmtUbGRTaG51dGUzRjJ6VFJMaExPZlBaRlhlTTROak82dE9aZ3dCMm1aam1MSFFoZGVJVVY3YlQ4LS1XaXpoOW5vVVVKaVE?oc=5
+
+## 3. Dow futures rise as recession fears grow while Wall Street awaits the one thing that could derail Fed rate cuts
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMipwFBVV95cUxPai1vVkhDUHVsbXRZaVRpVFYyUWg2N3pvN1BZRG5zVGFyVmxEUWNkZ24yeExCQWpLd0I2QXJnWnBUOU5kVFdVNC1EbndEcVhfNHA0SXdaZUZlaktpMjcwT2psNGZQUElDZ2lnYWJrRlUxaE9PaFdlOG1VcU9YT083NFdhWm16X3lUMTNnRjM4NHJKdHltVm5ITFB1TEkzeGtwT09rRnZvTQ?oc=5
+
+## 4. Wall St closes lower as investors position for busy week of data
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHFHYngwVmdkekJlbXZkdWt6TU01M1B4YUdtT0x0LTRNN3RkSF9GUWZyemxOSHU2UkcyTU16bHBEWHpsQ3VYU1NGZjFRY1RHZDRyN3BaSjF3NzRUWGY4UWQySktpbGV1UTJDTHBDR2hXUllrSl8tY3o4OHZWTUVDX0FnNHkxRWVwZWxteFJ0ZW5Qa0xSUXdmbXQ4cw?oc=5
+
+## 5. Wall Street closes lower, pausing record-setting rally as earnings approach
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWFqWWJRMGZaTkhROVdwN0tBR05mcWk0UUJVTml1eVBTR3lkYkxncGE3Z05wb2hnRF9XekRnYWZzTzF3SkJnUXZOMWF5Tkg3bkd3REg5eVFDZU8xT1BlTktWV20tMlRnaG9EckU2SmpNamU3dVlTdlFIQTk4VW1TdnpPS2w0VW5wTHB5aXNmcjZPdjlKNDNzME1BOTBoWTN2TzlabWJQUnlyV29FeHJJ?oc=5
+
+## 6. Why is the US stock market sinking deep in red today? Dow Jones, S&P 500, Nasdaq crash as hot inflation da
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMitgJBVV95cUxQNmlUVk5sMGdQNzg2TnFMLXNmR1VjN1FuODJGVjVyTFNVcEdNX3F6NDV4bWZPZURxaDFuOHpNVkRsd2FOM2VPRURta2U1UlR5QVNEak50Y1YtRlhjNFhFMnoteFZ6MXJlcVZaQ040QXFjUnBfWjhWMm9TcHFVbVJwY0o5Z0hkdkJnUXZmWGQ0cU1OXzdmbW5JRnRhM25rWklPNlRuVW5GRWxRN1E4UWdSek9Cb0J1bFJnUzRhVm1tMUM4aVUwSktfRTZXN3NacjFOZU9tMzhYZmZsQzlnVVlncVpnbFc2WFNmX2czdlRMODYzcEJYMkFNS0x3REFsVkw0Q2JkRDEtM1kxWWVsaTRGamFsOFNuclR1QndkY0pEV0Voa1dSS2NBN3BqWWpnVHlJRE9tNS1n0gG7AkFVX3lxTFBuQkhpb0otaV94Z2VFb0ZuYVJ2WnExbFh5VTk2bmtjWjR5dTZUcUN2M1pSdGpGVHlUNFBacVNtOV9qbHJBT0trYmpEM1JWMVd1LS1vSnhhaERiOEhMbm1kSlpvQURCbDhac19oTHNFd0sxOUl3LUwtek9odl85OUtLemxEcXFQVFVqUzBMVzllaEgxMVVGWF9FekNaYXpMTUw3ZWx5ZmpuNnQxd0I3SjJHZThkcFZmeDN1OWpHZWNWYmdldWV1SDMzYTZNMU16MC1aT2VnQWdsWVRZdE1BMUFEa1pia0ZNazZySF94eGt5cGVoN1N5WXA2Nm02a3pFY3pCVGJGVnlEd25BaVZOcE9hRmpNQnBldzVFeUNDajVHeDNLeUF5WVZfQlRXTHZIY0Z6STAwdlRHbGtxYw?oc=5
+
+## 7. Wall Street indexes end lower as investors weigh Powell comments
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2g2ek1pUlRiaUMtSVhRaVFQTW83cUFWLU1odDl4MXZoZGV6TzVZNWdTdVZUangyNC1kOVlMMGZYVkxCVnlZXzBBTFBMLW1EUHFDVGdCamlsTUsxVnBwNlJFNU9VSzRtcGpXbUlrM3h6cXU3OVQ0cnhCWW03cWFMVmFJWWtGel8wcU9jVGprWEdWZ1pPQ1JlMHYtbEdfV3p5NXVWRTFfaXdHYWZ5aUNGQlhUVQ?oc=5
+
+## 8. Wall Street Cheers Signs Fed-Rate Cut a Done Deal: Markets Wrap
+- 摘要：該動態與美股主要指數或權值股表現相關，並影響市場風險偏好與資金配置。後續可留意 Fed 政策路徑、通膨與就業數據帶來的再定價。
+- 來源：https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFg5Tl9zNWhZcFNFekVwSUNJWW8tblBZa1F1ODFONmNSUkc5WHJtVGFjeURnc2pXUThHZnVXeGJicnpDMFM1MHNCUmt6TkFSWFM4dUgtdkl6NlZxYXVuOTVqeUd1UW40U0t2OGdpWEZoMG5NTkctYy1TUU1CUnpIM3FsdzBhdTVOdzhkTnhIRDlzSXdH?oc=5
+
