@@ -1,0 +1,33 @@
+# 台股與金融新聞整理（2026-03-22，Asia/Taipei）
+
+1. **台積電翻紅帶動盤勢，台股午盤回升約 67 點**  
+   摘要：權值股止穩使大盤由黑翻紅，顯示短線資金仍聚焦半導體龍頭表現。盤面結構仍偏震盪，後續量能與外資動向是關鍵。  
+   來源：<https://news.google.com/read/CBMiqgJBVV95cUxOXzIxQVZPOTNjV3VZaUxCZFNNcHE5VEdlenNVdHFSQndCbkZ4Y2lzbzZrSjhWQWlUVjQ5TnBWS0Q0M1Vfa1k3TXJwZ3UtYkdDcHgzVlJNLWlZbWhxVUUxV3g1R1JHbFJnYUFoMHNZNWxKdnB2OVNHaHhId2diM0ZFLWhHNHFqdDJ3QXBmaUdjZmFVZDBKaDJhaUhJWGo2bFpHSFFEeElzQW9hZkU0RUxwTDdzbUZELUJ5WTN6QlR2UmNYUFJpQ01uR1N1WTNDLWpLbHozLUpMMG8wZUdKSDBfY1BJQTczS0kzM1JEay1FVVAtYmNOODl2U1lkUm9PTkR4bzY3WXNUMlhscWI1cHpBWVloMEpBQzgwR1lOaGdXTnFjbkNCMmw5eWpn?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
+
+2. **台股震盪下外資週賣超 1,655.9 億元，ETF 續遭提款**  
+   摘要：外資持續調節使市場資金面承壓，被動型產品亦出現連續贖回。短線需觀察外資期現貨部位是否同步改善。  
+   來源：<https://news.google.com/read/CBMi1wJBVV95cUxOU3FRVjNNeTlYOFcxeHBIZXB0TWYtODRNdTRNblUtc1o1U1EtUHZ2aGxoSlNpdjc0QlAwaXFiWlA4NGxwY1dIdTJpR2JrSEdvQ0pXeUU3b3BqWF81cUhhMTR0cG5jVUw4SXJPSEU3U1pZSmcwR0k0dWxEUU9abVVMb29Jb25sNktIYUFFMkl3UUkzOUdMNERIOFNVcm5JUlctLTBlMVNKc0RZRWd5OFh4bzBjTzJVcGljTEtwRzk1T1M5eWJqa3VpUVVxSjJ4NmpDV1pvaDRkN0tjYUh4Q0FxTXNaMTZOdDJUQ3JaUTAzNk02VHF2Z0FzMjE1N1VvRWF3TUZOR2Z0Tk9mUlNlM29hZ3lzQV9ub1NubmlfcFgxQ0RnWlZhZVVZVDZjYjhUWkp1dWNoeDJwenpHcXR6THFCZExLVkdaSHpJUVVER25ma19aVnpaUWZR?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
+
+3. **台積電強彈 30 元，台股一度大漲逾 500 點站上 3 萬 4**  
+   摘要：電子權值股領軍推升指數，市場風險偏好短線回溫。惟高檔波動加劇，資金輪動速度仍快。  
+   來源：<https://news.google.com/read/CBMiogJBVV95cUxOb2VKY3E4LUpZZVEwRUtaUUF2NnhLT3d4S1V4Y1hfMWNzT3Bzd2hFM0J4MmZrQjE0cVNFSzZMZWw4RktBbG1jYWVsVUQ4Q2hKQTdwcjg0TE02WjUxeXBfbmhleEN0ZEQ0UGloRGVNcUhYYU9Qc01aVkhLSllNR2dTaV9ZakhYbjVBc3lDWlg0VDhldS1ZLTdNd25ILTZZR1FlMzVFZDRrZlI2SXo2aGZ6aS1va3FZM05lTlhaX3A4djlkbEpfOVZLQkQ1YjNwOHdUTW50VDRMb21TQ1pWMnRLQkk2a2QwdUFncUQ2aDBoTnY2MWM1SXJLN2x4YXVBZkU3QnZpLXJqVHVnZDQzZWJ5VEwwZW5LekRxSU9QUzAxRVowUQ?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
+
+4. **台指期夜盤重挫 822 點，市場憂下週開盤跳空**  
+   摘要：期貨重挫反映避險情緒升溫，國際股市與地緣風險成為盤前壓力來源。現貨能否守住關鍵均線將影響短期信心。  
+   來源：<https://news.google.com/read/CBMiS0FVX3lxTE55WVVXODltZ1hlZm9yUllQU2g2bmlNY24yNkg0TU9NeFVFamNQTWMzVzVjZDFKa2kyR2I0OGpXUERnejJHSVExTnR3TQ?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
+
+5. **台股單週大漲 1,808 點，市值增逾 5.8 兆元**  
+   摘要：指數周線強勢反映資金回補與權值股領漲效應。後續若成交量無法延續，漲勢可能轉為高檔整理。  
+   來源：<https://news.google.com/read/CBMi5gJBVV95cUxNY0RXU1pxVHZ3MEo4Tzl1eFBKSlBGejJKTWFDVjBYLVZLRFpFNDVDVWF6QnIyeklGZXktU2JkdnY4NnFWcVJQcUhlbDk3NEpmbGxtWGVmbUtEQm5GYXY3MUIyODk5YnF6YmFNY1pwMXBlT1BYYVpkRGlyVWRFcldJNWNIM0ZVd0xhZjB3UlBjV2xYeFdLV3ZDdVZWWk5YVmVja2FPTmVmcEtScDhfYWowaFhyTDhyX1NBcVhrcGRmWHJ0eWw5QjZ1Uy1jRVh3NzA3c3lsTEMwXzRzQndyTUNxY3lfUmdfQ0JabkVncC1raElaTjdHZHpLZ3Q0V0gxUGxPZzJrb2NiUTVwX0NwYVpuYVZrbGxDRFBQOTV4dDVSN2twSU94SWVOS3hOZEhSWGNQMFFiRmpiWXZ3Z1dzWGJVRy1rYUJhdGZhMkZ4V0lubHc3Q2t3RVl5QTZfODdwR2FvZmpTNkxn?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
+
+6. **投信看台股受美國選舉變數影響，整體仍偏震盪向上**  
+   摘要：機構觀點認為政策與選舉題材交錯下，台股中期仍有基本面支撐。投資策略偏向逢回布局、聚焦高獲利族群。  
+   來源：<https://news.google.com/read/CBMiiwNBVV95cUxOM1VmMzNTaHFOeXdIVE9kYVZCdThZeS15ZmZncmF3WWg4MjZaQlNrellNZElkU1hNNFRDNkZzelh5T0IzTGZZY3VTZzhoenlaSHBSZ3kyT3hlUUVJN3lsckEwXzBfX1dVemlmRjdZdWZ4VjJqOWV3dFlQZXh3SElmV0FIMy0xY3lnMEI3ckNnLVhrV2JSa1c5TlJfYWt6aHJjbGM3QkkyRFZNSXlUcElEWVNwSlZLaFRZa09hSTk4WUNLa1gzeERWRlBWcWsyTko3RXl3U3oxdzYzYjNGMlBYU1QxalBBdndpR1dzem9WLWdSeGdDNFNITjBkQ1hDSUtxenhqYkdnbEF1a1pIdkVxbElhSWc4NS1CZlhudGVQQlItOVFiZmdaM2hTdE1QRHAxTGUySEw5VGo5R3hZT0NKaTB6QU5Pbmh1QVJsZ3B1VGxjSzFhT3VNQlNjcjUxNjlBRXdTZmdla3l0bXN6c2xWRlZaSkcyTmFZSnBQRzZuQlNqc3lJOTB2dVhuaw?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
+
+7. **軍工與 AI 題材股受矚目，法人點名族群輪動機會**  
+   摘要：在政策與地緣風險題材下，軍工與 AI 應用鏈持續吸金。資金輪動快，選股重點轉向接單能見度與評價合理性。  
+   來源：<https://news.google.com/read/CBMiWkFVX3lxTE9KS1ItWFVzOTNkXzNtLUc2eURLYWd0SDdlbkJNNFl6b3hVZ2tQbXNaenM0ck1VLWZTalRzeHdxYW13QjQzX3hKNDdHYzFhUllZNDZ6bklGbldPUdIBX0FVX3lxTE15YzlkTlBya0RvWlBMWnB3bnUzTThBTW10eFoxeGxjM0h5Z2NhQ0FuVjU1akYtdjZUX1EzbzdyU3g2cXNRX2lxalFqM0JhWFBCV0xSUnFhVlMtNDJlSGs4?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
+
+8. **輝達供應鏈題材發酵，台股相關概念股走強**  
+   摘要：AI 伺服器與高速運算需求延續，帶動台廠供應鏈評價提升。市場關注後續財報與資本支出能否支撐高成長預期。  
+   來源：<https://news.google.com/read/CBMi_wFBVV95cUxQbC10WGpDMGZGRHh1eGlqSHdMSVYxUWJEZWM2czlIdy1Hc0RYX2lheGlxdFpaQkR0Vk5PWnN3ckhJeWRVSmszSUxmV0QyS1dEbS1XQ0FucG96WVY3V2E0UG5SbVowWHZYRUNoVTZzbFZVdHR6V1VsYkU0ZEZhVjNaUjMxZmNSMDNyaVB6Y1RiVlQ1aGt2SGliYXU3Z1RMVVdJbUZoS2lXSmQzNGcwRnNJM2t4cl9pQ0tkUFpqNUhfSDNra3c3N1VzSXdVY1BjVW1KTmNtMGtOcnJVekFXWWhRNmQyR1hrR3ZCaUFTdE9XWWd1VGNqb094Z0ZvVTFmaU0?hl=zh-TW&gl=TW&ceid=TW:zh-Hant>
