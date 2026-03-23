@@ -1,0 +1,41 @@
+# 美股與美國金融市場新聞整理（2026-03-24，Asia/Taipei）
+
+## 1) Fed 維持利率不變，並預期通膨可能走高
+摘要：路透報導聯準會按兵不動，但對通膨前景措辭偏審慎，市場對後續政策路徑更趨分歧。利率高檔停留時間可能拉長，對成長股估值形成壓力。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGFJZ2Nzck85cDFZYW9yY3g3SjNQd1dXdDlwZ3pKbGRPdUVSbXJ6RXZlV283aFpLdXhmWlRTX2RmODZwU2dqOFJwQW51Vkl4TFo0bzVyclVDcnd4WVcxNnBLMnhlYXBGaFd6U0dZMmh4elMtV1JlRW5YTXpzYW1Wa29vWUFreURBXzBxTzg5U21fNERRZ3B0Qm5EaFFGYzNNQlJnOVlR?oc=5
+
+## 2) 市場押注 Fed 升息機率上升
+摘要：路透指出交易員對「年內再度偏鷹」的定價增加，反映能源與地緣風險下的通膨再抬頭擔憂。債券殖利率與股市波動同步放大。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTRydE1MendJejRFdHhHSkF1dDB0bXZQb0N2YlZaek1FUm5UVzc5NTAydm1rTHlsSjBscnVxa1Rjakx2bDJSd0hUWmVjM0NOTWVEUHA2R19POVBNM25xN2dBaG5hdTdEWWxzLXRzSjBmTmdfbTRGbWhUVDJiN20yS2FSeTZKWjQ?oc=5
+
+## 3) 華爾街先前大跌：中東局勢推升通膨憂慮
+摘要：在油價衝擊與地緣風險升溫下，路透報導美股曾出現明顯回檔，風險資產承壓。市場焦點轉向能源價格是否持續抬升核心通膨。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0Z1bXBoUUtPbDhHQjBSbnFKMjkzWjFkbVg5Mm5VbVAyb2NReW9YeXpTbXFFbUlIZF9GZmplRFdTVGJueF9VNEhMLXpUXzhrZjd4bGJSR3Rwc212c0RqTzlFUjEzeEtpazZreUxiU1IzV3ZfX0padFg0QXpKcU1MVVc2M2VvWTU3Y2ZpazRkQm9hZC1peXdMb0w4aHlnV1ZHenJYUjRucnRkOUlYQUJfbXNGZUw?oc=5
+
+## 4) 華爾街後續反彈：資金回流 AI 科技股
+摘要：路透指出在政策訊息與避險情緒短暫緩和後，資金重新回到 AI 主題股，帶動主要指數止跌。顯示科技龍頭仍是震盪市況下的關鍵風向球。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkdvY0p2TDkwMXAybzVGc044VmVhRW55dmdhOVFGUFBXZUt0QmtBZnRnMzZMMXdwTVRrM3JybWM0MUlWSWFjbGRLVWY1OWpxeU16c2hLVTJvc0hSQUcydl9pRVItZ3lqOEY2QVp4S3psMWpsRV9HYXpNSEcwSFpaS2hxd1ZyaHdWWE9vazYtczExcG82Q0s3RTdIb2FOWFk5ZTFpdkVhaHF3N1Rxcnc?oc=5
+
+## 5) 美股週度展望：伊朗戰事與能源價格恐持續主導行情
+摘要：路透「Wall St Week Ahead」指出，投資人正重新評估油價與企業獲利的敏感度。若油價高檔延續，市場波動與防禦配置可能繼續上升。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXpCQnZlZDV4QmVnU1lKU3ZxRlhZVEg1Q1VlM01BLWhiLUtzeHJVdlRzazcwSDNLdVlvZC1mLWEtT1NSYlZnVE0zNVlzekZQbS13OVgyemVicEtNZEhyZGpHMnZwcnh6R25ZaUdSQmtLdng3UEsyNVZ1d0RTQkNpUHNkaS1CbFhYYU1JZ1hiMUF1aUQxNW1ta0NZcjVOWlVoQTh2aHNJWEFKTDViVl9YVXdCallnSmRMVzVIb0RpdjA?oc=5
+
+## 6) Super Micro 涉 AI 晶片走私案遭美方起訴，股價受壓
+摘要：路透報導美國起訴與 Super Micro 相關人士涉協助對中走私 AI 晶片，事件對供應鏈合規與科技股情緒造成衝擊。地緣科技管制再度成為市場風險因子。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFLYkdreFlDTjNjdVdvUjdwRnA3eWtxa3hXZTdIMW1WQUJ3VXVNaDY1emJFTEd2cXVaLWlJWG50cklxYW1YdDRpSVRfWkJJVXlNS01EWmoxaWZVaURhNmN6akRIYWtaWVg0TDZnMVNqNUtWUXpmbDI0cFItUERPbmtTVzcwdGtUTi1yTHJfdFE1Ui1CUGlOb1ZNazV6SDh4OGhGNw?oc=5
+
+## 7) Micron 給出強勁營收展望，但高資本支出拖累股價
+摘要：路透指出 Micron 受 AI 需求帶動，營收指引偏強；但更高支出計畫使投資人擔憂現金流與回收期。AI 硬體鏈「成長與估值」拉鋸持續。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzNUOFJSSUtqMEVvcmJOaWFwWDdmMTAtZERCdkN3TnY5OGcyOGFGLVZVeDV3RWd6QTlIWnNoNDlNc0k2QTMyUWJqTy1jd04tNmFVLTZTTkI4ZGJlbmpKM0FhVGhLdGFCclNjU1NGenk2SE5pSTJCdnJMdm9PYTNUQ0xGbU5qZnlaMUpuMWR0dnNSZw?oc=5
+
+## 8) 國際連動：美歐股市一度因油價回落而反彈
+摘要：路透提到油價短暫喘息時，美歐股市風險偏好回溫，顯示能源仍是近期跨市場主導變數。後續若油價再度上行，股債資產可能再承壓。
+來源：Reuters  
+連結：https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjU3ekV2ZUtLQk8zMzE0MGZ1UE11cTh3bEdTSi1penNSODM4ZXR3bjM1RFpRU3VZVE9xcGgycUNTNnFyaUpmSEdwM05SSWs3YkRtaG9rY1JZRERqcXdfc2pHd2hNM2hTZzJNR05kMjBHekVDNkY1VVJWelpkMU1zZldCYw?oc=5
