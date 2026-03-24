@@ -1,0 +1,55 @@
+# 台股與金融新聞（2026-03-25）
+
+涵蓋大盤/族群、個股、總經政策與國際連動。
+
+## 1. 中文版-最新消息-新聞稿-115年2月金融情況
+- 摘要：中文版-最新消息-新聞稿-115年2月金融情況 cbc.gov.tw
+- 來源：cbc.gov.tw
+- 連結：https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSeFpqbExNbjFNWER5OG15RmtyQndWa2pLU1NUOUZWeHBNbDRKRGpVU0dMYlRxUHV2SVZjNm9CWV9hRUtBcjREVV9uU1F2V3pYUWVFTnFlQWFQV0U2ZmdGSGZR?oc=5
+
+## 2. 總統：打造「亞洲那斯達克」
+- 摘要：總統：打造「亞洲那斯達克」 經濟日報
+- 來源：經濟日報
+- 連結：https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EeS0xRUdYWVVyOXJLX21lbVhMX21NY1E2elUzeGF2Zmc3aUd1QThzNkRaTDVwbTlpTXNOdE1ZeUlJb1NDc3NsdS15LUNoQ3loalZIN1J0Rkp0Z9IBX0FVX3lxTE45OWV6M2FJT2Q4Q0ZrcmVOV3lNWDZGOG4yWGR3QnRhaFNDSEw2Z0FtaGktc0szbmlfVExJNTRDcmdBemowUkJWVW5TV2dOb2ZBaTlNYXFESFdFR1NDNEhn?oc=5
+
+## 3. 私募信貸正在醞釀「金融完美風暴」？外銀建議「先按兵不動」
+- 摘要：私募信貸正在醞釀「金融完美風暴」？外銀建議「先按兵不動」 Yahoo股市
+- 來源：Yahoo股市
+- 連結：https://news.google.com/rss/articles/CBMiqwNBVV95cUxQVTFUQ2x3NUtDUFlkd1ZZaENfSWRQbFMta0FlRjFGa0Uwcm9aTDREWkNIQlZWaG5ZV0lTa1QxN01qcHB5NjRtNVFzYWxUQ21XYVYxV3BsaGxaY3BrTzYteHNTMFRrcl82dVdmVEtPVGI2aktVN0tQaEw3QTV1dEpsOVRuTTBCa2ZFWTFfekJ5V1B2REdLblk3RXNIUjF5dUdEUW0zdjE2dEo4VTBoTFRFMzJDeHl4S3RKSnBsblZrRUI3QW15VzAzRjRpX2dZODVfUElzMTEwS0lOSzRWbzI1UXRuUTlmMG1GTjFaOGRTUU01R1FqSFRkd29RUkYxeG1xNVl3Z19NTk1vM2ZiTWV3Zy1vd29xRmdRNWJHaHVJOUx1MmN6clNkLTRmVUJibEVmN09BbmVlUlNRbVJtcl9tVDBqUmtvNElHZjJlck9WMVl1bm1zRVJMRjhDMEJGQWRVdU40LTRxVGNVSnFSV2tsSVUwUml4Smp6eUJsSWpteXUyTkpva0dzWlZpYVRaTzlMUmxfUFEwUk8weEhVUnN3c3dXSEFpQkVDamtv?oc=5
+
+## 4. 《3/24日法人賣超》外資賣超前三名：康霈*(-1830張)、台肥(-1385張)、東洋(-431張)
+- 摘要：《3/24日法人賣超》外資賣超前三名：康霈*(-1830張)、台肥(-1385張)、東洋(-431張) genetinfo.com
+- 來源：genetinfo.com
+- 連結：https://news.google.com/rss/articles/CBMibkFVX3lxTE1TUTFDWWZSWnFRV1I5Rk5SR25IYi1WYnNCMXRsNWFYdmtidm1HYVJBSEV5RVZtcU1LaGJZSTlUYU1XVmp3Q2Ruakp2RFN4VEkxMkI1WmwtTTdqOThaOENJQXU5eHFLZzNlTnAyWnZ3?oc=5
+
+## 5. 中國文攻武嚇 卻不敢對台灣半導體產業下手 原因曝光
+- 摘要：中國文攻武嚇 卻不敢對台灣半導體產業下手 原因曝光 自由財經
+- 來源：自由財經
+- 連結：https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UdjVpNUY2UVpnRWcwaWFaSWpOUy1HMjRJVUpjTVlfb284MjVJdnlDQmI3LXhuR3dCZWdwckhMa2F3eERHRUtNUGJqaHR5eUp4WV9jRGJ1VVJOdmlpUHdj0gFkQVVfeXFMT3NoSXVmOHBNYTd2V21pZlU3NUFJaFZlZk5weXlacnFXcHpKc1VmakNITnRfVWFsQUNQN0I4ZGFGTXMyTUFNdmhRYnNhc0RXblJpLXpOQklYRU1BemxDLTVFZ1RYRA?oc=5
+
+## 6. 外資／上週狂砍1655億!台股籌碼大洗牌 卻狂買這3 檔讓人傻眼
+- 摘要：外資／上週狂砍1655億!台股籌碼大洗牌 卻狂買這3 檔讓人傻眼 MSN
+- 來源：MSN
+- 連結：https://news.google.com/rss/articles/CBMipwNBVV95cUxORnVFbnAwblFDNE1lNFhpRE1IMWJ6OUN3UUFRYVhSZkFxSXIxdHlJQ00zMkJvdWZfR0lNSXBlVTkwMHp2Q0hUWVB5VXl3UnRVd0czM1Q4OU92RWIwSUVYb3VUNmo1M2hVMlFpR2Z0NVA0ZXEzc2FOMy1CcmF0aFJBaVl2Wmx1RS16ZjZ2V3dudjVrUlROS0lmd19oYXRpR0ZoYnJYWDF0dndaSXdpOGg5RHp1SzhpelJnSzBrM0ZlNTFqQUszM0NIZUducHJKOXBkM01FVDBfR2hwaENVdy12dEgxX1ZKaXp5MHUyaEx3cDF3dTBnTk9IVm9MZV9ZRmRZTVdDdW9Nc1NZVElTWjJaSVk5NnVlTmtUYXFubE8zX0lZZEJyc2MxcjZwUG44WWd3dG1rQl9HZUtXa0JLR2JqaTF5SzhKQUlyczh6WFZ3cHRQUmxmWHAwQUZYd0dOOVJuNTFsc21Mb09ENjR1QW83N1RUNEktTmwzelVETEpEbGltV2lEQjNrS1lyZkZvY3JFVE92blZWRHN6QnRKTnRRQ2dpTGtQNUU?oc=5
+
+## 7. 「TACO交易」尋求避險！台股ETF受益人不減反增 00961、00922躍升資金避風港
+- 摘要：「TACO交易」尋求避險！台股ETF受益人不減反增 00961、00922躍升資金避風港 news.cnyes.com
+- 來源：news.cnyes.com
+- 連結：https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ebk5nQjZKQUtPaUEtMTNkdlZIMnlPUDhMVFdLbkNRbWZYZVZKLXRtM1R0VGtlaFdJZUp6YlprWnhsUVZmbGxkUHh2Y3VWYkE?oc=5
+
+## 8. 外資／上週狂砍1655億！台股籌碼大洗牌　卻狂買這3檔讓人傻眼
+- 摘要：外資／上週狂砍1655億！台股籌碼大洗牌 卻狂買這3檔讓人傻眼 三立新聞網SETN.com
+- 來源：三立新聞網SETN.com
+- 連結：https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMa2l5N1FPbVVEay1NOW5fRjhjQVlFdGdQT3lEOURtN0dxTEFXQjM4ek9sZHNpVkJGUHJDRHN4Qk1UNncwdUJjN0xfUTMxQW04U0JSX0hkYVjSAV9BVV95cUxQaGlEZDFjRjBWdzRXU2ZXZTJwMWI5aG9JUlExLWVOT196RzJfaDUycDNTbHp3cUlqcXBlVGFSREVnNTQ2MWxyRHRZSXBqbGZDdnhmM010X0NnRXR5VkNnaw?oc=5
+
+## 9. 外資賣超121億元連4賣 重砍力積電逾8萬張居首
+- 摘要：外資賣超121億元連4賣 重砍力積電逾8萬張居首 Yahoo股市
+- 來源：Yahoo股市
+- 連結：https://news.google.com/rss/articles/CBMiuwJBVV95cUxQeFBKXzVwbGRreUpXMGNnS1hFTDQ1d0tPUGI3OGUtZ0tLNS1RS1F0WVQyeUdQb3liZEt5cmVhSGZoMWVvbnBPbmtkeDVKYU1HUVBXM1RWN2tUVVMxMXVFdlFPaEJqQWdFV09xLXFvOXdBNWFDd2pVS0tKdXloN1dfcktGUjFVNWRJWHFfVU1yamV6TDV5eG1WSjJZbU40dkVHQWtQUThpdC0yOHU2bkJkSDVTRmIyVEE1QnQ0NkIxcl8ySXJNUDdLcWpxWE5uTmFqdHRGYTExRDFJRUdhQTVJODJkUk5HMVBfV0g5NTBVVUt5MFE4OVI3NF9KcmJFNmpvUHJnNHRXUjcycGl2S0VCTDI1TERHWDhUaUMxXzY1N1VxRVlZUEMxWGlleE5nVmdaSFdOeFM1ck93Njg?oc=5
+
+## 10. 公股銀積極評估綠能融資
+- 摘要：公股銀積極評估綠能融資 經濟日報
+- 來源：經濟日報
+- 連結：https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTWR6WFBnaW91VjVSYzJIYldQeGhrX3pFUjVqYU1QZnBkaU1JMGJDNzFqOFlHRUxxcE5xTUxWRk80cTdxeWRXdkVOczdkWXFPQzJBOVZTdzQ1UdIBX0FVX3lxTFBPdXFlLS16eGZpUFZLaXNWSlZwQmVwSDNFTFpoOGtKX0pxbVdtMmhWWlJVazBSNVZfTUJYNko2UXJoTlhCLVlfODE2bkstTUp6R0w0TG1lUWd0d1BBcDdn?oc=5
+
+> 註：以上整理自 Google News 即時聚合（近 24 小時關鍵字）。
