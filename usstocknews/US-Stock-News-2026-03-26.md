@@ -1,0 +1,33 @@
+# 美股與美國金融市場新聞整理（2026-03-26，Asia/Taipei）
+
+1. **路透：中東局勢降溫預期帶動華爾街反彈**  
+   摘要：投資人押注地緣風險可能緩解，美股主要指數出現回升。市場風險偏好改善，但消息面仍高度敏感。  
+   來源：https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkxfeUVidEN1cXNuU3FMeEhnZE8xdHZ4b2gtSjl6akVfYTl5Um5vbHZSNm5fUFdEaTRBOWpaT1V3TDF0MlFxRHNDanlLNko3UGJsVEo2ZUJlWjRVcmhGRFdFOUpOdHhhX0pYLXNSNWg5S1l1UFRZNXFla1lSMW9xcUZpZVo2TjJmZFZUTGtUNlVqMW1DNzJzdEFndkQyMFIxLUVncVp0TWxBME9QVlE?oc=5
+
+2. **路透：美國進口物價創近四年最大升幅**  
+   摘要：進口價格全面上揚，顯示通膨壓力未完全消退。此數據可能壓縮聯準會短期降息空間，並影響利率敏感族群估值。  
+   來源：https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJHZnRCY21EdXhTTGFpeHJLRGFNN2VGTFZURngwQ1owRjVPeW9RbjFMeGZMUk5YVEJQUzlLY2JjalF1NVBWemtqRV9qQ2w1TVVEYzhzZVVET1hLbG9pSDU5SWdudGl6eTRnTXVmcVVjbzFMRzBHQ2g0dUV6NU1rMDFpeXdmOWZBTEpHS2c0NUFhZUN1RmVCd2RiVzJ1OXhNTDkwT0pzRER2UQ?oc=5
+
+3. **路透：美元走強，市場對衝突降溫仍保留疑慮**  
+   摘要：避險需求與政策不確定性支撐美元表現。匯率變動同時牽動美股跨國企業的獲利換算與資金配置。  
+   來源：https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcC0yZ3llWEdfenRkUXBGR2JoRGZHSXVjUnlxWDNpYmcxTWN2WWVkX0Y4QjhXMUVKYVVEVmpkRDRaejZfTUwxTUU5QlRMV2RWVFdSZWxJcVMyNE1BcS1rUE12UWx3VGJoREdIZkpUcFFUT216N1BlVTZoVjlqekZjbV9iazhub01mX041b3pFMTQ2aEdZbDg0NF9ndWRZQVZDT2xnVEZLQzJWcmRLOVFpOWlEMlFSRVFhMDlz?oc=5
+
+4. **CNBC：衰退機率評估升溫，市場關注經濟韌性**  
+   摘要：部分機構上修衰退機率，反映企業獲利與需求前景的不確定性。防禦型資產與高品質現金流個股再受青睞。  
+   來源：https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1IyWnB4eWVsenR4a0VZSHdQYnJiTTljV29FcW5ld29acW9sUXNvVnp4VEF2Zm1QdkxRbnJmeUtZYVdmNER6V2c3MDF6N2ZYLVhTcXVXM3VsbFQtU1luU2JCZDg1ekxNaE9LdVY1QUhqZUdrNXZOTzVWRW9XZnc4eEh1YlZwTVUyMFRFWVpoOHpMRV9ISU5DMzZQeVZhSjNfOEdCX3AzUTFJSWI1U3VZVGE1OGZxNTDSAbwBQVVfeXFMTi1QS3Y2azRlbzItUnBkRHBuMlNQU09meEVfWG83UEFnOEszcFNsMkxwbjZzcEhSdXVjRC1HNERrMUhsbE1BV1NqNXhtdU83TjM5cEczV0EwOGZnTk1oZjB4Zi1DZFR4SkxqTGhCWTdaUndSLWNySDMtR3BGdkxLUW1mOERRMHJWZnY2M2J4OXZ5eWtXa1ktV3VJUi05RklWdTRBREhEckhNdFYyMTdabHhmbC15OVpKRktIMU8?oc=5
+
+5. **Bloomberg：市場在戰事與油價波動中維持高震盪**  
+   摘要：消息面快速切換導致股、債、油三市同步震盪。投資人短線更重視避險與流動性管理，而非單一方向押注。  
+   來源：https://news.google.com/rss/articles/CBMilAFBVV95cUxOWW5Xd3p5UWxSQmdTMjdmRVJOaTBDb0lSNmdFd1FVTVRacU1qOEY1Rmo2d05iUXYwMXQ3ZU11RnhYdHI0RHBrbm4xbGVUSXJydjBOc2ZWdG85c3pOZEFiQ1lOckZ0cjQ5SFJmSUQyc3hsX3JoTE10aDRFTVRzNFM0Ykp6ci1XSWdxUGZTVlNoRjlhYVp4?oc=5
+
+6. **路透：BlackRock 執行長示警，若油價大漲恐加劇衰退風險**  
+   摘要：能源價格若再度急升，將同步壓縮企業利潤與消費者可支配所得。市場因而持續下修高成本、高估值產業的預期。  
+   來源：https://news.google.com/rss/articles/CBMivwFBVV95cUxPSGtaOFNrVVhNbFMyejEyT1huclBPNFNvRm4ycjRrNHpXNjBTUmhBbWlUemFTRG14cHNtVFh4UUI3UEtYUWdMd3BjN0p4OElsNURXRE5Qelg4NWFEY2ZENXJDMVZMRFphdkFjR3MtRjBERUIxVVpwOTlyanpIWVd5R1V0Q0xmY1ptNUpvSEx2TXpGWWRlci1yQmtlNGQ1TnFOUGMwdWdoeGFFRHVfQ2JwQ1BoN0lwbXFxdkFRM2htaw?oc=5
+
+7. **CNBC：亞太股市受美伊訊號影響同步反應**  
+   摘要：美國市場情緒與中東局勢變化快速傳導至亞太市場，顯示全球風險資產連動性仍高。跨市場資金流向與避險需求成觀察重點。  
+   來源：https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2tXNDMtNlRTMzlScHR2ZjlDaWI2S3dFcnZFTXJ0NkRndVN3dXVlWWx1Z3BTblU0eV9mQ2ViMmRRckE3TEJZaVktYnJadnRUQmR3b3JYVDkzWW5pTkwzUVAxUFJYTFB3cEdISUd3WGtZZHp6NUtIdmg2bjZ2Unh5TERjLXFKamlMdGNjanNYc3V5Z9IBlwFBVV95cUxQNTVxVmRubFZ1MXhxc2VIejU1bVhpbnQxdmpKMThHVllMS3NQVWZ1ZlViUnZfUTRPSF9UZF9zeGU2TGJrQWh4Uzg1ZjVhZ29XSHZ0U1dJRVMzQVNiQmdKTmYyLVk2V2N1aWxrdVRPUXIwdC0xcXZpeFRPN1ljeDJUSjBfcUdvNkxxb0JQdVhxMVBVY2pPbndV?oc=5
+
+8. **Reuters Breakingviews：能源衝擊可能干擾 AI 主題估值擴張**  
+   摘要：評論指出，若能源成本維持高檔，資料中心與 AI 基建的成本假設需重新評估。AI 長線敘事雖在，但短中期估值敏感度提升。  
+   來源：https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlY5eElsMkpoaDFzUWxodlNQdUQycWxFdjJtTEVmQ1FVeVRxeVNtdTJjUFlTVVhwZE5zNUo0S1h2UzdjQ29yOU1xOVNnb3drUEFHX3F1Q1FxLXJ3MXpaVVN3OEVYRkRjZW1PSm1UZWJSTTd2czY0cjJudDJMVGI3NXVNd1U3N1ltRFp2QjFiZ1RPRkp6S0RhOWtBbDhiUW8?oc=5
