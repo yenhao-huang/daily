@@ -1,0 +1,33 @@
+# 台股與金融新聞整理（2026-03-30，Asia/Taipei）
+
+1. **台股清明前變盤壓力升高，法人推演三種走勢**
+   市場擔憂節前量能收斂與外部風險干擾，短線可能回測重要支撐。法人建議依情境調整持股水位與防禦配置。
+   來源：https://money.udn.com/money/story/5607/9410553
+
+2. **台股週跌 431 點、市值蒸發 1.3 兆，資金轉向防禦**
+   近期盤勢轉震盪，權值股回檔拖累大盤。市場關注高股息與低波動標的作為避險選項。
+   來源：https://news.google.com/rss/articles/CBMioAJBVV95cUxQdGUzbjVsa2pqcXUtRmVRcG54S0lPQ0otQXJ4WHhKdWpQTW5OaDBlMHhJZUxIVGQzS1NKeXNndmtudzFqMGMtSFNlZkVyZlpUdFhrUTBZc19ocVZLdlpnUk1MM0hkdjllamxpNFFMdl8ybVhLWW8xRjE0VU1xajJGbWdvVmswR3puOXFQSXhPRWhubXNRcC16TVQyRXRORkNwbkZKMTZxVlJoemJJMDl0VDNWUXIxY2FqeVM3SGlTSm00TkRXUDBqZEh5MmVuS2VEN2k3SmJJLWkteUlzOGZIZlpuVE1JQkgtVi1wc3k1ZmdhZndEODAtT21FWkJXNVdJQW1pY3lyR2FXRTV3b05YbFI0S05xZ1Y5dDd4c3VfalU?oc=5
+
+3. **美伊戰事推升油價，法人評估台股難脫震盪**
+   地緣政治升溫推高原物料與運輸成本預期，增加亞洲股市波動。台股短期仍受國際風險偏好主導。
+   來源：https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DUUxjWnFoWmVpTExsYzlwNkcxMDliSXZ4bE1JQmg5amp1QWFyRWpOTWhtTzZaUGxOMjJnNEZGcjE5VWc5OXhEajN2X3VkVERvTE9IMld1T3dXTG9oMGc?oc=5
+
+4. **2 月金融三業操作分歧：銀行加碼、保險減碼**
+   金融機構在股市高檔下出現策略分化，顯示風險承擔偏好不同。後續資金流向將影響金融股與高權值股表現。
+   來源：https://news.google.com/rss/articles/CBMiX0FVX3lxTE81UkVDRVFzTjUwSlNHeTNocGhvS0o5R0dmU2VSVnF2TlBzSDFKOTZKR2dRYmFzbS1sdnQzUEQta3FlRlFocXZPSUVGeWVBQ05JWDNwLVZsZ1l3NTlFdTZJ?oc=5
+
+5. **壽險資金反手減碼台股，市場解讀為配息與風險管理布局**
+   在台股前波大漲後，部分長線資金先行獲利了結以因應後續現金需求。市場認為機構調節節奏將牽動第二季盤勢。
+   來源：https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4RkJOUGpjUWJHcmVHY0ZBTkpiOWtQYmhIZmxmdmo3bmtqQVZKM3ZQMTBZN2RhamhiSVFrWVVqOFNycGwyOC1OM2hfcjJYNlBm0gFWQVVfeXFMTU9rTzJLLWhfUXU4MVJCSU9LQXZGWEpHMmxfWEZZRTlyX1RqcGotMlQwUW5qV0MtaFF6MDg1WGVQTXFKSHFORDE3Q3U4QW5GTmVkc0VOS1E?oc=5
+
+6. **央行放寬第二戶貸款條件，房市政策轉向「維穩」訊號浮現**
+   市場人士認為監管重點從全面收緊轉向精準調節。此舉可能影響不動產資金流與金融股評價。
+   來源：https://news.google.com/rss/articles/CBMidEFVX3lxTE9rSlpaMkF3OV8xYjkzMzdoTUFtWDdPSGU5LUU2Q19qRS1aV0o0Y0RJaWhxNjYzcXlpM0hyNGVHN1hLTmdSWGZiMmhDR0ZFV3h2REhPT2lKdW5Pb2ZDUzF1Z0VPcWhQTTRiRlJIU2NraHJybjFf0gFWQVVfeXFMT1BzR211WFliaWxKcVBGSEwxRTVJSF9XM2xuUkwxZzhILTVyX3hENWFfSUIyRS04clVjNkVuOUprZGZYS3JkYkJONVJBUVA1VldaMFo0T3c?oc=5
+
+7. **央行出手穩匯，台幣貶值壓力下匯率防線受關注**
+   面對外部資金波動，匯市穩定成為政策重點。匯率走勢將持續牽動外資在台股的進出節奏。
+   來源：https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oeHB6R2I5UEFSd3RPUlNTWV9ldEduUkQ5QWxORU95OVBNVkQ4bzZ2N1V0MHR3NHNzYXJ3a29TdzVMSkk4XzI2Y1dzRC1udVROUS1hQjRR0gFWQVVfeXFMTmh4cHpHYjlQQVJ3dE9SU1NZX2V0R25SRDlBbE5FT3k5UE1WRDhvNnY3VXQwdHc0c3Nhcndrb1N3NUxKSThfMjZjV3NELW51VE5RLWFCNFE?oc=5
+
+8. **韓元貶破 1500 引發區域金融市場警戒，台股受國際連動影響**
+   韓元急貶反映亞洲風險資產壓力升高，也提高跨市場波動傳導風險。法人提醒留意外資在東北亞市場的再平衡動向。
+   來源：https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcUp4UFlYMF91ZTVqTE5Kd1NlRE9XeFkzMThUNzdzejBiYU9DZXdJaDlOZ05IaDBwOVFvaEc5NGtzU19ZS0JoOXhIaDJ4YjhxOF91MEdBNk43UzRyZ25rMEFhTGlvSFhLb01MRTNrR1NsOXRxSGhtUUs2Vm4wNjZtZm02Z0ZUcVpSUDladE9BUWdQM3JBRDlDMmhNSERfU2VEeE5IMXVYTHVQeGxyX2lrRk4yZmhGbGZyN3ZnU0pXekV3UUdoWWhZRzFUUDZsR3dKMno3elEyRkUyRXpjbG02UVJJWFdDTWVBa1J6bDE3aENFc0xLQ1hGV3QzUmVQUUlIYUxzV2czQXUxR2NsM2x6eWsxRUxYbWtEamlXSkxkU3dsYkJjMFB4b0pJQ1plSzRGNkxoamdqZ1pweHZNSGFaSWZxandRS3o2Mi1tSGRfY1hqOTQ?oc=5
