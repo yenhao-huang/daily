@@ -55,4 +55,6 @@
 
 ---
 
-*資料來源：Yahoo 股市、CBS 新聞、Trading Economics、Money US News、Investor.com.tw、財訊快報 整理*
+*資料來源：Yahoo 股市、Trading Economics、Money US News、Investor.com.tw、財訊快報
+📎 台股盤勢：https://tw.stock.yahoo.com/tw-market/
+📎 台積電分析：https://money.usnews.com/investing/news/articles/2026-04-12/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-on-insatiable-ai-demand
