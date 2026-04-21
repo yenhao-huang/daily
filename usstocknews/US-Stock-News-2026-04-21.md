@@ -1,44 +1,49 @@
-# 美股新聞摘要｜2026 年 4 月 21 日
+# 美股新聞摘要｜2026 年 4 月 21 日（下午更新）
 
 ---
 
-## 📈 總體經濟動態
+## 📈 市場表現：Nasdaq 13 日連漲止步
 
-### 聯準會維持利率不變
-FOMC 持續按兵不動，利率維持於 3.50%-3.75% 區間。CPI 數據影響投資人對降息時機的預期，市場普遍預期 2026 年內仍有降息空間。
+### 4/20 收盤：美股小幅回落，Nasdaq 中斷 13 日漲勢
+美伊談判緊張局勢升級，市場出現獲利了結：
 
-### 油價重返 $100 桶大關
-油價在地緣風險支撐下再度突破 $100/桶，對通膨與消費者支出造成壓力。AP News 分析指出，高油價將直接影響一般家庭的日常支出。
+| 指數 | 4/20 收盤 | 變動 |
+|------|-----------|------|
+| S&P 500 | ~7,022 | -0.24% |
+| 道瓊工業 | ~48,459 | -0.01% |
+| 那斯達克 | ~23,639 | -0.26% |
 
-📎 https://apnews.com/article/wall-street-stock-dow-nasdaq-b8818e64043e32c2e5bae57213d1a7ee
+**Nasdaq 13 日連漲為 1992 年以來最長紀錄**，本週終結。
 
----
-
-## 💼 重量級個股
-
-### Nvidia 領投 AI 新創 $1.03 億美元融资
-Nvidia 宣佈參與先進機器智慧公司（Advanced Machine Intelligence）規模式融资，金額達 $1.03 億美元，延續 Nvidia 在 AI 生態系的策略投資佈局。
-
-### 美國就業市場觀察
-新民調顯示美國民眾對就業市場展望偏向悲觀，顯示消費者信心仍待復甦，成為 Fed決策的重要參考指標。
+📎 https://www.cnbc.com/2026/04/20/stock-market-today-live-updates.html
 
 ---
 
-## 🛢️ 能源市場
+## 🏛️ 地緣政治風險
 
-全球油價在美伊談判進展不明與中東緊張局勢下維持高檔，$100/桶已成新常態基底，能源類股短期內持續受惠。
+### 美伊局勢升級：川普扣押伊朗貨船，談判停滯
+川普於 4/19 宣布在阿曼灣扣押一艘伊朗籍貨船。伊朗隨即表示不參與新一輪和談，荷姆茲海峽封鎖威脅再起。美伊停火協議本週到期，市場觀望談判走向。
+
+---
+
+## 💼 重量級財報前哨
+
+### 本週財報季：UnitedHealth、Danaher、GE Aerospace 明日公佈
+多家重要企業將於本週公布財報，製藥、科技、工業龍頭齊發，為 Q1 財報季高峰。
 
 ---
 
 ## 📊 後市觀察重點
 
-- **聯準會政策方向**：降息時機與幅度
-- **AI 基礎建設資本開支**：Nvidia、生態系後市
-- **油價對通膨影響**：CPI 後續走勢
-- **企業 Q1 財報季**：超級財報週陸續展開
+| 項目 | 內容 |
+|------|------|
+| Wells Fargo 目標價 | S&P 500 年底目標 7,300 點（潛在上漲 3%）|
+| 聯準會利率 | 年內降息預期不變 |
+| 油價 | 回到 $100 桶以上，能源股受惠 |
+| S&P 500 年底目標 | 7,300（樂觀情境）|
 
 ---
 
-*📎 資料來源：AP News、Yahoo Finance、富途牛牛、Google News RSS*
+*📎 資料來源：CNBC、AP News*
+📎 CNBC 4/20 市場直播：https://www.cnbc.com/2026/04/20/stock-market-today-live-updates.html
 📎 AP News Business：https://apnews.com/business
-📎 Nvidia Funding：https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0UtLWZ0c2lRelpJRmIwSk9qZFlYRENXQ2xGZHpzd1dDUElXZlFZRmw2WmNTbnJ1Sk8zeFBvSkNZSXRWcHg3OXhxSHBRT3M5OGVHai1rS2ZReE55N1JNRGRKZEJJVThWc2M0Ym5oLW92aDlqNlpKakZBWGs4NUp5QjJFRkNiZ3YxMVVObTBRSGVBR2V2UllaVWJTbUZrbFNCQWFTcFhVVzd5cE0

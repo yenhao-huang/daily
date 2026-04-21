@@ -1,4 +1,4 @@
-# 台股財經新聞摘要｜2026 年 4 月 21 日
+# 台股財經新聞摘要｜2026 年 4 月 21 日（下午更新）
 
 ---
 
@@ -6,10 +6,6 @@
 
 ### CIER 調升台灣經濟成長預測至 7.22%，AI 需求為核心驅動
 中華經濟研究院（CIER）因 AI 需求強勁，調升台灣 2026 年經濟成長預測至 7.22%，顯示 AI 半導體供應鏈對台灣經濟的結構性支撐。
-
----
-
-## 🏛️ 政策與產業
 
 ### 台灣 AI 法規進度
 立法院已通過人工智慧法草案，台灣成為少數具備完整 AI 監管框架的經濟體之一。歐洲商會呼籲台灣持續強化 AI 法規與國際接軌。
@@ -30,4 +26,3 @@
 ---
 
 *📎 資料來源：僑務電子報、iThome、CIER、中華經濟研究院*
-📎 CIER 成長預測：https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kV29UbUNEX3gtZXk0UFJ5Z3dCa0pJRU9uRG5qenpBSGlabWlvSV9oOEM5YkJScERFYTdDSjVmSzdKRU9WMlR2a21yRQ
