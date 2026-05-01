@@ -1,706 +1,994 @@
 [
   {
     "company": "MediaTek",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs MediaTek (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "MediaTek",
-    "source_query": "Web",
-    "query": "MediaTek (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "location": "Taiwan",
+    "attempts": [
       {
-        "title": "请问联发科g99什么水平，打得过骁龙730g吗,极限超频有没有845水 …",
-        "link": "https://www.zhihu.com/question/583278138",
-        "snippet": "Helio G99应该是联发科的最后一款4G芯片了，这款芯片可以看作是没有5G基带的天玑810。 说到骁龙730G，同期联发科的竞品是Helio G90T，稍弱于骁龙730G，Helio G99虽然看起来型号数字大，但它并不 …"
+        "query": "MediaTek AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "如何评价联发科WiFi 6网卡 MT7921？ - 知乎",
-        "link": "https://www.zhihu.com/question/499238688",
-        "snippet": "手持一台小新16p 2021（ACH），电脑睡眠一段时间过后网卡连接不上这个问题我也有遇到，MT7921确实是辣鸡卡没得洗。不过个人平常在办公室连有线，懒得换无线网卡，就想折腾一下将就用用。其他的朋友的方法 …"
+        "query": "MediaTek machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card无法启动是啥问题?",
-        "link": "https://www.zhihu.com/question/522896228",
-        "snippet": "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card无法启动是啥问题? 小蓝星 · 2021 笔记本电脑新品榜 来自知友的真实反馈 出去上了个课，回来这玩意就没法用了，按网上的禁用之后重启也没用，wifi没法用了 [图片] 显 …"
+        "query": "MediaTek official careers AI Taiwan",
+        "error": null,
+        "results": []
       },
       {
-        "title": "天玑8300、天玑8300ultra 、天玑8350有啥区别？ - 知乎",
-        "link": "https://www.zhihu.com/question/7357864073",
-        "snippet": "这几个处理器只是频率调整，还是架构能效都有区别。 这三个处理器，看名字就知道没啥区别或者区别不大。 后缀Ultra没啥用，属于厂商想加就加。 类似情况有天玑8000Max，天玑8100Max等等，就是加了一个后 …"
+        "query": "MediaTek Machine Learning Taiwan job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "一文读懂WiFi6无线网卡，WiFi6网卡选购最全指南",
-        "link": "https://www.zhihu.com/tardis/zm/art/441295823",
-        "snippet": "May 28, 2022 · MediaTek拥有丰富的Wi-Fi产品组合，是宽带、零售路由器、消费电子和游戏设备的Wi-Fi解决方案提供商，每年为数亿台设备提供支持。 MediaTek与Wi-Fi联盟多年来一直保持紧密合作，以确 …"
+        "query": "MediaTek AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "MediaTek",
-    "source_query": "Careers",
-    "query": "site:careers.* MediaTek AI machine learning jobs Taiwan Singapore",
-    "results": []
-  },
-  {
-    "company": "Qualcomm",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Qualcomm (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Qualcomm",
-    "source_query": "Web",
-    "query": "Qualcomm (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Qualcomm: Intelligent Computing Everywhere",
-        "link": "https://www.qualcomm.com/",
-        "snippet": "Learn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity."
+        "query": "MediaTek AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "About Qualcomm | Company Information & History | Qualcomm",
-        "link": "https://www.qualcomm.com/company",
-        "snippet": "Review Qualcomm's corporate history, values, and history of innovation. Qualcomm helps transform industries, create new experiences, and support the economy."
+        "query": "MediaTek machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Engineering jobs | San Diego jobs | Qualcomm Careers | Qualcomm",
-        "link": "https://www.qualcomm.com/company/careers",
-        "snippet": "Join Qualcomm and help us transform 5G’s potential into world-changing technologies and products. Learn about Qualcomm benefits and jobs."
+        "query": "MediaTek official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "All Products and Platforms | Chipsets and SoCs | Qualcomm",
-        "link": "https://www.qualcomm.com/products",
-        "snippet": "Qualcomm’s product catalog includes integrated processors, chipsets, SoCs, and SDKs: everything you need to build cutting-edge devices and applications with best-in-class connectivity and technology …"
+        "query": "MediaTek Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Qualcomm - Investor Relations",
-        "link": "https://investor.qualcomm.com/overview/default.aspx",
-        "snippet": "Mar 17, 2026 · Qualcomm relentlessly innovates to deliver intelligent computing everywhere, helping the world tackle some of its most important challenges. Our leading-edge AI, high performance, low-power …"
+        "query": "MediaTek AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Qualcomm",
-    "source_query": "Careers",
-    "query": "site:careers.* Qualcomm AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Qualcomm AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Qualcomm machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Qualcomm official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Qualcomm Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Qualcomm AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Realtek",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Realtek (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Realtek",
-    "source_query": "Web",
-    "query": "Realtek (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Qualcomm",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Win10系统Realtek高清晰音频管理器安装方法-百度经验",
-        "link": "https://jingyan.baidu.com/article/d2b1d10251b3fd1d7f37d42c.html",
-        "snippet": "但在win10系统中，兼容性就不太友好，很多官方驱动只提供了声卡基本驱动功能，没有提供Realtek高清晰音频管理工具。 今天小编提供安装Realtek高清晰音频管理器的简单方法，让电脑影音爱好者少走弯路。"
+        "query": "Qualcomm AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Windows11如何打开Realtek高清晰音频管理器-百度经验",
-        "link": "https://jingyan.baidu.com/article/3f16e003f05b406490c10324.html",
-        "snippet": "第一步，在Windows11控制面板这里找到并打开Realtek高清晰音频管理器。"
+        "query": "Qualcomm machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Realtek Digital Output是什么 - 百度经验",
-        "link": "https://jingyan.baidu.com/article/a3aad71a16fa4af0fa009671.html",
-        "snippet": "realtek digital output是声卡驱动的控制程序，也叫应用接口。电脑没声音提示realtek digital output，通常的情况为两种：声卡驱动设置不当或者声卡驱动不兼容、冲突等问题影响。以下为两种情况的解决方法。 （ …"
+        "query": "Qualcomm official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "win10怎么打开Realtek高清晰音频管理器-百度经验",
-        "link": "https://jingyan.baidu.com/article/495ba8410c524c79b20ede65.html",
-        "snippet": "Feb 21, 2021 · 笔者自己遇到这个问题，看到搜索结果一堆复制粘贴的垃圾办法，实在看不下去了，希望我这个原创经验能被更多人看到。我看大部分搜索结果都是啥，打开控制面板！我想说你的win10怕不是假 …"
+        "query": "Qualcomm Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "如何重新安装 Realtek 高清晰音频管理器-百度经验",
-        "link": "https://jingyan.baidu.com/article/ff411625ce0e0153e582377e.html",
-        "snippet": "然后，您可以单击\"操作\"选项卡，然后单击\"扫描检测硬件改动\"。这将自动扫描并下载该驱动程序，并重新安装 “Realtek 高清晰音频管理器” 软件。"
+        "query": "Qualcomm AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Realtek",
-    "source_query": "Careers",
-    "query": "site:careers.* Realtek AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Realtek AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Realtek machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Realtek official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Realtek Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Realtek AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "TSMC",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs TSMC (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "TSMC",
-    "source_query": "Web",
-    "query": "TSMC (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Realtek",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "台积电 (TSMC) - 知乎",
-        "link": "https://www.zhihu.com/topic/19653338/intro",
-        "snippet": "Apr 24, 2020 · 台积电 (TSMC) 台湾积体电路制造股份有限公司，简称台积电、TSMC，属于半导体制造公司。 成立于1987年，是全球第一家专业积体电路制造服务（晶圆代工foundry）企业，总部与主要工厂位于台湾 …"
+        "query": "Realtek AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "台积电国内的两个工厂各生产多少寸多少纳米的芯片啊? - 知乎",
-        "link": "https://www.zhihu.com/question/516705012",
-        "snippet": "台积电在国内有两个工厂，分别是上海的 10厂台积电 （中国）和南京的 16厂台积电 （南京），10厂负责多条线的成熟制成包括55，65，甚至180，产能比较大十几万pcs。16厂主打12，16，两万pcs左右，去年引入 …"
+        "query": "Realtek machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "如何评价b站up发现疑似代号鲲鹏930是TSMC N5流片？",
-        "link": "https://www.zhihu.com/question/1943339023528604472",
-        "snippet": "Aug 25, 2025 · TSMC内部有不少美国人和日本的上游企业人员随意走动的，就拿前段时间日本TEL涉及了TSMC 2nm资料泄露一事，事后又如何呢？ 台当局也就惩罚一下相关员工，高高举起，轻轻放下，TEL的人 …"
+        "query": "Realtek official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "台积电是一家怎样的公司？ - 知乎",
-        "link": "https://www.zhihu.com/question/38477872",
-        "snippet": "台积电，TSMC，全称为台湾积体电路制造公司，是全球最大的、同时也是技术最先进的集成电路制造企业。 台积电从一家起初并不被看好的小公司，成为可以比肩甚至超越英特尔、三星等巨头的企业，堪称屌丝逆袭的 …"
+        "query": "Realtek Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "台积电次世代工艺N3 FinFlex & N2 简评：TSMC还能Yes吗？",
-        "link": "https://www.zhihu.com/tardis/zm/art/542327641",
-        "snippet": "说回到今天的第一个主角，台积电的下一代工艺N3 FinFlex，如果这个没意外的话应该是传闻中的N3B版本，下面全面简称N3了。台积电N3的官方量产时间是2022年下半年，但是受限于产能和良率等因素，最早也 …"
+        "query": "Realtek AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "TSMC",
-    "source_query": "Careers",
-    "query": "site:careers.* TSMC AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "TSMC AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "TSMC machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "TSMC official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "TSMC Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "TSMC AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Phison",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Phison (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Phison",
-    "source_query": "Web",
-    "query": "Phison (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "TSMC",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "硬盘Phison是哪家厂商 - 百度知道",
-        "link": "https://zhidao.baidu.com/question/373524803876217332.html",
-        "snippet": "Nov 10, 2024 · Phison是一家由鸿盟公司（Phison Electronics Co., Ltd.）开发的中国台湾品牌，专注于存储设备的研发与制造。自1999年成立以来，Phison致力于提供高性能、低成本的存储产品。其核心产品——硬 …"
+        "query": "TSMC AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "群联的固态硬盘很烂吗? - 知乎",
-        "link": "https://www.zhihu.com/question/425746543",
-        "snippet": "我猜测这款固态应该是 群联PS5008-E8 主控的，低端nvme固态经典方案（金士顿a1000 也是同款主控），4k性能一般般，无缓设计。 不过日常使用不会有什么区别的， LTT就盲测过一波固态硬盘实际体验， …"
+        "query": "TSMC machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "phison是什么牌子 - 百度知道",
-        "link": "https://zhidao.baidu.com/question/2086496116382692108.html",
-        "snippet": "Jul 6, 2024 · phison是什么牌子演示机型：华为MateBook X 系统版本：win10 phison是群联品牌为主控芯片生产的固态硬盘。phison是提供全球首颗单芯片USB闪存随身碟控制芯片起家，PHISON已经成为USB随身碟 …"
+        "query": "TSMC official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "固态硬盘主控品牌介绍|Marvell、慧荣、英韧、群联、三星、联芸、特 …",
-        "link": "https://www.zhihu.com/tardis/zm/art/484889674",
-        "snippet": "Dec 3, 2025 · 群联（Phison）主控 群联电子于2000年11月成立于台湾新竹，群联主控则算是这几款主控中的性价比比较好，在中低端市场表现也不错。群联发布全球首款PCIe Gen4x4 SSD主控。群联第一大股东过 …"
+        "query": "TSMC Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Phison PS2251-09量产工具正式版v3.89_百度知道",
-        "link": "https://zhidao.baidu.com/question/1442656501782886659.html",
-        "snippet": "Jul 16, 2024 · Phison PS2251-09量产工具的最新正式版本是Phison PS2251-09，但是以前没有量产工具，但是现在终于有了它，不仅可以生产任何品牌的USB闪存驱动器PS2251-09大师它还可以产生主控制器，例 …"
+        "query": "TSMC AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Phison",
-    "source_query": "Careers",
-    "query": "site:careers.* Phison AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Phison AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Phison machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Phison official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Phison Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Phison AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Micron",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Micron (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Micron",
-    "source_query": "Web",
-    "query": "Micron (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Phison",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Micron verkauft keine Endkundenprodukte mehr - Hardwareluxx",
-        "link": "https://www.hardwareluxx.de/index.php/news/hardware/arbeitsspeicher/67645-dram-und-nand-speicher-micron-verkauft-keine-endkundenprodukte-mehr.html",
-        "snippet": "Dec 3, 2025 · Micron hat soeben verkündet, dass man seine Endkunden-Sparte schließen und entsprechend keinerlei Arbeitsspeicher und SSDs mehr in diesem Bereich anbieten werde. Damit sollen …"
+        "query": "Phison AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Micron Kits mit 5.200 und 5.600 MT/s im Test - Hardwareluxx",
-        "link": "https://www.hardwareluxx.de/index.php/artikel/hardware/arbeitsspeicher/60480-ddr5-mit-potenzial-micron-kits-mit-5-200-und-5-600-mt-s-im-test.html",
-        "snippet": "Mar 7, 2023 · DDR5 mit Potenzial: Micron Kits mit 5.200 und 5.600 MT/s im Test. Wie alle DRAM-Hersteller arbeitet auch Micron stetig an einer Weiterentwicklung seiner Speicher-Chips. Die Revision G …"
+        "query": "Phison machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "GTC 2026: Micron und Samsung zeigen HBM4 (E), SOCAMM2 und …",
-        "link": "https://www.hardwareluxx.de/index.php/news/hardware/arbeitsspeicher/68562-gtc-2026-micron-und-samsung-zeigen-hbm4-e-,-socamm2-und-pcie-6-0-ssds.html",
-        "snippet": "Mar 17, 2026 · Im Rahmen der GTC 2026 haben die Speicherhersteller Micron, Samsung und SK Hynix ihrerseits verschiedenste NAND- und Flash-Lösungen vorgestellt. Diese sollen die kommenden Rubin- …"
+        "query": "Phison official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Micron 2400 im Test - Hardwareluxx",
-        "link": "https://www.hardwareluxx.de/index.php/artikel/hardware/storage/62736-micron-2400-im-test-winziger-speicherriese-f%C3%BCr-steam-deck-und-co.html",
-        "snippet": "Feb 6, 2024 · Micron bietet hier mit der 2400-Serie bis zu 2 TB auf einer Länge von nur 30 mm. Ob damit auch Gamer-Enthusiasten das ideale Upgrade für ihren mobilen Spielspaß finden, klären wir mit …"
+        "query": "Phison Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "AMDs Ryzen 3000 trifft Samsung, Micron und Hynix",
-        "link": "https://www.hardwareluxx.de/index.php/artikel/hardware/arbeitsspeicher/51014-amds-ryzen-3000-trifft-samsung-micron-und-hynix.html",
-        "snippet": "Oct 14, 2019 · AMDs Ryzen trifft Speicher von Samsung, Micron und Hynix. Seit dem Launch der Ryzen-3000-Prozessoren sind nun schon einige Wochen vergangen und die neuen Prozessoren erfreuen sich …"
+        "query": "Phison AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Micron",
-    "source_query": "Careers",
-    "query": "site:careers.* Micron AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Micron AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Micron machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Micron official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Micron Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Micron AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Synology",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Synology (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Synology",
-    "source_query": "Web",
-    "query": "Synology (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Micron",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Das deutsche Synology Support Forum",
-        "link": "https://www.synology-forum.de/",
-        "snippet": "Das deutsche Synology Support Forum Über dieses Forum Das deutsche Synology Support Forum ist die Heimat einer der größten und aktivsten Communities für Synology Produkte weltweit. Seit dem Jahr …"
+        "query": "Micron AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Antivirus Essential updated nicht mehr seit Oktober - Das deutsche …",
-        "link": "https://www.synology-forum.de/threads/antivirus-essential-updated-nicht-mehr-seit-oktober.140120/",
-        "snippet": "Oct 15, 2025 · Mir ist vor einigen Tagen aufgefallen, daß auf all meinen Diskstations seit dem 29.9.2025 keine neuen Virusdefinitionen mehr eingespielt werden. Da ich auf allen Geräten noch DSM 6 nutze ist …"
+        "query": "Micron machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "群晖NAS维修点在哪？ - 知乎",
-        "link": "https://www.zhihu.com/question/1918265037509887434",
-        "snippet": "l 无法开机：检查电源适配器、更换电源线，或重置设备（长按RESET键4秒）。 l 网络连接失败：更换网线、检查路由器设置，或通过Synology Assistant工具查找设备。 l 硬盘异常：确认硬盘兼容性（参考群晖官网兼 …"
+        "query": "Micron official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Drive 4.0 Beta verfügbar - Das deutsche Synology Support Forum",
-        "link": "https://www.synology-forum.de/threads/drive-4-0-beta-verfuegbar.139196/",
-        "snippet": "Aug 4, 2025 · Seit Kurzem ist die Drive 4.0 Beta verfügbar. Mehr Infos hier... Improved the sync mechanism by storing sync signature files in the sync folder, reducing local computer drive space …"
+        "query": "Micron Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Möglichst sicherer Zugriff auf NAS ohne VPN - Das deutsche Synology …",
-        "link": "https://www.synology-forum.de/threads/moeglichst-sicherer-zugriff-auf-nas-ohne-vpn.137727/",
-        "snippet": "Feb 17, 2025 · Hallo in die Runde, ich setze mich seit zwei Jahren etwas mit einem Synology NAS auseinander (derzeit DS220j). Ich habe dort alle Daten meiner Familie drauf, inkl. Fotos, …"
+        "query": "Micron AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Synology",
-    "source_query": "Careers",
-    "query": "site:careers.* Synology AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Synology AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Synology machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Synology official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Synology Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Synology AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Cadence",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Cadence (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Cadence",
-    "source_query": "Web",
-    "query": "Cadence (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Synology",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Cadence Community",
-        "link": "https://community.cadence.com/cadence_technology_forums/f",
-        "snippet": "The Community Recognition Program is a way for Cadence to recognize community participation. By sharing your real-world expertise and broadening your knowledge, you will earn points and increase …"
+        "query": "Synology AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Cadence OrCAD X and Allegro X 25.1 Released",
-        "link": "https://community.cadence.com/cadence_blogs_8/b/pcb/posts/cadence-orcad-x-and-allegro-x-25-1-is-now-available",
-        "snippet": "Oct 29, 2025 · The OrCAD X and Allegro X 25.1 release is now available from Cadence Downloads , delivering significant enhancements and new features. Here’s a summary of what's new: Allegro X PCB …"
+        "query": "Synology machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "What Does Cadence Do? - Life at Cadence - Cadence Blogs - Cadence …",
-        "link": "https://community.cadence.com/cadence_blogs_8/b/life-at-cadence/posts/what-does-cadence-do",
-        "snippet": "Nov 4, 2022 · Cadence is a pivotal leader in electronic systems design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design …"
+        "query": "Synology official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "中文技术专区 - Cadence Blogs - Cadence Community",
-        "link": "https://community.cadence.com/cadence_blogs_8/b/ctzcn",
-        "snippet": "Apr 9, 2026 · 在全球电子设计加速演进的浪潮中，Cadence 楷登电子再度以卓越的创新实力赢得行业瞩目。 由全球电子技术领域知名媒体集团 ASPENCORE 举办的全球电子成就奖颁奖典礼于…"
+        "query": "Synology Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Cadence Community",
-        "link": "https://community.cadence.com/",
-        "snippet": "Apr 21, 2026 · Cadence Japan エージェント型AI「Cadence AI Super Agents」が再定義する、仕様策定からサインオフまでのチップ設計 ケイデンスは「CadenceLIVE Silicon Valley 2026」において、完全自律型 …"
+        "query": "Synology AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Cadence",
-    "source_query": "Careers",
-    "query": "site:careers.* Cadence AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Cadence AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Cadence machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Cadence official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Cadence Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Cadence AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Trend Micro",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Trend Micro (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Trend Micro",
-    "source_query": "Web",
-    "query": "Trend Micro (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Cadence",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "tendency和trend的用法有什么区别？ - 知乎",
-        "link": "https://www.zhihu.com/question/411779719",
-        "snippet": "tendency和trend虽然都涉及“趋势”或“倾向”的概念，但它们在用法上存在明显的区别。以下从词性、用法和侧重点三个方面进行比较： 一、词性 tendency： 主要用作名词，表示某种内在的、不易受外界影响的自然倾 …"
+        "query": "Cadence AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "trend, fad，,fashion三个单词词义的区别是？",
-        "link": "https://www.zhihu.com/question/57425116",
-        "snippet": "trend、fad和fashion这三个单词在词义上各有侧重， 它们之间的区别主要体现在流行的时间跨度、影响的深度以及所代表的社会文化现 象上。 1. Trend（趋势） 基本含义：Trend指的是一种走向、趋向或发展动态， …"
+        "query": "Cadence machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "tend 和trend 有什么区别呀！? - 知乎",
-        "link": "https://www.zhihu.com/question/28568739",
-        "snippet": "A trend is what's hip or popular at a certain point in time. While a trend usually refers to a certain style in fashion or entertainment, there could be a trend toward warmer temperatures (if people are following …"
+        "query": "Cadence official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "In charts: 7 global shifts defining 2025 so far | World Economic Forum",
-        "link": "https://www.weforum.org/stories/2025/08/inflection-points-7-global-shifts-defining-2025-so-far-in-charts/",
-        "snippet": "Aug 5, 2025 · So far, this year has been marked by significant global shifts, including increased geopolitical instability, the accelerating impact of AI and a changing labour market. Economic factors …"
+        "query": "Cadence Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Top 10 tech trends for next 10 years (according to McKinsey) | World …",
-        "link": "https://www.weforum.org/stories/2021/10/technology-trends-top-10-mckinsey/",
-        "snippet": "Oct 12, 2021 · We’ll experience more technological progress in the coming decade than we did in the preceding 100 years put together, says McKinsey. And 10 tech trends will dominate this shifting …"
+        "query": "Cadence AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Trend Micro",
-    "source_query": "Careers",
-    "query": "site:careers.* Trend Micro AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Trend Micro AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Trend Micro machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Trend Micro official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Trend Micro Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Trend Micro AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Appier",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Appier (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Appier",
-    "source_query": "Web",
-    "query": "Appier (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Trend Micro",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "[討論] Appier的前景 - 看板 Tech_Job - 批踢踢實業坊",
-        "link": "https://www.ptt.cc/bbs/Tech_Job/M.1641753002.A.EED.html",
-        "snippet": "→ woulin : 還在享受本夢比 01/10 13:49 → woulin : BAT內部做AI的能量可能是appier好幾倍 01/10 13:53 推 sleepwu : 還是找得到財報跟營收拉 01/10 14:00 推 henryrita : 妹子好像很多 01/10 15:24 推 AboveTheRim : …"
+        "query": "Trend Micro AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "[心得] 面試心得 Appier/Garena/iKala/GoogleTW - 看板 Soft_Job - 批踢 …",
-        "link": "https://www.ptt.cc/bbs/Soft_Job/M.1588832599.A.699.html",
-        "snippet": "May 7, 2020 · 推 zenixls2: Appier幾年前不就想要你了，結果繞了一圈還是Appier XD 05/08 08:43 → zenixls2: 愛卡啦面試方式改很多的感覺，以前面薪水開得不好看 05/08 08:45 → zenixls2: 日商startup比較 …"
+        "query": "Trend Micro machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "[請益] offer請益（群輝/量趨/玩美/Appier） - 看板 Tech_Job - 批踢踢實 …",
-        "link": "https://www.ptt.cc/bbs/Tech_Job/M.1691736089.A.73A.html",
-        "snippet": "Aug 11, 2023 · 大家好，本身背景為四大資工碩士，研究所主要有做過CV、RL，最近剛畢業在找工作，主 要找尋的條件是純軟的職位，目前有幸拿到以下4家的offer 1. 群輝 Product Developer (網頁應用軟體開發) 薪 …"
+        "query": "Trend Micro official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "[心得] 面試分享(非本科4年 Line/Appier/17... (12家 - 批踢踢實業坊",
-        "link": "https://www.ptt.cc/bbs/Soft_Job/M.1627831577.A.14F.html",
-        "snippet": "Aug 1, 2021 · 面試公司: boloo, Arc & Codementor, Appier, Health2Sync, Protto, kronos, 漸強實 驗室, Line, KKBox, Dcard, 17Live, Innova Solution 以上面試公司是照順序面試的 薪資我都開130~140 唯獨第一家是公 …"
+        "query": "Trend Micro Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Re: [標的] 日股五大商社及Appier建倉 - 看板 Stock - 批踢踢實業坊",
-        "link": "https://www.ptt.cc/bbs/Stock/M.1745489506.A.46B.html",
-        "snippet": "作者LINPINPARK (lalalo) 看板Stock 標題Re: [標的] 日股五大商社及Appier建倉 時間Thu Apr 24 18:11:44 2025"
+        "query": "Trend Micro AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Appier",
-    "source_query": "Careers",
-    "query": "site:careers.* Appier AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Appier AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Appier machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Appier official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Appier Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Appier AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Intel",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Intel (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Intel",
-    "source_query": "Web",
-    "query": "Intel (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Appier",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "2026年618 CPU选购指南丨CPU性能天梯图（R23 单核/多核性能跑分）",
-        "link": "https://www.zhihu.com/tardis/zm/art/535639218",
-        "snippet": "1 day ago · 所以对于纯游戏玩家来说，最性价比的选择其实就是两家的中端系列，比如intel的i5，AMD的R5 R7这些，顶级系列自然更强，但你多花的大部分钱，其实买到的是它的多核性能提升，但多核性能对于你 …"
+        "query": "Appier AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Intel新出来的ultra 9 285H，什么水平？",
-        "link": "https://www.zhihu.com/tardis/bd/ans/1911816729903989455",
-        "snippet": "核显性能提升： Ultra 9 285H的核显架构有很大的变化，它搭载的Aec Graphics 140T，这个核显的架构比较接近intel独显的架构，其性能表现的也是非常不错的，但是对比上一代的提升不是很明显。 对比ultra 9 …"
+        "query": "Appier machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "有没有支持intel芯片Mac的安卓模拟器? - 知乎",
-        "link": "https://www.zhihu.com/question/659922400",
-        "snippet": "Jun 25, 2024 · 1. BlueStacks • 特点：BlueStacks 是一款广受欢迎的安卓模拟器，支持在 Intel 芯片 Mac 上运行。 • 优点： • 易于安装和使用 • 支持多开，适合多任务处理 • 丰富的游戏和应用兼容性 • 定期更新和维护 …"
+        "query": "Appier official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "都说13代、14代酷睿处理器缩肛，具体是什么情况? - 知乎",
-        "link": "https://www.zhihu.com/question/10624364978",
-        "snippet": "酷睿13/14代暗含缩肛缺陷，导致游戏编译着色器报错 Intel 13/14代酷睿不稳定性问题蔓延到了《黑神话：悟空》之上，属于非常典型的现象，就因为它采用了虚幻引擎。 [5] 快科技使用 i9-14900KS 实测游戏的时候， …"
+        "query": "Appier Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "2026年1月主板选购终极指南：（Intel+AMD）",
-        "link": "https://www.zhihu.com/tardis/bd/art/600022323",
-        "snippet": "Jan 14, 2026 · 适合人群：Intel平台迷你主机爱好者，搭配酷睿i7-15700K或i9-15900K 四、AMD vs Intel：平台选择指南 4.1 AMD平台优势 升级友好：AMD承诺AM5接口支持到2027年，未来升级空间大 能效出 …"
+        "query": "Appier AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Intel",
-    "source_query": "Careers",
-    "query": "site:careers.* Intel AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Intel AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Intel machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Intel official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Intel Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Intel AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "AMD",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs AMD (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "AMD",
-    "source_query": "Web",
-    "query": "AMD (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Intel",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Create any image for free | AI image generation for free",
-        "link": "https://www.bing.com/aclick?ld=e8kCMg1NVbJltYOB4G8ppBHjVUCUyXwMgBg_UZS1YcRZVM9nqcICJMEaBkBUmF9QHiV8ArUo7ETmt1XIfu-hx8BVuPm05nnDXXZSKiEEyI84ElPBkMl5mlQ6l6vcjgzmiofM1mWZOxIMWUglib6EmY1qnipL8sWXKiYvXQNtZbxuBaYklbMLeYG4yiCnn6ULAtECLO3K7q8zS3f2D85u-c6fL89jY&u=aHR0cHMlM2ElMmYlMmZjaGF0Z3B0LmNvbSUyZmltYWdlcyUyZiUzZnV0bV9zb3VyY2UlM2RtaWNyb3NvZnQlMjZ1dG1fbWVkaXVtJTNkcGFpZF9zZWFyY2glMjZ1dG1fY2FtcGFpZ24lM2RNU0ZUX0NfU0VNX0JOQl9Db3JlLUdlbmVyaWNfQ0hUX0JBVV9BQ1FfUEVSX01JWF9BTExfQVBBQ19UV19FTl8xMTA2MjUlMjZjX2lkJTNkNTcwNjEzMTk2JTI2Y19hZ2lkJTNkMTE4MzA3NjUwMTM5Njg3NCUyNmNfY3JpZCUzZCUyNmNfa3dpZCUzZGt3ZC03Mzk0MjcyNzkyMDQwOCUzYWxvYy00MCUyNmNfaW1zJTNkJTI2Y19wbXMlM2Q0MCUyNmNfbnclM2RvJTI2Y19kdmMlM2RjJTI2bXNjbGtpZCUzZDVkODk2ZDQyYmQyNTEzNDllMDBhMDRiNjZmY2M0MDM3&rlid=5d896d42bd251349e00a04b66fcc4037&ntb=1",
-        "snippet": ""
+        "query": "Intel AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "现在怎么没有人提用AMD MAX395去跑本地大模型了？",
-        "link": "https://www.zhihu.com/question/2015801494717342667",
-        "snippet": "讲真，AMD这几年的运气一直都比Intel好。 如果不是内存涨价，这玩意直接就被Intel一波给淘汰了。 我简单说说为什么吧。 我们知道AI MAX+这套统一内存成本是很高的，大家都知道DDR5还要四通道成本必然高，用 …"
+        "query": "Intel machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "2026年 4月 CPU天梯图（更新250/270K Plus&9850X3D）",
-        "link": "https://www.zhihu.com/tardis/zm/art/280070583",
-        "snippet": "Apr 9, 2026 · 14600KF目前的价格性价比极高，很挺值得入手的，特别是对CPU多核性能有一定要求的朋友。 ⑤最强游戏U：9800X3D&9850X3D AMD 锐龙7 9800X3D游戏处理器8核16线程104MB游戏缓存 京东 …"
+        "query": "Intel official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "AMD 显卡与 NVIDIA 显卡相比有什么优劣势？ - 知乎",
-        "link": "https://www.zhihu.com/question/645095010",
-        "snippet": "AMD显卡同游戏性能下，比NVIDIA显卡耗电功率更大一点。 AMD显卡同游戏性能下，比NVIDIA显卡AI画图性能更差一点。 AMD显卡同游戏性能下，比NVIDIA显卡AI画图兼容性更差一点。 (1060，1080 TI，M40，P40 …"
+        "query": "Intel Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "为什么苏妈（苏姿丰）接手 AMD 后市值就超越了Intel？苏妈做对了什 …",
-        "link": "https://www.zhihu.com/question/7484575650",
-        "snippet": "但AMD发明x86-64后，一切都变了，英特尔已经无法从司法上消灭AMD了，并且英特尔想继续在x86赛道混，反而得被AMD卡脖子。 最终，两家达成交叉授权协议，AMD获得了许多英特尔专利许可并且再不用担心 …"
+        "query": "Intel AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "AMD",
-    "source_query": "Careers",
-    "query": "site:careers.* AMD AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "AMD AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "AMD machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "AMD official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "AMD Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "AMD AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "NVIDIA",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs NVIDIA (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "NVIDIA",
-    "source_query": "Web",
-    "query": "NVIDIA (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "AMD",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "下載 NVIDIA 官方驅動程式 | NVIDIA",
-        "link": "https://www.nvidia.com/zh-tw/drivers/",
-        "snippet": "NVIDIA does extensive testing across the top creative applications to ensure the highest levels of performance, stability, and functionality. These drivers are certified by Microsoft’s Windows Hardware …"
+        "query": "AMD AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "NVIDIA 台灣官方部落格 -",
-        "link": "https://blogs.nvidia.com.tw/",
-        "snippet": "NVIDIA 推出 BlueField-4 STX 儲存架構，獲業界廣泛採用 2026 年 03 月 16 日 作者 NVIDIA Corporation"
+        "query": "AMD machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "NVIDIA Corporation (NVDA) 走勢圖 - Yahoo股市",
-        "link": "https://tw.stock.yahoo.com/quote/NVDA",
-        "snippet": "1 day ago · NVIDIA Corporation (NVDA)，Yahoo股市 Yahoo奇摩股市提供您即時報價、個股走勢、成交資訊、當日籌碼，價量變化、個股相關新聞等即時資訊。"
+        "query": "AMD official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "輝達 - 維基百科，自由的百科全書",
-        "link": "https://zh.wikipedia.org/zh-tw/NVIDIA",
-        "snippet": "NVIDIA （NVIDIA Corporation， / ɛnˈvɪdiə /； 臺灣 與 香港 譯為 輝達[4]， 中國大陸 譯為 英偉達），創立於1993年1月，是 美國 一家以設計和銷售 圖形處理器 （GPU）為主的 無廠半導體公司 （Fabless，也可譯作 …"
+        "query": "AMD Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "NVIDIA Taiwan - Facebook",
-        "link": "https://www.facebook.com/NVIDIA.TW/",
-        "snippet": "NVIDIA Taiwan. 2,619,923 likes · 779 talking about this. 此為 NVIDIA Taiwan 官方臉書粉絲團 提供最新 NVIDIA 產品、專業技術及教育課程等活動資訊。 本粉絲專頁不提供技術支援。"
+        "query": "AMD AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "NVIDIA",
-    "source_query": "Careers",
-    "query": "site:careers.* NVIDIA AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "NVIDIA AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "NVIDIA machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "NVIDIA official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "NVIDIA Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "NVIDIA AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Apple",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Apple (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Apple",
-    "source_query": "Web",
-    "query": "Apple (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "NVIDIA",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Troubleshoot easily using AI | Official ChatGPT website",
-        "link": "https://www.bing.com/aclick?ld=e8zloOIovdWj0qG8kM8O0sRDVUCUwMOwlVeh01lbzf2PVySvj1iAVn1WTsbu_JAs69CSJcXObBm4687xj3alRLKXC-3IzR1eXLbu-tf1duWoClZwIfPMKEvoQPjdLQcRi1Jw_as-Bcg8bDY72pJwWgM1Avpmy48R6T4qiq6LPJIa7KLAiAMBjq7-NWOUUt3YTxF53fWrTQZoUJOJe5fO-YuRvLoXI&u=aHR0cHMlM2ElMmYlMmZjaGF0Z3B0LmNvbSUzZnV0bV9zb3VyY2UlM2RtaWNyb3NvZnQlMjZ1dG1fbWVkaXVtJTNkcGFpZF9zZWFyY2glMjZ1dG1fY2FtcGFpZ24lM2RNU0ZUX0NfU0VNX0JOQl9Db3JlLUdlbmVyaWNfQ0hUX0JBVV9BQ1FfUEVSX01JWF9BTExfQVBBQ19UV19FTl8xMTA2MjUlMjZjX2lkJTNkNTcwNjEzMTk2JTI2Y19hZ2lkJTNkMTE4MzA3NjUwMTM5Njg3NCUyNmNfY3JpZCUzZCUyNmNfa3dpZCUzZGt3ZC03Mzk0MjcyNzkyMDQwOCUzYWxvYy00MCUyNmNfaW1zJTNkJTI2Y19wbXMlM2Q0MCUyNmNfbnclM2RvJTI2Y19kdmMlM2RjJTI2bXNjbGtpZCUzZGI2N2ZkYTA2MDFjNTExMTIzYzgyYjNmMmQzMmJlYjhl&rlid=b67fda0601c511123c82b3f2d32beb8e&ntb=1",
-        "snippet": ""
+        "query": "NVIDIA AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "recuperar acesso id apple - Comunidade da Apple",
-        "link": "https://communities.apple.com/pt/thread/254871703",
-        "snippet": "May 17, 2023 · Saiba como redefinir a senha do ID Apple em um dispositivo confiável ou pelo app Suporte da Apple no iPhone, iPad ou iPod touch de um membro da família. Você também pode ir a uma Apple …"
+        "query": "NVIDIA machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "How to use the Apple Support Community",
-        "link": "https://communities.apple.com/learn",
-        "snippet": "Learn, share, and get recognized in the Apple Support Community You’re in the right place to learn about Apple products and find more ways to enjoy them. As you learn more, you can share your knowledge …"
+        "query": "NVIDIA official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "iTunes - Comunidade da Apple",
-        "link": "https://communities.apple.com/pt/community/itunes",
-        "snippet": "97 visualizações perguntado por diogogoncalves Visualizar todas as publicações em iTunes Store Buscar mais tópicos Um fórum onde os clientes da Apple ajudam uns aos outros com seus produtos. Use sua …"
+        "query": "NVIDIA Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Como recuperar mi contraseña de iCloud - Comunidad de Apple",
-        "link": "https://communities.apple.com/es/thread/255114748",
-        "snippet": "Sep 8, 2023 · Si olvidaste la contraseña de tu Apple ID Sigue estos pasos para restablecer la contraseña del Apple ID y recuperar el acceso a tu cuenta. La manera más fácil y rápida de restablecer la …"
+        "query": "NVIDIA AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Apple",
-    "source_query": "Careers",
-    "query": "site:careers.* Apple AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Apple AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Apple machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Apple official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Apple Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Apple AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Google",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Google (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Google",
-    "source_query": "Web",
-    "query": "Google (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Apple",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "Google",
-        "link": "https://www.google.com.tw/index.html",
-        "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for."
+        "query": "Apple AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "關於 Google：我們的產品、技術與公司資訊 - About Google",
-        "link": "https://about.google/intl/zh-TW_ALL/",
-        "snippet": "產品 探索 Google 搜尋、 Google Workspace 等 服務 中 的 產品 和 功 能 技術 全 方 位 瞭解 我們 業界 領先 的 A I 模型， 並 發掘 相關 功能 研究 瞭解 我們 如何 解決 電腦 科學 領域 最 具 挑戰性 的 難題"
+        "query": "Apple machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Google",
-        "link": "https://www.google.com/?hl=zh-TW",
-        "snippet": "Google 的其他語言版本： English"
+        "query": "Apple official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Google 翻譯",
-        "link": "https://translate.google.com.tw/",
-        "snippet": "Google 提供的服務無須支付費用，可讓您即時翻譯英文和超過 100 種其他語言的文字、詞組和網頁。"
+        "query": "Apple Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "Google",
-        "link": "https://www.google.com.hk/?hl=zh-TW",
-        "snippet": "Google 提供網頁搜尋、圖片搜尋、影片搜尋及其他各種服務。"
+        "query": "Apple AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Google",
-    "source_query": "Careers",
-    "query": "site:careers.* Google AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Google AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Google machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Google official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Google Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Google AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   },
   {
-    "company": "Meta",
-    "source_query": "LinkedIn",
-    "query": "site:linkedin.com/jobs Meta (AI OR \"machine learning\" OR \"data scientist\") (Taiwan OR Singapore)",
-    "results": []
-  },
-  {
-    "company": "Meta",
-    "source_query": "Web",
-    "query": "Meta (AI OR \"machine learning\" OR \"data scientist\" OR \"computer vision\") jobs Taiwan Singapore",
-    "results": [
+    "company": "Google",
+    "location": "Singapore",
+    "attempts": [
       {
-        "title": "YouTube",
-        "link": "https://www.youtube.com/",
-        "snippet": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+        "query": "Google AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "YouTube - Google Play 앱",
-        "link": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=ko",
-        "snippet": "Android 스마트폰 및 태블릿에 공식 YouTube 앱을 다운로드하세요. 가장 인기 있는 뮤직 비디오에서부터 게임, 패션, 뷰티, 뉴스, 학습 등에 이르기까지 전 세계의 인기 동영상을 확인할 수 있습니다. 좋아하는 채널을 구독하고 직접 콘텐츠를 제작하고 친구와 …"
+        "query": "Google machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
       },
       {
-        "title": "‎YouTube 앱 - App Store",
-        "link": "https://apps.apple.com/kr/app/youtube/id544007664",
-        "snippet": "유튜브 업데이트도 많이 하시던데 이런 디테일적인 면에서도 제발 신경써주세요... 어플의 편리함을 이런면에서도 신경써주세요. 이런건 업뎃 일주일마다해도 괜찮으니까 제발...이제 당분간은 디자인말고 이런쪽으로 신경써주세요."
+        "query": "Google official careers AI Singapore",
+        "error": null,
+        "results": []
       },
       {
-        "title": "NAVER",
-        "link": "https://www.naver.com/",
-        "snippet": "네이버는 다양한 정보와 유용한 컨텐츠를 제공하는 대한민국 대표 포털 사이트입니다."
+        "query": "Google Machine Learning Singapore job",
+        "error": null,
+        "results": []
       },
       {
-        "title": "YouTube Kids",
-        "link": "https://www.youtubekids.com/",
-        "snippet": "YouTube Kids provides a more contained environment for kids to explore YouTube and makes it easier for parents and caregivers to guide their journey."
+        "query": "Google AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
       }
     ]
   },
   {
     "company": "Meta",
-    "source_query": "Careers",
-    "query": "site:careers.* Meta AI machine learning jobs Taiwan Singapore",
-    "results": []
+    "location": "Taiwan",
+    "attempts": [
+      {
+        "query": "Meta AI jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta machine learning jobs Taiwan LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta official careers AI Taiwan",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta Machine Learning Taiwan job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
+  },
+  {
+    "company": "Meta",
+    "location": "Singapore",
+    "attempts": [
+      {
+        "query": "Meta AI jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta machine learning jobs Singapore LinkedIn",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta official careers AI Singapore",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta Machine Learning Singapore job",
+        "error": null,
+        "results": []
+      },
+      {
+        "query": "Meta AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
+        "error": null,
+        "results": []
+      }
+    ]
   }
 ]
