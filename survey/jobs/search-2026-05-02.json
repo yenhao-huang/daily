@@ -1,994 +1,1579 @@
-[
-  {
-    "company": "MediaTek",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "MediaTek AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "MediaTek",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "MediaTek AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "MediaTek AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Qualcomm",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Qualcomm AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Qualcomm",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Qualcomm AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Qualcomm AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Realtek",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Realtek AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Realtek",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Realtek AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Realtek AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "TSMC",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "TSMC AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "TSMC",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "TSMC AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "TSMC AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Phison",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Phison AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Phison",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Phison AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Phison AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Micron",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Micron AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Micron",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Micron AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Micron AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Synology",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Synology AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Synology",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Synology AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Synology AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Cadence",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Cadence AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Cadence",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Cadence AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Cadence AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Trend Micro",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Trend Micro AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Trend Micro",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Trend Micro AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Trend Micro AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Appier",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Appier AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Appier",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Appier AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Appier AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Intel",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Intel AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Intel",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Intel AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Intel AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "AMD",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "AMD AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "AMD",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "AMD AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "AMD AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "NVIDIA",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "NVIDIA AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "NVIDIA",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "NVIDIA AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "NVIDIA AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Apple",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Apple AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Apple",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Apple AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Apple AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Google",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Google AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Google",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Google AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Google AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Meta",
-    "location": "Taiwan",
-    "attempts": [
-      {
-        "query": "Meta AI jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta machine learning jobs Taiwan LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta official careers AI Taiwan",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta Machine Learning Taiwan job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta AI ML Taiwan 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  },
-  {
-    "company": "Meta",
-    "location": "Singapore",
-    "attempts": [
-      {
-        "query": "Meta AI jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta machine learning jobs Singapore LinkedIn",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta official careers AI Singapore",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta Machine Learning Singapore job",
-        "error": null,
-        "results": []
-      },
-      {
-        "query": "Meta AI ML Singapore 104 Jobstreet Glassdoor NodeFlair BYP AI Jobs Careers",
-        "error": null,
-        "results": []
-      }
-    ]
-  }
-]
+{
+  "date": "2026-05-02",
+  "attempts": [
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "MediaTek AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "MediaTek machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "MediaTek official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "MediaTek Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "MediaTek AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "MediaTek AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "MediaTek machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "MediaTek official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "MediaTek Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "MediaTek AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Qualcomm AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Qualcomm machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Qualcomm official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Qualcomm Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Qualcomm AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Qualcomm AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Qualcomm machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Qualcomm official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Qualcomm Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Qualcomm AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Realtek AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Realtek machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Realtek official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Realtek Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Realtek AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Realtek AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Realtek machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Realtek official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Realtek Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Realtek AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "TSMC AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "TSMC machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "TSMC official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "TSMC Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "TSMC AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "TSMC AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "TSMC machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "TSMC official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "TSMC Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "TSMC AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Phison AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Phison machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Phison official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Phison Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Phison AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Phison AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Phison machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Phison official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Phison Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Phison AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Micron AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Micron machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Micron official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Micron Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Micron AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Micron AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Micron machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Micron official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Micron Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Micron AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Synology AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Synology machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Synology official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Synology Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Synology AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Synology AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Synology machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Synology official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Synology Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Synology AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Cadence AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Cadence machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Cadence official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Cadence Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Cadence AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Cadence AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Cadence machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Cadence official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Cadence Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Cadence AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Trend Micro AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Trend Micro machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Trend Micro official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Trend Micro Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Trend Micro AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Trend Micro AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Trend Micro machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Trend Micro official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Trend Micro Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Trend Micro AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Appier AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Appier machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Appier official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Appier Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Appier AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Appier AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Appier machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Appier official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Appier Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Appier AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Intel AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Intel machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Intel official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Intel Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Intel AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Intel AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Intel machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Intel official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Intel Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Intel AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "AMD AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "AMD machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "AMD official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "AMD Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "AMD AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "AMD AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "AMD machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "AMD official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "AMD Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "AMD AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "NVIDIA AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "NVIDIA machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "NVIDIA official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "NVIDIA Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "NVIDIA AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "NVIDIA AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "NVIDIA machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "NVIDIA official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "NVIDIA Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "NVIDIA AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Apple AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Apple machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Apple official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Apple Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Apple AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Apple AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Apple machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Apple official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Apple Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Apple AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Google AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Google machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Google official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Google Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Google AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Google AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Google machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Google official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Google Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Google AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "Meta AI jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "Meta machine learning jobs Taiwan LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "Meta official careers AI Taiwan",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "Meta Machine Learning Taiwan job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "Meta AI ML Taiwan (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "Meta AI jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "Meta machine learning jobs Singapore LinkedIn",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "Meta official careers AI Singapore",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "Meta Machine Learning Singapore job",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "Meta AI ML Singapore (site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "status": null,
+      "reason": "search blocked/error status None",
+      "top_results": []
+    }
+  ],
+  "official_notes": [
+    {
+      "company": "Appier",
+      "source": "greenhouse",
+      "status": 200,
+      "count": 94
+    },
+    {
+      "company": "NVIDIA",
+      "source": "workday",
+      "search": "AI",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "NVIDIA",
+      "source": "workday",
+      "search": "machine learning",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "NVIDIA",
+      "source": "workday",
+      "search": "deep learning",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "NVIDIA",
+      "source": "workday",
+      "search": "data scientist",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "NVIDIA",
+      "source": "workday",
+      "search": "LLM",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "Micron",
+      "source": "workday",
+      "search": "AI",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "Micron",
+      "source": "workday",
+      "search": "machine learning",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "Micron",
+      "source": "workday",
+      "search": "deep learning",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "Micron",
+      "source": "workday",
+      "search": "data scientist",
+      "status": 200,
+      "count": 20
+    },
+    {
+      "company": "Micron",
+      "source": "workday",
+      "search": "LLM",
+      "status": 200,
+      "count": 20
+    }
+  ],
+  "items": [
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "title": "Data Scientist, Analytics",
+      "url": "https://job-boards.greenhouse.io/appier/jobs/1501726",
+      "source": "Official Greenhouse",
+      "description": "Official careers posting; &lt;p&gt;&lt;strong&gt;About Appier&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Appier is a software-as-a-service (SaaS) company that uses artificial intelligen",
+      "keywords": "Machine Learning, Data Scientist, AI"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "title": "Machine Learning Scientist",
+      "url": "https://job-boards.greenhouse.io/appier/jobs/1501746",
+      "source": "Official Greenhouse",
+      "description": "Official careers posting; &lt;p&gt;&lt;strong&gt;About Appier&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Appier is a software-as-a-service (SaaS) company that uses artificial intelligen",
+      "keywords": "Machine Learning, AI"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "title": "Senior Machine Learning Scientist, Advertising Incrementality",
+      "url": "https://job-boards.greenhouse.io/appier/jobs/7364432",
+      "source": "Official Greenhouse",
+      "description": "Official careers posting; &lt;p&gt;&lt;strong&gt;About Appier&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Appier is a software-as-a-service (SaaS) company that uses artificial intelligen",
+      "keywords": "Machine Learning, Deep Learning, AI"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "title": "Senior Machine Learning Scientist (Enterprise Solution)",
+      "url": "https://job-boards.greenhouse.io/appier/jobs/6986240",
+      "source": "Official Greenhouse",
+      "description": "Official careers posting; &lt;p&gt;&lt;strong&gt;About Appier&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Appier is a software-as-a-service (SaaS) company that uses artificial intelligen",
+      "keywords": "LLM, Machine Learning, AI"
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "title": "DATA SCIENTIST",
+      "url": "https://micron.wd1.myworkdayjobs.com/job/Fab-10A-Singapore/DATA-SCIENTIST_JR98343",
+      "source": "Official Workday",
+      "description": "Official careers match for machine learning; location Fab 10A, Singapore.",
+      "keywords": "Machine Learning, Data Scientist"
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "title": "SR Facility AI Engineer",
+      "url": "https://micron.wd1.myworkdayjobs.com/job/Taichung---Fab-16-Taiwan/SR-Facility-AI-Engineer_JR90637",
+      "source": "Official Workday",
+      "description": "Official careers match for machine learning; location Taichung - Fab 16, Taiwan.",
+      "keywords": "Machine Learning"
+    }
+  ]
+}
