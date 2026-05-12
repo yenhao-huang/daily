@@ -1,0 +1,3038 @@
+{
+  "date": "2026-05-08",
+  "attempts": [
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"MediaTek\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 2,
+        "AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"MediaTek\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 2,
+        "AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"MediaTek\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 2,
+        "AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"MediaTek\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 2,
+        "AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"MediaTek\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"MediaTek\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"MediaTek\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"MediaTek\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"MediaTek\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "MediaTek",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"MediaTek\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Qualcomm\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Qualcomm\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Qualcomm\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Qualcomm\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Qualcomm\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Qualcomm\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Qualcomm\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Qualcomm\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Qualcomm\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2,
+        "target location not clear": 2
+      }
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Qualcomm\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Realtek\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Realtek\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Realtek\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Realtek\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Realtek\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Realtek\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Realtek\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Realtek\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Realtek\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: Operations": 3
+      }
+    },
+    {
+      "company": "Realtek",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Realtek\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"TSMC\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"TSMC\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"TSMC\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"TSMC\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"TSMC\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"TSMC\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"TSMC\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"TSMC\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"TSMC\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 3
+      }
+    },
+    {
+      "company": "TSMC",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"TSMC\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Phison\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Phison\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Phison\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 6,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 6
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Phison\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Phison\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Phison\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Phison\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Phison\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 4,
+        "company not clear; target location not clear": 4
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Phison\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Phison",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Phison\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Micron\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Micron\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Micron\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Micron\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Micron\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Micron\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Micron\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Micron\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Micron\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Micron\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Synology\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Synology\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Synology\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Synology\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Synology\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Synology\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Synology\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Synology\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Synology\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Synology",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Synology\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Cadence\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Cadence\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Cadence\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Cadence\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Cadence\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Cadence\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Cadence\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Cadence\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Cadence\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Cadence",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Cadence\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Trend Micro\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Trend Micro\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Trend Micro\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Trend Micro\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Trend Micro\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Trend Micro\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Trend Micro\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Trend Micro\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Trend Micro\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear": 1,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Trend Micro",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Trend Micro\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Appier\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Appier\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Appier\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Appier\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Appier\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Appier\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "target location not clear; result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Appier\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "target location not clear; result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Appier\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "target location not clear; result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Appier\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear; result title is generic/not a job title": 5,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1,
+        "target location not clear; result title is generic/not a job title": 1,
+        "target location not clear; AI/ML relevance not clear; excluded level/function keyword: hr": 1
+      }
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Appier\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Intel\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Intel\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Intel\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Intel\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Intel\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Intel\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Intel\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Intel\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Intel\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "company not clear; target location not clear; AI/ML relevance not clear": 1
+      }
+    },
+    {
+      "company": "Intel",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Intel\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"AMD\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"AMD\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"AMD\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"AMD\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"AMD\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"AMD\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"AMD\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"AMD\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"AMD\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "AMD",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"AMD\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"NVIDIA\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"NVIDIA\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"NVIDIA\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"NVIDIA\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"NVIDIA\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"NVIDIA\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "company not clear; target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"NVIDIA\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"NVIDIA\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"NVIDIA\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 6,
+        "company not clear; target location not clear; AI/ML relevance not clear": 2
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"NVIDIA\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Apple\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Apple\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Apple\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Apple\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Apple\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Apple\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Apple\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Apple\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Apple\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 8
+      }
+    },
+    {
+      "company": "Apple",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Apple\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Google\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Google\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Google\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Google\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Google\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Google\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Google\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Google\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Google\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Google",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Google\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 1,
+      "query": "\"Meta\" AI jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 2,
+      "query": "\"Meta\" \"machine learning\" jobs Taiwan LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 3,
+      "query": "\"Meta\" official careers AI Taiwan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 4,
+      "query": "\"Meta\" \"Machine Learning\" Taiwan job Taipei OR Hsinchu OR Taichung OR Tainan",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Taiwan",
+      "attempt": 5,
+      "query": "\"Meta\" AI ML Taiwan (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 1,
+      "query": "\"Meta\" AI jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 2,
+      "query": "\"Meta\" \"machine learning\" jobs Singapore LinkedIn",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 3,
+      "query": "\"Meta\" official careers AI Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 4,
+      "query": "\"Meta\" \"Machine Learning\" Singapore job Singapore",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 8,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "target location not clear; AI/ML relevance not clear": 7,
+        "target location not clear": 1
+      }
+    },
+    {
+      "company": "Meta",
+      "location": "Singapore",
+      "attempt": 5,
+      "query": "\"Meta\" AI ML Singapore (site:linkedin.com/jobs OR site:linkedin.com/jobs/view OR site:104.com.tw OR site:sg.jobstreet.com OR site:glassdoor.com OR site:nodeflair.com OR site:byp-network.com OR site:aijobscareers.com)",
+      "source": "Bing web search (LinkedIn/official/aggregator targeted)",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {}
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": "official-api-AI",
+      "query": "NVIDIA Workday CXS searchText=AI",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": "official-api-Machine Learning",
+      "query": "NVIDIA Workday CXS searchText=Machine Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": "official-api-Deep Learning",
+      "query": "NVIDIA Workday CXS searchText=Deep Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": "official-api-Data Scientist",
+      "query": "NVIDIA Workday CXS searchText=Data Scientist",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": "official-api-GPU",
+      "query": "NVIDIA Workday CXS searchText=GPU",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 1,
+      "adopted_titles": [
+        "GPU Firmware Engineer"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": "official-api-AI",
+      "query": "NVIDIA Workday CXS searchText=AI",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": "official-api-Machine Learning",
+      "query": "NVIDIA Workday CXS searchText=Machine Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": "official-api-Deep Learning",
+      "query": "NVIDIA Workday CXS searchText=Deep Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": "official-api-Data Scientist",
+      "query": "NVIDIA Workday CXS searchText=Data Scientist",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "attempt": "official-api-GPU",
+      "query": "NVIDIA Workday CXS searchText=GPU",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api-AI",
+      "query": "Micron Workday CXS searchText=AI",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api-Machine Learning",
+      "query": "Micron Workday CXS searchText=Machine Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 1,
+      "adopted_titles": [
+        "Sr. Data Scientist, Innovation Engineering Technology"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api-Deep Learning",
+      "query": "Micron Workday CXS searchText=Deep Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api-Data Scientist",
+      "query": "Micron Workday CXS searchText=Data Scientist",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 1,
+      "adopted_titles": [
+        "Sr. Data Scientist, Innovation Engineering Technology"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api-GPU",
+      "query": "Micron Workday CXS searchText=GPU",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 19,
+      "adopted_count": 1,
+      "adopted_titles": [
+        "HBM 招募專區｜加入 MTB，站上 AI 與先進記憶體最前線"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api-AI",
+      "query": "Micron Workday CXS searchText=AI",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api-Machine Learning",
+      "query": "Micron Workday CXS searchText=Machine Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 3,
+      "adopted_titles": [
+        "DATA SCIENTIST",
+        "SR DATA SCIENTIST",
+        "SR DATA SCIENTIST"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api-Deep Learning",
+      "query": "Micron Workday CXS searchText=Deep Learning",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching non-excluded AI title/location in returned jobs": 20
+      }
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api-Data Scientist",
+      "query": "Micron Workday CXS searchText=Data Scientist",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 20,
+      "adopted_count": 3,
+      "adopted_titles": [
+        "DATA SCIENTIST",
+        "SR DATA SCIENTIST",
+        "SR DATA SCIENTIST"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api-GPU",
+      "query": "Micron Workday CXS searchText=GPU",
+      "source": "official Workday CXS API",
+      "status": 200,
+      "error": null,
+      "results_count": 19,
+      "adopted_count": 1,
+      "adopted_titles": [
+        "MTS, AI Engineering, SMAI"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "attempt": "official-greenhouse",
+      "query": "Appier Greenhouse board API, filter title for Machine Learning/Data Scientist/LLM/AI and Taiwan/Singapore",
+      "source": "official Greenhouse API",
+      "status": 200,
+      "error": null,
+      "results_count": 46,
+      "adopted_count": 8,
+      "adopted_titles": [
+        "Data Scientist, Analytics",
+        "Machine Learning Scientist",
+        "Senior Machine Learning Scientist, Advertising Incrementality",
+        "Senior Machine Learning Scientist (Enterprise Solution)",
+        "Senior Machine Learning Scientist, LLM"
+      ],
+      "failure_summary": {}
+    },
+    {
+      "company": "Appier",
+      "location": "Singapore",
+      "attempt": "official-greenhouse",
+      "query": "Appier Greenhouse board API, filter title for Machine Learning/Data Scientist/LLM/AI and Taiwan/Singapore",
+      "source": "official Greenhouse API",
+      "status": 200,
+      "error": null,
+      "results_count": 0,
+      "adopted_count": 0,
+      "adopted_titles": [],
+      "failure_summary": {
+        "no matching title-level-location in official Greenhouse results": 0
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "company": "NVIDIA",
+      "location": "Taiwan",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "GPU Firmware Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/GPU-Firmware-Engineer_JR2014555",
+      "snippet": "Taiwan, Taipei",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "Sr. Data Scientist, Innovation Engineering Technology",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Sr-Data-Scientist--Innovation-Engineering-Technology_JR100114",
+      "snippet": "Taichung - Fab 16, Taiwan",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "Sr. Data Scientist, Innovation Engineering Technology",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Sr-Data-Scientist--Innovation-Engineering-Technology_JR100114",
+      "snippet": "Taichung - Fab 16, Taiwan",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "HBM 招募專區｜加入 MTB，站上 AI 與先進記憶體最前線",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/HBM-ENGINEERING-TECHNICIAN_JR93740",
+      "snippet": "Taichung - MTB, Taiwan",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "DATA SCIENTIST",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/DATA-SCIENTIST_JR100213",
+      "snippet": "Fab 10A, Singapore",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "SR DATA SCIENTIST",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-DATA-SCIENTIST_JR100214",
+      "snippet": "Fab 10A, Singapore",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "SR DATA SCIENTIST",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-DATA-SCIENTIST_JR100231",
+      "snippet": "Fab 10A, Singapore",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "DATA SCIENTIST",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/DATA-SCIENTIST_JR100213",
+      "snippet": "Fab 10A, Singapore",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "SR DATA SCIENTIST",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-DATA-SCIENTIST_JR100214",
+      "snippet": "Fab 10A, Singapore",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "SR DATA SCIENTIST",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-DATA-SCIENTIST_JR100231",
+      "snippet": "Fab 10A, Singapore",
+      "official": true
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "attempt": "official-api",
+      "query": "official ATS API searchText AI/Machine Learning",
+      "title": "MTS, AI Engineering, SMAI",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/MTS--AI-Engineering--SMAI_JR96525",
+      "snippet": "Fab 10A, Singapore",
+      "official": true
+    }
+  ],
+  "jobs": [
+    {
+      "company": "Micron",
+      "location": "Taiwan",
+      "level": "Senior",
+      "title": "Sr. Data Scientist, Innovation Engineering Technology",
+      "source": "Official careers",
+      "link": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Sr-Data-Scientist--Innovation-Engineering-Technology_JR100114",
+      "description": "Official careers posting for a data science / analytics role in Taiwan.",
+      "keywords": "Data Science"
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "level": "Junior/Mid",
+      "title": "DATA SCIENTIST",
+      "source": "Official careers",
+      "link": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/DATA-SCIENTIST_JR100213",
+      "description": "Official careers posting for a data science / analytics role in Singapore.",
+      "keywords": "Data Science"
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "level": "Senior",
+      "title": "SR DATA SCIENTIST",
+      "source": "Official careers",
+      "link": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-DATA-SCIENTIST_JR100214",
+      "description": "Official careers posting for a data science / analytics role in Singapore.",
+      "keywords": "Data Science"
+    },
+    {
+      "company": "Micron",
+      "location": "Singapore",
+      "level": "Junior/Mid",
+      "title": "MTS, AI Engineering, SMAI",
+      "source": "Official careers",
+      "link": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/MTS--AI-Engineering--SMAI_JR96525",
+      "description": "Official careers posting for an AI engineering role in Singapore.",
+      "keywords": "AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Junior/Mid",
+      "title": "Data Scientist, Analytics",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/1501726",
+      "description": "Official careers posting for a data science / analytics role in Taiwan.",
+      "keywords": "Data Science, Computer Vision, AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Junior/Mid",
+      "title": "Machine Learning Scientist",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/1501746",
+      "description": "Official careers posting for a machine-learning engineering/scientist role in Taiwan.",
+      "keywords": "Machine Learning, Computer Vision, AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Senior",
+      "title": "Senior Machine Learning Scientist, Advertising Incrementality",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/7364432",
+      "description": "Official careers posting for a machine-learning engineering/scientist role in Taiwan.",
+      "keywords": "Machine Learning, Computer Vision, AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Senior",
+      "title": "Senior Machine Learning Scientist (Enterprise Solution)",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/6986240",
+      "description": "Official careers posting for a machine-learning engineering/scientist role in Taiwan.",
+      "keywords": "Machine Learning, Computer Vision, AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Senior",
+      "title": "Senior Machine Learning Scientist, LLM",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/6914984",
+      "description": "Official careers posting for an LLM-focused machine learning role in Taiwan.",
+      "keywords": "LLM, Machine Learning, Computer Vision, AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Senior",
+      "title": "Senior Machine Learning Scientist, Playable Ads",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/7757000",
+      "description": "Official careers posting for a machine-learning engineering/scientist role in Taiwan.",
+      "keywords": "Machine Learning, Computer Vision, AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Senior",
+      "title": "Senior Software Engineer, Machine Learning (AIXON)",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/6987027",
+      "description": "Official careers posting for a machine-learning engineering/scientist role in Taiwan.",
+      "keywords": "Machine Learning, AI Engineering"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "level": "Senior",
+      "title": "Senior Software Engineer, Machine Learning (Enterprise Solution)",
+      "source": "Official careers",
+      "link": "https://job-boards.greenhouse.io/appier/jobs/6914976",
+      "description": "Official careers posting for a machine-learning engineering/scientist role in Taiwan.",
+      "keywords": "Machine Learning, AI Engineering"
+    }
+  ]
+}
