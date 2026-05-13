@@ -1,0 +1,29 @@
+# 美股與美國金融市場新聞｜2026-05-14
+
+- **標普 500 靠科技股支撐，維持接近歷史高位**
+  美股在通膨數據壓力下分歧，科技股買盤抵銷部分賣壓。市場仍在 AI 成長與利率壓力間拉扯。
+  來源：https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWM0aTFTaE1zSzRJMDQxcmE0SS1TaEIxUEFxZFZCWjdHR0pUZ3FoWGRINmRWQ0wteExQZnUtTmswWVhxVTVRZnhBZnVYU1MtUG85ekxJeW1vYUJkQm1nNzlJOVdHd1dfSDU3TGtvZGJjY3Q1SmZLRUpyczlBVExCc2ZVYkZ5MklqV2RrUmpxWmpHYWJWWVM2aDRtU0VDUTA5TEJDTFBTTjUyWkozS3NXSnF1UUlybWhWZnpTSEVubnUzaFZQcGJaZlg4T0NyZlU?oc=5
+
+- **道瓊回落，4 月 PPI 升溫加重通膨疑慮**
+  美國生產者物價數據高於預期，令市場重新評估利率路徑。通膨黏性使價值股與利率敏感族群承壓。
+  來源：https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3JETVFOVlZEeEpsSnVmc3RFZldkcVVpUWFoRmlsZmVLQTYyQmw1Q0JzeWt0RFZpZVdKUmFiZUVPQ3dtRG5rVkdwWFJCUGk5TVhhcENUX2xGRnFSdHJZMWUyU1pSSkZQczlSMzNKQ3ZvVnJhTk51Vw?oc=5
+
+- **Fed 主席提名人 Warsh 傳將獲參院支持**
+  Reuters 報導，Kevin Warsh 可望取得美國參院支持，但通膨升溫使政策挑戰加劇。市場關注 Fed 領導層變動對利率與金融監管的影響。
+  來源：https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXZpeUtMRE5wY2dKS2pDSE41N25ndkU2QUQ4TC1uckJXTkw3Wl9QdjNnMHJLQmpqdjFLa0JNcDg2OC1JakpJY0JwVjNxa2F4T2E5ay1IVWRlWDZVMEhxY1JXRGwxd01qa3doMW82SE1oaWF5SjM0Q3hySHVIR0o0MTdaQWpsaVlha0txOV9jdzlWNlVsbEYxNkJMeEplZGlFNXM5T1RzeEt0QnRCejBxM0FR?oc=5
+
+- **Nvidia 與 AI 概念股續強，科技期貨相對抗跌**
+  Investor’s Business Daily 指出，AI 贏家族群延續買氣，使科技股表現優於道瓊期貨。AI 題材仍是美股風險偏好的核心支撐。
+  來源：https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkEyMV96LWo4YzAzOU5faFBaS3FveHhHbDV3amRSLXVvVUpOSmVGRUJ1MkpqMUFXZUVmQk9MdnpYRjZuQ2RnZVBQS0pMRHhqTjZWRnFfcC1SYlNPVzdSU0hjQjJXYXJLU09SaGh5UDBVUlVtLWJSWVk2TWhIWEFqNWZVcFpaeUt6RUxUVDVnV0lFa2NBM0E4dDBkNlFvVkRpaW16OTdDRDExWmM?oc=5
+
+- **Nasdaq 100 的 AI 漲勢被拿來與網路泡沫比較**
+  Yahoo Finance 分析指出，即使 AI 推升 Nasdaq 100，估值與集中度仍與網路泡沫時期有差異。投資人持續衡量 AI 熱潮是否過熱。
+  來源：https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0lBZDhJWWowV3NJdjQ4dXY2ek9iVERKVFRqTjhMN3BWN25BUVgyM2FRTkNVTjQ1YmFCTHJWOS1rQmVZcm1JRmZsWllDN3lyRTVabUlqQ1dyN3hOQ2tKcGlKVncyUGFlcDVaZUt6RjdhTDhEdVEwRWFIak9sWUhHMXZhSGNSVjhpcnpWVGdvRTd1OXpvdWdaME5ydGkwVUs0Z3N0cmdoaV9tYUJrbVpsc3kxWE5VY0FsdU5JZkR5U1VoNTlZczRZbmw2bw?oc=5
+
+- **Fervo Energy 登上 Nasdaq，估值約 102 億美元**
+  地熱能源公司 Fervo Energy 掛牌後股價上漲，Reuters 稱其估值達 102.1 億美元。能源轉型題材仍吸引公開市場資金。
+  來源：https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXZEdl9YbjRKQlVteWRTMGdpekdiVThRaElMeEotS3lXMFJWU2NwaEVJUnkySjFmS2VmakFOWExwbnZRYzNuMWVabUNURm1MOGRGYXl6OF9zYVpqQjF1VVF3TUlxblB4TWhXMUszM3dNanctaHF3WEtERGhmX0pRVmd0ZmJZeE5mNk1qdklLbS1HWjM0S1RwS2R4QWlXZmlQdVZjcmQzSTBDM2s5TXc?oc=5
+
+- **Ford 成為標普 500 表現最佳個股之一，車廠同步走強**
+  Barron’s 報導 Ford 股價領漲標普 500，其他汽車製造商也跟進上揚。資金短線從大型科技外擴至部分循環股。
+  來源：https://news.google.com/rss/articles/CBMie0FVX3lxTFAyN3pWRnZlZ3N3ZTVJcnJIdE5rNzIyclJla3VtYnVPTlFNMkxsbVpHNEVUVU9Gc1ZtQ2VFWG9QRDk0TERCWUJEdEhhcHV6LTJ0VDkxcVMwdUVxdjB4VmJ2THJiYW01WnZ3SWlMUDBjd2QyRTVTMHgxQVdTZw?oc=5
