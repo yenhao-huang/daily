@@ -1,0 +1,29 @@
+# 美股與美國金融市場新聞整理（2026-05-25）
+
+1. **S&P 500、Nasdaq、Dow 收低，美債殖利率攀升引發通膨憂慮**  
+   MSN 報導三大指數走低，主因美債殖利率上揚反映市場對通膨與利率路徑的擔憂。Alphabet、Cisco、Home Depot、Costco、Walmart 等大型股受到關注。  
+   來源：https://news.google.com/rss/articles/CBMixwNBVV95cUxOYUZRYXZrZWxybkQxWE5QTVRLeFQxMzVvR0ZwYUZrcGJVc2ZrbVMwT0lYczRXV0FJRlpZaktkdEY2ZHM0UkE2LTFtZmx2WmRpb3BMN2M2ZUplbnotNHI5WXVsdHZweEd3Z28zdnNMRjl4SnRBeXB0eVA4R2pVWFI1U2VyYzF6YllqOG1sWG1oYjhka0xBMW1DNlEtcnI4SG1YR05pcHQ5U09Fb2tmb0VRZF9PZTVRNWpCR0dMRllyak5ZbHU1WUozYkZQMkdEbHl1UHBJb1lzNEpONDA0SFItR0ZJbmhZcHFWVGdzSUMxODdsVmJYVmNGZGg5VVI2OWRDcWZxWXc5YXllUlpfS2x6SWQyelpFMDhyYzdvb2hxaG0wQmtHdmU1alVRWkRPdnpVQk4tR3FhYWd1Nkk2ek5QeXExWWtMbENmU3N2M2ktMG5ucVlIYnVDQ0xXOV9pSGtTQjBodElhZ2NMTUlGbUdwU3RQUDRHMXljUENFdU5sWVBCd1lmemR1dmt6OXRPY1NKTGZhR1Npa1gzVUxGUHV1djdJQ2w3Ti00d0xMeEFMdG9pd2NYYUE5ZDFDNUI2LTFEZzZsU2hGUQ?oc=5
+
+2. **本週美股展望聚焦利率、財報與科技股動能**  
+   TradingKey 的週報指出，投資人將關注本週美股走勢與重要總經訊號。科技股與利率敏感族群仍可能主導指數波動。  
+   來源：https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFAyS3NQdXI0QTlVN3JBTnVXb1dvaVZfNjRkMXNHaHNoenRkWmQ4ZHl3WEVCczl0TE1mZUFpOXUzU3FWUUhuMmpBbkVXMDZSNFpFdDVqdUJSTzVhcTcya2hEZTVOd2JieGRBMC1RdW40VmlBdXJGbkhjQVk4Q1JYa05lY0NOdUJZ?oc=5
+
+3. **前 Fed 主席 Powell 對通膨給出現實提醒**  
+   Motley Fool 報導 Powell 在最後一次 FOMC 會議中釋出對通膨的簡短提醒，市場解讀為降息預期不可過度樂觀。Fed 溝通仍是股債定價核心。  
+   來源：https://news.google.com/rss/articles/CBMilwFBVV95cUxOQjkyMWZLclpQdWtucV9XRW1hczNiNks5WnlodGpSMnRqbjBTOWxIOFY4MWdvX3ZmWG4yWm84ZzNyT0Raa0RqMW9INFdXd2UwN0E3cmxveW55dWVremtXSGEyQ3MwTFJxSmJ1bzNValphdGVRME1SQlR6b05DcVRtalBMSTI5MzVkZWdvTnQtOXYwVDhhUmVJ?oc=5
+
+4. **利率可能出現 2023 年以來少見變化，牽動股市方向**  
+   The Globe and Mail 報導利率預測變化可能觸發股市大幅波動。若殖利率重新定價，成長股、金融股與高股息資產都可能受影響。  
+   來源：https://news.google.com/rss/articles/CBMitAJBVV95cUxPNWZ6Y3M4TURVcU5vZ0lTemFKUWpWWUQ0Ti1KYnQ3ay1ES2ROTVdxZEw2eE1ZdHlWWVBsUXR6SkNOR3B3ekJVRDZQeFFnczhkZVRDSUFJdXlKYTBBOUxGNHJ4aG5aamVMUnBCSXdQNWgtMHFYVU1IRG0tZVYxbGZ3cE5xWF9HRUt5blcyNFFCMnlnM3paTnFHYlY0RWNDLVJ3c1JaQ1pkbjJ4cmhnU181Zk12LUl1Z1YyMzVOcU1ObE5kejJrTFhfV0pVSFZZRVoyLUtYbEJXRmRmV0FtOTYwMVpkbUREVWRkd0xlQXhBZGQ5Y3NPY3VSUWJxYTh0My1ZWUFuVjlUZUtOTzFMazB6QzRsSjd1cDM5Nm5WMkttRFhwSHVmQ0lldUIxU0FPZzdUeTM1Sg?oc=5
+
+5. **伊朗和平希望與科技股強勢推升美股收高**  
+   TradingView 報導，美股一度受到地緣政治緩和期待與科技股買盤支撐。國際風險事件仍會透過能源價格與避險情緒影響美股。  
+   來源：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdE1PdURVU3dMMmV0U2lJZG9sNEZwc2E0M0F2MEhEdnJ2WjRZZEFpWUJvaC1CZVNWNGhtMWpjblVPbFBSVlVabm14WURPMFhOMmpTMGZrS2FnUmotZ01XVWdhSXgtT0dyQjRuemNnaFA4VXltanVpM0FnVko2ak9uZmlMRlFob3pySEJmc1haSno1ajFYTmVXR2pjWGRtaEVuUDZUdXUyUy1QLTFDQ0ZiZEJIU0xjV3A2?oc=5
+
+6. **新任 Fed 主席 Kevin Warsh 題材引發市場政策風險討論**  
+   Motley Fool 評論指出，政治因素可能使新任 Fed 主席面臨艱難開局。市場關注央行獨立性、通膨控制與利率決策是否受政治壓力干擾。  
+   來源：https://news.google.com/rss/articles/CBMikwFBVV95cUxNUHhXdF9TOEhsSWVhLUpFM3BtRDVrNTZKN2lxU0hub3ZSMkpaMDdndFJLNnVpTGdqUmhURmd6M3dZaU9FUm9wZHdmVzNGSGgwelA3ZW52T1ZqeWhZMjNpMUJTRXNhVUFGejE5WjNES1Z4a3FmTk1EQV81Z2MtZGhraFJ6S053d1lWV0hPUHFCY3hNbnM?oc=5
+
+7. **Nvidia 股利與 AI 成長題材持續吸引投資人**  
+   Motley Fool 報導 Nvidia 大幅調高股利並延續 AI 成長股討論。市場仍以資料中心需求、毛利率與供應能力判斷其估值支撐。  
+   來源：https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjVHWnlnOTJ3dHl4RDQ2VTBmc3psVkZvNy1BOTIzNVN4RVl3YXI2eXF6Yll6Nnl0d3VXZDZKeUtQdVg3NDN3NDBkWHkwaEdfN1pyckhPeG9iT2lwakxTMHNBeG9KY2JpcWJGckJKMDRMNGdNMThqcW8xeDJCSDQzVEFla3BmbXpicWIxNg?oc=5

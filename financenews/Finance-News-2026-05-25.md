@@ -1,0 +1,29 @@
+# 台股與金融新聞整理（2026-05-25）
+
+1. **台股重挫 795.17 點**  
+   經濟日報報導台股大跌 795.17 點，顯示市場風險偏好明顯降溫。短線焦點在大型權值股、外資動向與國際利率變化。  
+   來源：https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbXZrWHVuVWFBUTN3ZlFzU1p1TUJvNl9PR25xeWJyMmdIejZzajZ0WHNkdm1KQS14eDNnb19vWU0tVkhKNWhFR3dfajVKdHVBZUdQcy1PbXBqNjRpYksxQXlNSEUzaG9lQllNTjJuWGJOZkg40gFfQVVfeXFMTUlJZS00N2pWYmM4bm5pVUZHQUQyMldULUxuWmVESHkwOUVtb2Zfd1FwbjZwR1Q1S3V5UklMUGVSWjU4c09xNmlOa0dXVUJ3VnhKQ2Z5aFBJZ09EQklId2s?oc=5
+
+2. **台積電傳分紅調整，員工議題成市場關注**  
+   Yahoo 股市報導台積電傳出可能調整分紅，引發員工權益與工會討論。若事件延燒，市場將觀察對企業形象、人才留任與供應鏈信心的影響。  
+   來源：https://news.google.com/rss/articles/CBMi6wJBVV95cUxNOWRyTUJXRk5RdnB0azFHcW1kM3otMDdqZGR6UHJmZnBwa0FMbzdpZTRQTkpiNHhlVU5ZbzJDVmpzSEhnd1BOQUdlRGtYSjZYcWhleTNPZVRZT3FaWm9zcUFjNVZNekIwbk00a05reEppdjh5cmpNc01SS0o5S1NXTkhXNTlNekZTd0Z2RmtTTUhCaVZjZTkzOERISTk5QVlTQTNwX2NwUWl0TzEwVkJTTGRYZndqclJWc1ZPNjdlbTR4a2FISzMxeHZsRzJ5NXJsaXEySVIycGNSc2dXZGpMTFEwNUg4eWZXaXYyb0hfR2MxbWNIN0JqY2I0Umx6TGdKRFhPdWVMM2tRWXdCZWROZVBDczNiLXV4TDZRZjN3WlJtN2JnSW5YcmJ2b0tibklWdUsxaGZJSHRCTWhaSVQwX2JWVDBOWGJqNThfaHZJd091TGItS0FvOEh3RVZRTkZZd2JQeW00NlhDUkU?oc=5
+
+3. **輝達新運算平台帶動台灣供應鏈備戰**  
+   CMoney 報導，輝達新平台題材使台積電與多家台灣供應鏈受關注。AI 伺服器、先進製程、散熱與高速傳輸族群仍是資金追蹤主線。  
+   來源：https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0pIQnY3aFFZcVY3R3hkRlpaX0FPNVlFZllDTWQxRTBiVUc1OFFFNjFXOHVKenpLOFNTYW12WFdSUUs3Zl81ekprNzQwQnlnM2NUUGM0UEVXVlNUejV2U0dnNGJid1o3THlQR1o2M2tISmp4WnhPUHpsVkstYTZZU0hn?oc=5
+
+4. **外資賣超 105 億元，記憶體與權值股承壓**  
+   經濟日報指出外資出現賣超，且賣壓波及記憶體、台積電、鴻海等大型股。籌碼面轉弱可能放大盤勢震盪。  
+   來源：https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RaTBiSE5mM0dPMmk0OTBIbXlzU2JFUWtFT3lpWkhWTHlqVlE3eU9IY21hZmFtZ0dId0pKNjlEY3Fsekp6bGxYb2gtM0R6Vmt4Uy1tUjVrUXIyd9IBX0FVX3lxTE5TajFjc2VDeUxfSGxlX2ZObkxZM24zbl85OHBCS3JSakVxbUFYTklsRWYzdVdxdllNZjZSTjJHTGZOXzhXR0t6SjcyajdHQ3EwR1drZmJ6SWtyeHhyX1Zv?oc=5
+
+5. **台股 4 月漲點創紀錄，散戶指標熱絡**  
+   自由財經報導台股 4 月反彈強勁，散戶參與指標升高。市場熱度雖提供量能支撐，但也提高追高與波動風險。  
+   來源：https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTbkFSM0NRVzZ4ZUhsTUZ6SlJ0NHhscnVjVkJpejdKdGhmcGdId3lLZmhVNEFsQmhPbjJEVkZYVkFZRTdrUHExS3gyWUdUa2NXV25UaE5TUmlKX0XSAVtBVV95cUxQU25BUjNDUVc2eGVIbE1GekpSdDR4bHJ1Y1ZCaXo3SnRoZnBnSHd5S2ZoVTRBbEJoT24yRFZGWFZBWUU3a1BxMUt4MllHVGtjV1duVGhOU1JpSl9F?oc=5
+
+6. **台股自去年 4 月低點反彈，七檔個股漲幅逾兩倍**  
+   三立新聞報導部分個股漲幅大幅領先大盤，反映題材股與成長股輪動明顯。投資人需留意基本面是否跟上股價評價。  
+   來源：https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUhhZEZIdE9GS05MWFpDOW9rekdnRkx2ZzJDdGVOd1dkYmw3aGE0Tm1iWDhPRW1sZlBGQVRVY2VZTUctUVdoMlN1T3JkLVJ4WC1fTWtzbEd6QzZDdGFUTVMtZVFLUHVQZVM0RnZoaGczSmpVYlBBOF9vSWlfNndmb1U5a1gyOWNyY0c1OHRKSGExNXIxQ2NFbFI5U2todVkxal9kT3lmMDg4Um9i?oc=5
+
+7. **美股創高但台積電 ADR 反跌，台股開盤承壓需觀察**  
+   中時報導美股漲勢強勁，但台積電 ADR 下跌，代表台灣權值股仍可能受個別因素影響。台股短線需同時觀察美股科技股與 ADR 表現。  
+   來源：https://news.google.com/rss/articles/CBMibkFVX3lxTE95dlIyODl5ck9IX0tLQU5Rb2g4T2VsZ2pwWWVwMTM1dy1uSzZCRFdISGRhRmJzbXJMV2lUOGxJYWdka3BzTkhUajVUbTZ5NUtTTVQxOWl2UG5WQW95QVAteEhHbERXUjU4Y0kySEJ3?oc=5
