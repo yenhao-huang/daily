@@ -243,56 +243,11 @@
     {
       "company": "Qualcomm",
       "location": "Taiwan",
-      "title": "Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-research-engineer-%E2%80%94-face-analytics-3d-reconstruction-at-qualcomm-4369104616",
-      "evidence": "title evidence: Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
-      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Hsinchu City, Taiwan, Taiwan"
-    },
-    {
-      "company": "Qualcomm",
-      "location": "Taiwan",
-      "title": "Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-research-engineer-%E2%80%94-face-analytics-3d-reconstruction-at-qualcomm-4369109623",
-      "evidence": "title evidence: Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
-      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Taipei, Taipei City, Taiwan"
-    },
-    {
-      "company": "Qualcomm",
-      "location": "Taiwan",
       "title": "Computer Vision & AI Engineer, Up to Senior Level",
       "level": "Senior",
       "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/computer-vision-ai-engineer-up-to-senior-level-at-qualcomm-4332221317",
       "evidence": "title evidence: Computer Vision & AI Engineer, Up to Senior Level",
       "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Taipei, Taipei City, Taiwan"
-    },
-    {
-      "company": "Qualcomm",
-      "location": "Taiwan",
-      "title": "Senior AI Engineer – Depth Estimation and Dense Scene Understanding",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-depth-estimation-and-dense-scene-understanding-at-qualcomm-4438924922",
-      "evidence": "title evidence: Senior AI Engineer – Depth Estimation and Dense Scene Understanding",
-      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Hsinchu City, Taiwan, Taiwan"
-    },
-    {
-      "company": "Qualcomm",
-      "location": "Taiwan",
-      "title": "Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-algorithm-engineer-%E2%80%93-hardware-co%E2%80%91optimization-edge-ai-soc-at-qualcomm-4369115356",
-      "evidence": "title evidence: Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
-      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Taipei, Taipei City, Taiwan"
-    },
-    {
-      "company": "Qualcomm",
-      "location": "Taiwan",
-      "title": "Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-algorithm-engineer-%E2%80%93-hardware-co%E2%80%91optimization-edge-ai-soc-at-qualcomm-4368993866",
-      "evidence": "title evidence: Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
-      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Hsinchu City, Taiwan, Taiwan"
     },
     {
       "company": "Qualcomm",
@@ -315,29 +270,56 @@
     {
       "company": "Qualcomm",
       "location": "Taiwan",
+      "title": "Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-algorithm-engineer-%E2%80%93-hardware-co%E2%80%91optimization-edge-ai-soc-at-qualcomm-4369115356",
+      "evidence": "title evidence: Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
+      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Taipei, Taipei City, Taiwan"
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "title": "Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-algorithm-engineer-%E2%80%93-hardware-co%E2%80%91optimization-edge-ai-soc-at-qualcomm-4368993866",
+      "evidence": "title evidence: Senior Computer Vision Algorithm Engineer – Hardware Co‑Optimization (Edge AI/SoC)",
+      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Hsinchu City, Taiwan, Taiwan"
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "title": "Senior AI Engineer – Depth Estimation and Dense Scene Understanding",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-depth-estimation-and-dense-scene-understanding-at-qualcomm-4438924922",
+      "evidence": "title evidence: Senior AI Engineer – Depth Estimation and Dense Scene Understanding",
+      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Hsinchu City, Taiwan, Taiwan"
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "title": "Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-research-engineer-%E2%80%94-face-analytics-3d-reconstruction-at-qualcomm-4369104616",
+      "evidence": "title evidence: Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
+      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Hsinchu City, Taiwan, Taiwan"
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
+      "title": "Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-research-engineer-%E2%80%94-face-analytics-3d-reconstruction-at-qualcomm-4369109623",
+      "evidence": "title evidence: Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
+      "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Taipei, Taipei City, Taiwan"
+    },
+    {
+      "company": "Qualcomm",
+      "location": "Taiwan",
       "title": "Computer Vision Systems Engineer, up to Sr.",
       "level": "Senior",
       "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/computer-vision-systems-engineer-up-to-sr-at-qualcomm-4320784085",
       "evidence": "title evidence: Computer Vision Systems Engineer, up to Sr.",
       "notes": "LinkedIn public search card; visible company=Qualcomm; visible location=Taipei, Taipei City, Taiwan"
-    },
-    {
-      "company": "TSMC",
-      "location": "Taiwan",
-      "title": "AI & Data Analysis Engineer (Dept: AQSD, Div: IMC)",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/ai-data-analysis-engineer-dept-aqsd-div-imc-at-tsmc-4413961074",
-      "evidence": "title evidence: AI & Data Analysis Engineer (Dept: AQSD, Div: IMC)",
-      "notes": "LinkedIn public search card; visible company=TSMC; visible location=Hsinchu City, Taiwan, Taiwan"
-    },
-    {
-      "company": "TSMC",
-      "location": "Taiwan",
-      "title": "Senior AI Engineer (AI4BI)",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-ai-engineer-ai4bi-at-tsmc-4432079215",
-      "evidence": "title evidence: Senior AI Engineer (AI4BI)",
-      "notes": "LinkedIn public search card; visible company=TSMC; visible location=Hsinchu City, Taiwan, Taiwan"
     },
     {
       "company": "TSMC",
@@ -355,6 +337,24 @@
       "level": "Unknown",
       "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/it-ai-ml-engineer-at-tsmc-4413955140",
       "evidence": "title evidence: IT AI/ML Engineer",
+      "notes": "LinkedIn public search card; visible company=TSMC; visible location=Hsinchu City, Taiwan, Taiwan"
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "title": "AI & Data Analysis Engineer (Dept: AQSD, Div: IMC)",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/ai-data-analysis-engineer-dept-aqsd-div-imc-at-tsmc-4413961074",
+      "evidence": "title evidence: AI & Data Analysis Engineer (Dept: AQSD, Div: IMC)",
+      "notes": "LinkedIn public search card; visible company=TSMC; visible location=Hsinchu City, Taiwan, Taiwan"
+    },
+    {
+      "company": "TSMC",
+      "location": "Taiwan",
+      "title": "Senior AI Engineer (AI4BI)",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-ai-engineer-ai4bi-at-tsmc-4432079215",
+      "evidence": "title evidence: Senior AI Engineer (AI4BI)",
       "notes": "LinkedIn public search card; visible company=TSMC; visible location=Hsinchu City, Taiwan, Taiwan"
     },
     {
@@ -659,7 +659,7 @@
       "location": "Singapore",
       "title": "Full-Stack AI Engineer, IPAI, SMAI",
       "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/full-stack-ai-engineer-ipai-smai-at-micron-technology-4439847807",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/full-stack-ai-engineer-ipai-smai-at-micron-technology-4445125453",
       "evidence": "title evidence: Full-Stack AI Engineer, IPAI, SMAI",
       "notes": "LinkedIn public search card; visible company=Micron Technology; visible location=Singapore, Singapore"
     },
@@ -668,7 +668,7 @@
       "location": "Singapore",
       "title": "Full-Stack AI Engineer, IPAI, SMAI",
       "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/full-stack-ai-engineer-ipai-smai-at-micron-technology-4445125453",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/full-stack-ai-engineer-ipai-smai-at-micron-technology-4439847807",
       "evidence": "title evidence: Full-Stack AI Engineer, IPAI, SMAI",
       "notes": "LinkedIn public search card; visible company=Micron Technology; visible location=Singapore, Singapore"
     },
@@ -715,6 +715,15 @@
       "level": "Unknown",
       "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/ai-engineer-playable-ads-at-appier-group-%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%EF%BC%9A4180-4448652118",
       "evidence": "title evidence: AI Engineer, Playable Ads",
+      "notes": "LinkedIn public search card; visible company=Appier Group (東証プライム：4180); visible location=Taipei, Taipei City, Taiwan"
+    },
+    {
+      "company": "Appier",
+      "location": "Taiwan",
+      "title": "Senior Software Engineer, AI Engineering",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://tw.linkedin.com/jobs/view/senior-software-engineer-ai-engineering-at-appier-group-%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%EF%BC%9A4180-4456491834",
+      "evidence": "title evidence: Senior Software Engineer, AI Engineering",
       "notes": "LinkedIn public search card; visible company=Appier Group (東証プライム：4180); visible location=Taipei, Taipei City, Taiwan"
     },
     {
@@ -828,20 +837,11 @@
     {
       "company": "NVIDIA",
       "location": "Singapore",
-      "title": "AI Research Scientist",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-nvidia-4410869513",
-      "evidence": "title evidence: AI Research Scientist",
-      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore"
-    },
-    {
-      "company": "NVIDIA",
-      "location": "Singapore",
       "title": "Research Scientist",
       "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410878364",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410858952",
       "evidence": "title evidence: Research Scientist",
-      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore"
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore, Singapore"
     },
     {
       "company": "NVIDIA",
@@ -864,15 +864,6 @@
     {
       "company": "NVIDIA",
       "location": "Singapore",
-      "title": "Research Scientist",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410858952",
-      "evidence": "title evidence: Research Scientist",
-      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore, Singapore"
-    },
-    {
-      "company": "NVIDIA",
-      "location": "Singapore",
       "title": "Solutions Architect, Vision AI",
       "level": "Unknown",
       "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/solutions-architect-vision-ai-at-nvidia-4457412144",
@@ -882,11 +873,92 @@
     {
       "company": "NVIDIA",
       "location": "Singapore",
+      "title": "Research Scientist",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410878364",
+      "evidence": "title evidence: Research Scientist",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "AI Research Scientist",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-nvidia-4410869513",
+      "evidence": "title evidence: AI Research Scientist",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
       "title": "Solutions Architect, Vision AI",
       "level": "Unknown",
       "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/solutions-architect-vision-ai-at-nvidia-ai-4456500688",
       "evidence": "title evidence: Solutions Architect, Vision AI",
       "notes": "LinkedIn public search card; visible company=NVIDIA AI; visible location=Singapore, Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "Solutions Architect, Speech AI",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/solutions-architect-speech-ai-at-nvidia-4456285920",
+      "evidence": "title evidence: Solutions Architect, Speech AI",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore, Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "Senior Solution Architect, AI Compute Engineer - NVIS",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/senior-solution-architect-ai-compute-engineer-nvis-at-nvidia-4425536729",
+      "evidence": "title evidence: Senior Solution Architect, AI Compute Engineer - NVIS",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore, Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "Senior Solution Architect, AI Compute Engineer - NVIS",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/senior-solution-architect-ai-compute-engineer-nvis-at-nvidia-4425549697",
+      "evidence": "title evidence: Senior Solution Architect, AI Compute Engineer - NVIS",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "AI Research Scientist",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-nvidia-4419356812",
+      "evidence": "title evidence: AI Research Scientist",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore, Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "AI Research Scientist",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-nvidia-4395476627",
+      "evidence": "title evidence: AI Research Scientist",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore, Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "AI Research Scientist",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-nvidia-4395487297",
+      "evidence": "title evidence: AI Research Scientist",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore"
+    },
+    {
+      "company": "NVIDIA",
+      "location": "Singapore",
+      "title": "AI Research Scientist",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-nvidia-4419355774",
+      "evidence": "title evidence: AI Research Scientist",
+      "notes": "LinkedIn public search card; visible company=NVIDIA; visible location=Singapore"
     },
     {
       "company": "Apple",
@@ -900,19 +972,19 @@
     {
       "company": "Apple",
       "location": "Singapore",
-      "title": "Machine Learning Researcher, Image/ Video Generation",
+      "title": "Commercial Data Scientist, ANZSA",
       "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/machine-learning-researcher-image-video-generation-at-apple-4414159660",
-      "evidence": "title evidence: Machine Learning Researcher, Image/ Video Generation",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/commercial-data-scientist-anzsa-at-apple-4414172045",
+      "evidence": "title evidence: Commercial Data Scientist, ANZSA",
       "notes": "LinkedIn public search card; visible company=Apple; visible location=Singapore, Singapore"
     },
     {
       "company": "Apple",
       "location": "Singapore",
-      "title": "Machine Learning Engineer, Strategic Data Solutions",
+      "title": "Machine Learning Researcher, Image/ Video Generation",
       "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-strategic-data-solutions-at-apple-4414166470",
-      "evidence": "title evidence: Machine Learning Engineer, Strategic Data Solutions",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/machine-learning-researcher-image-video-generation-at-apple-4414159660",
+      "evidence": "title evidence: Machine Learning Researcher, Image/ Video Generation",
       "notes": "LinkedIn public search card; visible company=Apple; visible location=Singapore, Singapore"
     },
     {
@@ -927,10 +999,10 @@
     {
       "company": "Apple",
       "location": "Singapore",
-      "title": "Commercial Data Scientist, ANZSA",
+      "title": "Machine Learning Engineer, Strategic Data Solutions",
       "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/commercial-data-scientist-anzsa-at-apple-4414172045",
-      "evidence": "title evidence: Commercial Data Scientist, ANZSA",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-strategic-data-solutions-at-apple-4414166470",
+      "evidence": "title evidence: Machine Learning Engineer, Strategic Data Solutions",
       "notes": "LinkedIn public search card; visible company=Apple; visible location=Singapore, Singapore"
     },
     {
@@ -981,28 +1053,10 @@
     {
       "company": "Google",
       "location": "Singapore",
-      "title": "Software Engineer, Machine Learning, Payments",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/software-engineer-machine-learning-payments-at-google-4448234205",
-      "evidence": "title evidence: Software Engineer, Machine Learning, Payments",
-      "notes": "LinkedIn public search card; visible company=Google; visible location=Singapore"
-    },
-    {
-      "company": "Google",
-      "location": "Singapore",
-      "title": "AI Technical Training Engineer, Forward Deployed Engineering",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/ai-technical-training-engineer-forward-deployed-engineering-at-google-4458652113",
-      "evidence": "title evidence: AI Technical Training Engineer, Forward Deployed Engineering",
-      "notes": "LinkedIn public search card; visible company=Google; visible location=Singapore"
-    },
-    {
-      "company": "Google",
-      "location": "Singapore",
-      "title": "Software Engineer, Content Safety, AI Transformation Enablement",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/software-engineer-content-safety-ai-transformation-enablement-at-google-4449300446",
-      "evidence": "title evidence: Software Engineer, Content Safety, AI Transformation Enablement",
+      "title": "Senior Data Scientist, Research, App Ecosystem and Trust",
+      "level": "Senior",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/senior-data-scientist-research-app-ecosystem-and-trust-at-google-4452381135",
+      "evidence": "title evidence: Senior Data Scientist, Research, App Ecosystem and Trust",
       "notes": "LinkedIn public search card; visible company=Google; visible location=Singapore"
     },
     {
@@ -1017,10 +1071,10 @@
     {
       "company": "Google",
       "location": "Singapore",
-      "title": "Senior Data Scientist, Research, App Ecosystem and Trust",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/senior-data-scientist-research-app-ecosystem-and-trust-at-google-4452381135",
-      "evidence": "title evidence: Senior Data Scientist, Research, App Ecosystem and Trust",
+      "title": "Software Engineer, Machine Learning, Payments",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/software-engineer-machine-learning-payments-at-google-4448234205",
+      "evidence": "title evidence: Software Engineer, Machine Learning, Payments",
       "notes": "LinkedIn public search card; visible company=Google; visible location=Singapore"
     },
     {
@@ -1035,10 +1089,10 @@
     {
       "company": "Google",
       "location": "Singapore",
-      "title": "Senior Product Data Scientist, Consumer Payments",
-      "level": "Senior",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/senior-product-data-scientist-consumer-payments-at-google-4452431385",
-      "evidence": "title evidence: Senior Product Data Scientist, Consumer Payments",
+      "title": "Software Engineer, Content Safety, AI Transformation Enablement",
+      "level": "Unknown",
+      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/software-engineer-content-safety-ai-transformation-enablement-at-google-4449300446",
+      "evidence": "title evidence: Software Engineer, Content Safety, AI Transformation Enablement",
       "notes": "LinkedIn public search card; visible company=Google; visible location=Singapore"
     },
     {
@@ -1048,24 +1102,6 @@
       "level": "Unknown",
       "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/software-engineer-machine-learning-at-meta-4440434651",
       "evidence": "title evidence: Software Engineer, Machine Learning",
-      "notes": "LinkedIn public search card; visible company=Meta; visible location=Singapore, Singapore"
-    },
-    {
-      "company": "Meta",
-      "location": "Singapore",
-      "title": "Forward Deployed Engineer, Enterprise AI",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-enterprise-ai-at-meta-4441800080",
-      "evidence": "title evidence: Forward Deployed Engineer, Enterprise AI",
-      "notes": "LinkedIn public search card; visible company=Meta; visible location=Singapore, Singapore"
-    },
-    {
-      "company": "Meta",
-      "location": "Singapore",
-      "title": "Forward Deployed Engineer, Enterprise AI",
-      "level": "Unknown",
-      "linkedin_jobs_url": "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-enterprise-ai-at-meta-4441801001",
-      "evidence": "title evidence: Forward Deployed Engineer, Enterprise AI",
       "notes": "LinkedIn public search card; visible company=Meta; visible location=Singapore, Singapore"
     }
   ],
@@ -1167,60 +1203,60 @@
           "accepted_count": 1,
           "rejected_sample": [
             {
-              "title": "Machine Learning Research Scientist - Business Integrity",
-              "company": "TikTok",
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-business-integrity-at-tiktok-4447187027",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4437992720",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)",
-              "company": "TikTok",
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-graduate-business-integrity-2026-start-phd-at-tiktok-4284141412",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Large Model Application Algorithm Research Scientist-International Content Security Algorithm Research",
-              "company": "TikTok",
+              "title": "MTS - Machine Learning",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/large-model-application-algorithm-research-scientist-international-content-security-algorithm-research-at-tiktok-4424638989",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/mts-machine-learning-at-micron-technology-4443140335",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Machine Learning Researcher-Search",
-              "company": "TikTok",
+              "title": "Member of Technical Staff (MTS), Machine Learning, SMAI",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-researcher-search-at-tiktok-4323543824",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/member-of-technical-staff-mts-machine-learning-smai-at-micron-technology-4443140334",
+              "reason": "excluded seniority/business term; company mismatch: Micron Technology"
             },
             {
-              "title": "Machine Learning Engineer, Monetization Data Alignment",
-              "company": "TikTok",
+              "title": "AI Algorithms Engineer | Artificial Intelligence & Machine Learning",
+              "company": "Reolink",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-monetization-data-alignment-at-tiktok-4457987562",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/ai-algorithms-engineer-artificial-intelligence-machine-learning-at-reolink-4400500900",
+              "reason": "company mismatch: Reolink"
             },
             {
-              "title": "Machine Learning Engineer (Community Health) - TikTok BRIC Singapore",
-              "company": "TikTok",
+              "title": "Data Scientist",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-community-health-tiktok-bric-singapore-at-tiktok-4450915561",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4415653565",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Large Model Algorithm Researcher (Multimodal & Code AI)- Soaring Star Talent Program",
-              "company": "ByteDance",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/large-model-algorithm-researcher-multimodal-code-ai-soaring-star-talent-program-at-bytedance-4435857096",
-              "reason": "company mismatch: ByteDance"
+              "title": "Data Scientist",
+              "company": "Micron Technology",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4448508152",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "AI Machine Learning Engineer Graduate (TikTok Search) - 2026 Start (PhD)",
-              "company": "TikTok",
+              "title": "AICS SG - Machine Learning Engineer",
+              "company": "ASUS",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-machine-learning-engineer-graduate-tiktok-search-2026-start-phd-at-tiktok-4323513879",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/aics-sg-machine-learning-engineer-at-asus-4454454393",
+              "reason": "company mismatch: ASUS"
             }
           ]
         }
@@ -1253,6 +1289,13 @@
               "reason": "excluded seniority/business term"
             },
             {
+              "title": "Video Research Engineer (Multiple Levels)",
+              "company": "Qualcomm",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/video-research-engineer-multiple-levels-at-qualcomm-4363489747",
+              "reason": "no AI evidence in title or job-specific snippet"
+            },
+            {
               "title": "AI Machine Learning Software Engineer, up to Staff (Taipei)",
               "company": "Qualcomm",
               "location": "Taipei, Taipei City, Taiwan",
@@ -1260,11 +1303,18 @@
               "reason": "excluded seniority/business term"
             },
             {
-              "title": "Video Research Engineer (Multiple Levels)",
+              "title": "Data Compression Research Engineer",
+              "company": "Qualcomm",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/data-compression-research-engineer-at-qualcomm-4320779657",
+              "reason": "no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "AI Compute Systems Engineer, up to Staff",
               "company": "Qualcomm",
               "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/video-research-engineer-multiple-levels-at-qualcomm-4363489747",
-              "reason": "no AI evidence in title or job-specific snippet"
+              "url": "https://tw.linkedin.com/jobs/view/ai-compute-systems-engineer-up-to-staff-at-qualcomm-4362027560",
+              "reason": "excluded seniority/business term"
             },
             {
               "title": "Hiring Event for PDTE",
@@ -1274,32 +1324,18 @@
               "reason": "no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "Algorithm Engineer",
-              "company": "KLA",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/algorithm-engineer-at-kla-4434517613",
-              "reason": "company mismatch: KLA; no AI evidence in title or job-specific snippet"
-            },
-            {
-              "title": "Senior Algorithm Engineer",
-              "company": "KLA",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/senior-algorithm-engineer-at-kla-4437252029",
-              "reason": "company mismatch: KLA; no AI evidence in title or job-specific snippet"
-            },
-            {
-              "title": "Senior Machine Learning Engineer",
-              "company": "ASUS",
+              "title": "Camera ISP Algorithm Engineer (Taipei)",
+              "company": "Qualcomm",
               "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/senior-machine-learning-engineer-at-asus-4381465988",
-              "reason": "company mismatch: ASUS"
+              "url": "https://tw.linkedin.com/jobs/view/camera-isp-algorithm-engineer-taipei-at-qualcomm-4403956909",
+              "reason": "no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
-              "company": "NVIDIA",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/research-scientist-deep-learning-and-computer-vision-new-college-graduate-at-nvidia-4427244058",
-              "reason": "company mismatch: NVIDIA"
+              "title": "Machine Learning - Architect/Researcher/Engineer",
+              "company": "MediaTek",
+              "location": "Hsinchu, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/machine-learning-architect-researcher-engineer-at-mediatek-4405150001",
+              "reason": "company mismatch: MediaTek"
             }
           ]
         }
@@ -1483,60 +1519,60 @@
           "accepted_count": 0,
           "rejected_sample": [
             {
-              "title": "Staff/ Senior Data Scientist, Multimodal AI, AI Practice",
-              "company": "GovTech Singapore",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/staff-senior-data-scientist-multimodal-ai-ai-practice-at-govtech-singapore-4457460942",
-              "reason": "excluded seniority/business term; company mismatch: GovTech Singapore"
+              "title": "AI Algorithms Engineer | Artificial Intelligence & Machine Learning",
+              "company": "Reolink",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/ai-algorithms-engineer-artificial-intelligence-machine-learning-at-reolink-4400500900",
+              "reason": "company mismatch: Reolink"
             },
             {
-              "title": "Research Scientist (Predicative Quality), IPV, ARTC",
-              "company": "A*STAR - Agency for Science, Technology and Research",
+              "title": "AI/ML Engineer",
+              "company": "Red Hat",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/research-scientist-predicative-quality-ipv-artc-at-a-star-agency-for-science-technology-and-research-4403179125",
-              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research"
+              "url": "https://sg.linkedin.com/jobs/view/ai-ml-engineer-at-red-hat-4449193840",
+              "reason": "company mismatch: Red Hat"
             },
             {
-              "title": "Principal Computer Vision Scientist - Singapore",
-              "company": "MRL Consulting Group | Global Niche Technology Recruitment",
+              "title": "AI/ML Engineer",
+              "company": "Red Hat",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/principal-computer-vision-scientist-singapore-at-mrl-consulting-group-global-niche-technology-recruitment-4459680451",
-              "reason": "excluded seniority/business term; company mismatch: MRL Consulting Group | Global Niche Technology Recruitment"
+              "url": "https://sg.linkedin.com/jobs/view/ai-ml-engineer-at-red-hat-4449199674",
+              "reason": "company mismatch: Red Hat"
             },
             {
-              "title": "Machine Learning Research Scientist - Business Integrity",
-              "company": "TikTok",
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-business-integrity-at-tiktok-4447187027",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4437992720",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Senior Scientist, AI for Health, BII",
-              "company": "A*STAR - Agency for Science, Technology and Research",
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-ai-for-health-bii-at-a-star-agency-for-science-technology-and-research-4410026511",
-              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Data Scientist (ML, Forecasting)",
-              "company": "Robert Walters",
+              "title": "AICS SG - Machine Learning Engineer",
+              "company": "ASUS",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-ml-forecasting-at-robert-walters-4458190664",
-              "reason": "company mismatch: Robert Walters"
+              "url": "https://sg.linkedin.com/jobs/view/aics-sg-machine-learning-engineer-at-asus-4454454393",
+              "reason": "company mismatch: ASUS"
             },
             {
-              "title": "Data Scientist (AI)",
-              "company": "Kyndryl",
+              "title": "Algorithm Engineer (R&D)",
+              "company": "KLA",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-ai-at-kyndryl-4446028109",
-              "reason": "company mismatch: Kyndryl"
+              "url": "https://sg.linkedin.com/jobs/view/algorithm-engineer-r-d-at-kla-4439240471",
+              "reason": "company mismatch: KLA; no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "Founding AI Engineer",
-              "company": "Talotrace",
+              "title": "MTS - Machine Learning",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/founding-ai-engineer-at-talotrace-4453089248",
-              "reason": "company mismatch: Talotrace"
+              "url": "https://sg.linkedin.com/jobs/view/mts-machine-learning-at-micron-technology-4443140335",
+              "reason": "company mismatch: Micron Technology"
             }
           ]
         }
@@ -1562,18 +1598,11 @@
           "accepted_count": 5,
           "rejected_sample": [
             {
-              "title": "Sr. Data Scientist (AI Lab)",
-              "company": "TrendAI",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/sr-data-scientist-ai-lab-at-trendai-4383484848",
-              "reason": "company mismatch: TrendAI"
-            },
-            {
-              "title": "Senior Research Scientist",
-              "company": "MediaTek",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/senior-research-scientist-at-mediatek-4405134881",
-              "reason": "company mismatch: MediaTek"
+              "title": "AI HPC Manager",
+              "company": "TSMC",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/ai-hpc-manager-at-tsmc-4432083096",
+              "reason": "excluded seniority/business term"
             },
             {
               "title": "AI Manager",
@@ -1583,13 +1612,6 @@
               "reason": "excluded seniority/business term"
             },
             {
-              "title": "Engineer (AI Lab)",
-              "company": "TrendAI",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/engineer-ai-lab-at-trendai-4383493548",
-              "reason": "company mismatch: TrendAI"
-            },
-            {
               "title": "AI Engineering Lead",
               "company": "TSMC",
               "location": "Hsinchu City, Taiwan, Taiwan",
@@ -1597,11 +1619,11 @@
               "reason": "excluded seniority/business term"
             },
             {
-              "title": "STAFF DATA SCIENTIST",
-              "company": "Micron Technology",
-              "location": "Taoyuan District, Taoyuan City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/staff-data-scientist-at-micron-technology-4410856154",
-              "reason": "excluded seniority/business term; company mismatch: Micron Technology"
+              "title": "Intelligent Manufacturing System Engineer (IMC)",
+              "company": "TSMC",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/intelligent-manufacturing-system-engineer-imc-at-tsmc-4413943801",
+              "reason": "no AI evidence in title or job-specific snippet"
             },
             {
               "title": "Product Development Software Engineer (IMC)",
@@ -1611,11 +1633,25 @@
               "reason": "no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "Machine Learning - Architect/Researcher/Engineer",
-              "company": "MediaTek",
-              "location": "Hsinchu, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/machine-learning-architect-researcher-engineer-at-mediatek-4405150001",
-              "reason": "company mismatch: MediaTek"
+              "title": "Manager, Digital Transformation & AI",
+              "company": "TSMC",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/manager-digital-transformation-ai-at-tsmc-4432066991",
+              "reason": "excluded seniority/business term"
+            },
+            {
+              "title": "AI Product Manager – Semiconductor",
+              "company": "TSMC",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/ai-product-manager-%E2%80%93-semiconductor-at-tsmc-4432085050",
+              "reason": "excluded seniority/business term"
+            },
+            {
+              "title": "MTS, AI Engineering, SMAI",
+              "company": "Micron Technology",
+              "location": "Taichung City, Taichung City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410845145",
+              "reason": "company mismatch: Micron Technology"
             }
           ]
         }
@@ -1644,14 +1680,14 @@
               "title": "DATA SCIENTIST",
               "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4437992720",
               "reason": "company mismatch: Micron Technology"
             },
             {
               "title": "DATA SCIENTIST",
               "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4437992720",
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
               "reason": "company mismatch: Micron Technology"
             },
             {
@@ -1799,60 +1835,60 @@
           "accepted_count": 0,
           "rejected_sample": [
             {
-              "title": "Senior/ AI Scientist, SingHealth AI Office",
-              "company": "SingHealth",
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/senior-ai-scientist-singhealth-ai-office-at-singhealth-4406943935",
-              "reason": "company mismatch: SingHealth"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4437992720",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Algorithm Data Scientist (PhD Research)",
-              "company": "Reolink",
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/algorithm-data-scientist-phd-research-at-reolink-4426761354",
-              "reason": "company mismatch: Reolink"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Senior Scientist, AI for Health, BII",
-              "company": "A*STAR - Agency for Science, Technology and Research",
+              "title": "MTS - Machine Learning",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-ai-for-health-bii-at-a-star-agency-for-science-technology-and-research-4410026511",
-              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research"
+              "url": "https://sg.linkedin.com/jobs/view/mts-machine-learning-at-micron-technology-4443140335",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "AI Research Scientist",
-              "company": "MSD",
+              "title": "Member of Technical Staff (MTS), Machine Learning, SMAI",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-msd-4420967412",
-              "reason": "company mismatch: MSD"
+              "url": "https://sg.linkedin.com/jobs/view/member-of-technical-staff-mts-machine-learning-smai-at-micron-technology-4443140334",
+              "reason": "excluded seniority/business term; company mismatch: Micron Technology"
             },
             {
-              "title": "Machine Learning Research Scientist - Business Integrity",
-              "company": "TikTok",
+              "title": "Research Scientist",
+              "company": "NVIDIA",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-business-integrity-at-tiktok-4447187027",
-              "reason": "company mismatch: TikTok"
+              "url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410858952",
+              "reason": "company mismatch: NVIDIA"
             },
             {
-              "title": "(Senior) Scientist, Computing & Intelligence, IAIC",
-              "company": "A*STAR - Agency for Science, Technology and Research",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-computing-intelligence-iaic-at-a-star-agency-for-science-technology-and-research-4429544782",
-              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research; no AI evidence in title or job-specific snippet"
+              "title": "Research Scientist - AI",
+              "company": "NVIDIA",
+              "location": "Queenstown, Central Singapore Community Development Council, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/research-scientist-ai-at-nvidia-4436878216",
+              "reason": "company mismatch: NVIDIA"
             },
             {
-              "title": "Scientist, Computing & Intelligence, IAIC",
-              "company": "A*STAR - Agency for Science, Technology and Research",
+              "title": "Data Scientist",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/scientist-computing-intelligence-iaic-at-a-star-agency-for-science-technology-and-research-4398872973",
-              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research; no AI evidence in title or job-specific snippet"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4415653565",
+              "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "PhD Holder | AI Research Scientist",
-              "company": "Reolink",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/phd-holder-ai-research-scientist-at-reolink-4440983987",
-              "reason": "company mismatch: Reolink"
+              "title": "Data Scientist",
+              "company": "Micron Technology",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4448508152",
+              "reason": "company mismatch: Micron Technology"
             }
           ]
         }
@@ -2352,25 +2388,46 @@
           "accepted_count": 0,
           "rejected_sample": [
             {
-              "title": "R&D Engineering, Engineer",
-              "company": "Synopsys Inc",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/r-d-engineering-engineer-at-synopsys-inc-4426770199",
-              "reason": "no AI evidence in title or job-specific snippet"
+              "title": "Machine Learning Engineer, AI Labs",
+              "company": "Netskope",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/machine-learning-engineer-ai-labs-at-netskope-4444072667",
+              "reason": "company mismatch: Netskope"
             },
             {
-              "title": "R&D Engineering, Staff Engineer",
-              "company": "Synopsys Inc",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/r-d-engineering-staff-engineer-at-synopsys-inc-4446057005",
-              "reason": "excluded seniority/business term; no AI evidence in title or job-specific snippet"
-            },
-            {
-              "title": "AI Compute Systems Engineer, up to Staff",
+              "title": "Artificial Intelligence for Video Compression - Research Scientist",
               "company": "Qualcomm",
               "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/ai-compute-systems-engineer-up-to-staff-at-qualcomm-4362027560",
+              "url": "https://tw.linkedin.com/jobs/view/artificial-intelligence-for-video-compression-research-scientist-at-qualcomm-4290888684",
+              "reason": "company mismatch: Qualcomm"
+            },
+            {
+              "title": "Machine Learning & Generative AI Engineer, up to Staff",
+              "company": "Qualcomm",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/machine-learning-generative-ai-engineer-up-to-staff-at-qualcomm-4438303659",
               "reason": "excluded seniority/business term; company mismatch: Qualcomm"
+            },
+            {
+              "title": "Computer Vision and Machine Learning Engineer, Senior",
+              "company": "Qualcomm",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/computer-vision-and-machine-learning-engineer-senior-at-qualcomm-4369115353",
+              "reason": "company mismatch: Qualcomm"
+            },
+            {
+              "title": "Senior Machine Learning Engineer",
+              "company": "ASUS",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/senior-machine-learning-engineer-at-asus-4381465988",
+              "reason": "company mismatch: ASUS"
+            },
+            {
+              "title": "Staff Machine Learning Engineer",
+              "company": "Axiado Corporation",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/staff-machine-learning-engineer-at-axiado-corporation-4427395289",
+              "reason": "excluded seniority/business term; company mismatch: Axiado Corporation"
             },
             {
               "title": "Machine Learning - Architect/Researcher/Engineer",
@@ -2380,32 +2437,11 @@
               "reason": "company mismatch: MediaTek"
             },
             {
-              "title": "MTS, AI Engineering, SMAI",
-              "company": "Micron Technology",
-              "location": "Taichung City, Taichung City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410845145",
-              "reason": "company mismatch: Micron Technology"
-            },
-            {
-              "title": "Engineer/Senior Engineer for AI/Machine Learning",
-              "company": "MediaTek",
-              "location": "Hsinchu, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/engineer-senior-engineer-for-ai-machine-learning-at-mediatek-4447681477",
-              "reason": "company mismatch: MediaTek"
-            },
-            {
-              "title": "MTS, AI Engineering, SMAI",
-              "company": "Micron Technology",
-              "location": "Taoyuan District, Taoyuan City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410841203",
-              "reason": "company mismatch: Micron Technology"
-            },
-            {
-              "title": "R&D Engineering, Sr Staff Engineer_ICV",
-              "company": "Synopsys Inc",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/r-d-engineering-sr-staff-engineer-icv-at-synopsys-inc-4443789362",
-              "reason": "excluded seniority/business term; no AI evidence in title or job-specific snippet"
+              "title": "AI Machine Learning Software Engineer, up to Staff (Taipei)",
+              "company": "Qualcomm",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/ai-machine-learning-software-engineer-up-to-staff-taipei-at-qualcomm-4368009210",
+              "reason": "excluded seniority/business term; company mismatch: Qualcomm"
             }
           ]
         }
@@ -2589,39 +2625,46 @@
           "accepted_count": 0,
           "rejected_sample": [
             {
-              "title": "Machine Learning Research Scientist - Business Integrity",
+              "title": "Machine Learning Engineer (Community Health) - TikTok BRIC Singapore",
               "company": "TikTok",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-business-integrity-at-tiktok-4447187027",
+              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-community-health-tiktok-bric-singapore-at-tiktok-4450915561",
               "reason": "company mismatch: TikTok"
             },
             {
-              "title": "Large Model Application Algorithm Research Scientist-International Content Security Algorithm Research",
+              "title": "Machine Learning Engineer - TikTok BRIC Live Integrity - Singapore",
               "company": "TikTok",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/large-model-application-algorithm-research-scientist-international-content-security-algorithm-research-at-tiktok-4424638989",
+              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-tiktok-bric-live-integrity-singapore-at-tiktok-4452741140",
               "reason": "company mismatch: TikTok"
             },
             {
-              "title": "Staff/ Senior Data Scientist, Multimodal AI, AI Practice",
-              "company": "GovTech Singapore",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/staff-senior-data-scientist-multimodal-ai-ai-practice-at-govtech-singapore-4457460942",
-              "reason": "excluded seniority/business term; company mismatch: GovTech Singapore"
-            },
-            {
-              "title": "Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)",
+              "title": "Machine Learning Engineer, Multimodal - Intelligent Integrity",
               "company": "TikTok",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-graduate-business-integrity-2026-start-phd-at-tiktok-4284141412",
+              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-multimodal-intelligent-integrity-at-tiktok-4448542946",
               "reason": "company mismatch: TikTok"
             },
             {
-              "title": "Applied Scientist - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+              "title": "Machine Learning Engineer, Business Integrity",
               "company": "TikTok",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/applied-scientist-business-integrity-global-frontier-tech-recruitment-program-2027-start-phd-at-tiktok-4401881182",
+              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-business-integrity-at-tiktok-4452732484",
               "reason": "company mismatch: TikTok"
+            },
+            {
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
+              "reason": "company mismatch: Micron Technology"
+            },
+            {
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4437992720",
+              "reason": "company mismatch: Micron Technology"
             },
             {
               "title": "Machine Learning Engineer, Monetization Data Alignment",
@@ -2631,17 +2674,10 @@
               "reason": "company mismatch: TikTok"
             },
             {
-              "title": "Senior Data Scientist",
-              "company": "Tencent",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/senior-data-scientist-at-tencent-4458596646",
-              "reason": "company mismatch: Tencent"
-            },
-            {
-              "title": "Machine Learning Engineer (Community Health) - TikTok BRIC Singapore",
+              "title": "Machine Learning Engineer - TikTok E-Commerce",
               "company": "TikTok",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-community-health-tiktok-bric-singapore-at-tiktok-4450915561",
+              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-tiktok-e-commerce-at-tiktok-4450918434",
               "reason": "company mismatch: TikTok"
             }
           ]
@@ -2665,7 +2701,7 @@
           "cards_parsed": 60,
           "status": "ok",
           "blocker": null,
-          "accepted_count": 7,
+          "accepted_count": 8,
           "rejected_sample": [
             {
               "title": "Staff/Senior Machine Learning Scientist (Ad Cloud)",
@@ -2747,10 +2783,38 @@
           "accepted_count": 0,
           "rejected_sample": [
             {
-              "title": "Machine Learning Researcher, Image/ Video Generation",
+              "title": "Applied AI Scientist (PhD Required)",
+              "company": "Pixalate",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/applied-ai-scientist-phd-required-at-pixalate-4389928746",
+              "reason": "company mismatch: Pixalate"
+            },
+            {
+              "title": "Founding AI Engineer",
+              "company": "Talotrace",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/founding-ai-engineer-at-talotrace-4453089248",
+              "reason": "company mismatch: Talotrace"
+            },
+            {
+              "title": "Staff/Lead LLM Data Scientist (Singapore based)",
+              "company": "Agoda",
+              "location": "Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/staff-lead-llm-data-scientist-singapore-based-at-agoda-4414561932",
+              "reason": "excluded seniority/business term; company mismatch: Agoda"
+            },
+            {
+              "title": "Staff/Lead LLM Data Scientist (Singapore based)",
+              "company": "Agoda",
+              "location": "Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/staff-lead-llm-data-scientist-singapore-based-at-agoda-4366978794",
+              "reason": "excluded seniority/business term; company mismatch: Agoda"
+            },
+            {
+              "title": "Commercial Data Scientist, ANZSA",
               "company": "Apple",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-researcher-image-video-generation-at-apple-4414159660",
+              "url": "https://sg.linkedin.com/jobs/view/commercial-data-scientist-anzsa-at-apple-4414172045",
               "reason": "company mismatch: Apple"
             },
             {
@@ -2761,46 +2825,18 @@
               "reason": "company mismatch: Apple"
             },
             {
-              "title": "Computer Vision Engineer -- AIGC",
-              "company": "Baidu, Inc.",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/computer-vision-engineer-aigc-at-baidu-inc-4397264192",
-              "reason": "company mismatch: Baidu, Inc."
-            },
-            {
-              "title": "Commercial Data Scientist, ANZSA",
-              "company": "Apple",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/commercial-data-scientist-anzsa-at-apple-4414172045",
-              "reason": "company mismatch: Apple"
-            },
-            {
-              "title": "Machine Learning Engineer, Strategic Data Solutions",
-              "company": "Apple",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-strategic-data-solutions-at-apple-4414166470",
-              "reason": "company mismatch: Apple"
-            },
-            {
-              "title": "Data Scientist",
-              "company": "SAP",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-sap-4443881898",
-              "reason": "company mismatch: SAP"
-            },
-            {
-              "title": "AI Researcher - Content Video Generation (Pre-training)",
+              "title": "Algorithm Engineer (Multimodal AI & Trust Intelligence), Marketplace Intelligence & Data (2027 Graduate)",
               "company": "Shopee",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-researcher-content-video-generation-pre-training-at-shopee-4432224929",
+              "url": "https://sg.linkedin.com/jobs/view/algorithm-engineer-multimodal-ai-trust-intelligence-marketplace-intelligence-data-2027-graduate-at-shopee-4444878368",
               "reason": "company mismatch: Shopee"
             },
             {
-              "title": "Research Scientist",
-              "company": "NVIDIA",
+              "title": "Senior Algorithm Engineer (Large Models & Autonomous Driving)",
+              "company": "PERSOL APAC",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410858952",
-              "reason": "company mismatch: NVIDIA"
+              "url": "https://sg.linkedin.com/jobs/view/senior-algorithm-engineer-large-models-autonomous-driving-at-persol-apac-4395926742",
+              "reason": "company mismatch: PERSOL APAC; no AI evidence in title or job-specific snippet"
             }
           ]
         }
@@ -2826,32 +2862,11 @@
           "accepted_count": 0,
           "rejected_sample": [
             {
-              "title": "Machine Learning - Architect/Researcher/Engineer",
-              "company": "MediaTek",
-              "location": "Hsinchu, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/machine-learning-architect-researcher-engineer-at-mediatek-4405150001",
-              "reason": "company mismatch: MediaTek"
-            },
-            {
-              "title": "Developer Technology Engineer, HPC and AI",
-              "company": "NVIDIA",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/developer-technology-engineer-hpc-and-ai-at-nvidia-4397657019",
-              "reason": "company mismatch: NVIDIA"
-            },
-            {
-              "title": "AI Compute Systems Engineer, up to Staff",
+              "title": "Artificial Intelligence for Video Compression - Research Scientist",
               "company": "Qualcomm",
               "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/ai-compute-systems-engineer-up-to-staff-at-qualcomm-4362027560",
-              "reason": "excluded seniority/business term; company mismatch: Qualcomm"
-            },
-            {
-              "title": "MTS, AI Engineering, SMAI",
-              "company": "Micron Technology",
-              "location": "Taichung City, Taichung City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410845145",
-              "reason": "company mismatch: Micron Technology"
+              "url": "https://tw.linkedin.com/jobs/view/artificial-intelligence-for-video-compression-research-scientist-at-qualcomm-4290888684",
+              "reason": "company mismatch: Qualcomm"
             },
             {
               "title": "Machine Learning & Generative AI Engineer, up to Staff",
@@ -2861,25 +2876,46 @@
               "reason": "excluded seniority/business term; company mismatch: Qualcomm"
             },
             {
-              "title": "MTS, AI Engineering, SMAI",
-              "company": "Micron Technology",
-              "location": "Taoyuan District, Taoyuan City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410841203",
-              "reason": "company mismatch: Micron Technology"
-            },
-            {
-              "title": "Artificial Intelligence for Video Compression - Research Scientist",
+              "title": "Computer Vision and Machine Learning Engineer, Senior",
               "company": "Qualcomm",
               "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/artificial-intelligence-for-video-compression-research-scientist-at-qualcomm-4290888684",
+              "url": "https://tw.linkedin.com/jobs/view/computer-vision-and-machine-learning-engineer-senior-at-qualcomm-4369115353",
               "reason": "company mismatch: Qualcomm"
             },
             {
-              "title": "Engineer/Senior Engineer for AI/Machine Learning",
-              "company": "MediaTek",
-              "location": "Hsinchu, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/engineer-senior-engineer-for-ai-machine-learning-at-mediatek-4447681477",
-              "reason": "company mismatch: MediaTek"
+              "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
+              "company": "NVIDIA",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/research-scientist-deep-learning-and-computer-vision-new-college-graduate-at-nvidia-4427244058",
+              "reason": "company mismatch: NVIDIA"
+            },
+            {
+              "title": "STAFF DATA SCIENTIST",
+              "company": "Micron Technology",
+              "location": "Taoyuan District, Taoyuan City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/staff-data-scientist-at-micron-technology-4410856154",
+              "reason": "excluded seniority/business term; company mismatch: Micron Technology"
+            },
+            {
+              "title": "Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
+              "company": "Qualcomm",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-research-engineer-%E2%80%94-face-analytics-3d-reconstruction-at-qualcomm-4369104616",
+              "reason": "company mismatch: Qualcomm"
+            },
+            {
+              "title": "Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
+              "company": "Qualcomm",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-research-engineer-%E2%80%94-face-analytics-3d-reconstruction-at-qualcomm-4369109623",
+              "reason": "company mismatch: Qualcomm"
+            },
+            {
+              "title": "SR. DATA SCIENTIST, ASSEMBLY & TEST",
+              "company": "Micron Technology",
+              "location": "Taichung City, Taichung City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/sr-data-scientist-assembly-test-at-micron-technology-4458615817",
+              "reason": "company mismatch: Micron Technology"
             }
           ]
         }
@@ -2984,25 +3020,25 @@
           "accepted_count": 0,
           "rejected_sample": [
             {
-              "title": "Artificial Intelligence for Video Compression - Research Scientist",
-              "company": "Qualcomm",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/artificial-intelligence-for-video-compression-research-scientist-at-qualcomm-4290888684",
-              "reason": "company mismatch: Qualcomm"
+              "title": "Developer Technology Engineer, HPC and AI",
+              "company": "NVIDIA",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/developer-technology-engineer-hpc-and-ai-at-nvidia-4397657019",
+              "reason": "company mismatch: NVIDIA"
             },
             {
-              "title": "Computer Vision and Machine Learning Engineer, Senior",
-              "company": "Qualcomm",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/computer-vision-and-machine-learning-engineer-senior-at-qualcomm-4369115353",
-              "reason": "company mismatch: Qualcomm"
+              "title": "Machine Learning - Architect/Researcher/Engineer",
+              "company": "MediaTek",
+              "location": "Hsinchu, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/machine-learning-architect-researcher-engineer-at-mediatek-4405150001",
+              "reason": "company mismatch: MediaTek"
             },
             {
-              "title": "Machine Learning & Generative AI Engineer, up to Staff",
-              "company": "Qualcomm",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/machine-learning-generative-ai-engineer-up-to-staff-at-qualcomm-4438303659",
-              "reason": "excluded seniority/business term; company mismatch: Qualcomm"
+              "title": "MTS, AI Engineering, SMAI",
+              "company": "Micron Technology",
+              "location": "Taoyuan District, Taoyuan City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410841203",
+              "reason": "company mismatch: Micron Technology"
             },
             {
               "title": "Algorithm Developer (TCT)",
@@ -3012,32 +3048,32 @@
               "reason": "company mismatch: Applied Materials Taiwan; no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "AI Machine Learning Software Engineer, up to Staff (Taipei)",
+              "title": "MTS, AI Engineering, SMAI",
+              "company": "Micron Technology",
+              "location": "Taichung City, Taichung City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410845145",
+              "reason": "company mismatch: Micron Technology"
+            },
+            {
+              "title": "Machine Learning & Generative AI Engineer, up to Staff",
               "company": "Qualcomm",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/ai-machine-learning-software-engineer-up-to-staff-taipei-at-qualcomm-4368009210",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/machine-learning-generative-ai-engineer-up-to-staff-at-qualcomm-4438303659",
               "reason": "excluded seniority/business term; company mismatch: Qualcomm"
             },
             {
-              "title": "Computer Vision & AI Engineer, Up to Senior Level",
-              "company": "Qualcomm",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/computer-vision-ai-engineer-up-to-senior-level-at-qualcomm-4332221317",
-              "reason": "company mismatch: Qualcomm"
-            },
-            {
-              "title": "Senior Computer Vision Research Engineer — Face Analytics & 3D Reconstruction",
-              "company": "Qualcomm",
-              "location": "Hsinchu City, Taiwan, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/senior-computer-vision-research-engineer-%E2%80%94-face-analytics-3d-reconstruction-at-qualcomm-4369104616",
-              "reason": "company mismatch: Qualcomm"
-            },
-            {
-              "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
+              "title": "AI Computing Software Development Engineer, TensorRT-LLM",
               "company": "NVIDIA",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/research-scientist-deep-learning-and-computer-vision-new-college-graduate-at-nvidia-4427244058",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/ai-computing-software-development-engineer-tensorrt-llm-at-nvidia-4451452930",
               "reason": "company mismatch: NVIDIA"
+            },
+            {
+              "title": "Engineer/Senior Engineer for AI/Machine Learning",
+              "company": "MediaTek",
+              "location": "Hsinchu, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/engineer-senior-engineer-for-ai-machine-learning-at-mediatek-4447681477",
+              "reason": "company mismatch: MediaTek"
             }
           ]
         }
@@ -3218,62 +3254,62 @@
           "cards_parsed": 60,
           "status": "ok",
           "blocker": null,
-          "accepted_count": 7,
+          "accepted_count": 14,
           "rejected_sample": [
-            {
-              "title": "Algorithm Data Scientist (PhD Research)",
-              "company": "Reolink",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/algorithm-data-scientist-phd-research-at-reolink-4426761354",
-              "reason": "company mismatch: Reolink"
-            },
-            {
-              "title": "DATA SCIENTIST",
-              "company": "Micron Technology",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4437992720",
-              "reason": "company mismatch: Micron Technology"
-            },
-            {
-              "title": "DATA SCIENTIST",
-              "company": "Micron Technology",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
-              "reason": "company mismatch: Micron Technology"
-            },
-            {
-              "title": "PhD Holder | AI Research Scientist",
-              "company": "Reolink",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/phd-holder-ai-research-scientist-at-reolink-4440983987",
-              "reason": "company mismatch: Reolink"
-            },
-            {
-              "title": "AI Algorithms Specialist | PhD - Research",
-              "company": "Reolink",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-algorithms-specialist-phd-research-at-reolink-4431659333",
-              "reason": "company mismatch: Reolink"
-            },
-            {
-              "title": "Research Fellow (Artificial Intelligence for Life Sciences Applications)",
-              "company": "Nanyang Technological University Singapore",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/research-fellow-artificial-intelligence-for-life-sciences-applications-at-nanyang-technological-university-singapore-4299753644",
-              "reason": "company mismatch: Nanyang Technological University Singapore"
-            },
-            {
-              "title": "Senior Scientist/Senior Data Scientist, Talent Accelerator Program",
-              "company": "MSD",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-senior-data-scientist-talent-accelerator-program-at-msd-4432464023",
-              "reason": "company mismatch: MSD"
-            },
             {
               "title": "Solutions Architect, GenAI",
               "company": "NVIDIA",
               "location": "Singapore, Singapore",
               "url": "https://sg.linkedin.com/jobs/view/solutions-architect-genai-at-nvidia-4407657199",
+              "reason": "no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "Developer Relations Manager - Robotics and Generative AI",
+              "company": "NVIDIA",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/developer-relations-manager-robotics-and-generative-ai-at-nvidia-4395474369",
+              "reason": "excluded seniority/business term"
+            },
+            {
+              "title": "Solutions Architect, NVIDIA Cloud Partners",
+              "company": "NVIDIA",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/solutions-architect-nvidia-cloud-partners-at-nvidia-4456281905",
+              "reason": "no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "Solutions Architect, Data Center Infrastructure",
+              "company": "NVIDIA",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/solutions-architect-data-center-infrastructure-at-nvidia-4456294906",
+              "reason": "no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "Solutions Architect, Data Center MEP",
+              "company": "NVIDIA",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/solutions-architect-data-center-mep-at-nvidia-4395475410",
+              "reason": "no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "Manager, Technical Delivery APAC - NVIS",
+              "company": "NVIDIA",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/manager-technical-delivery-apac-nvis-at-nvidia-4400019863",
+              "reason": "excluded seniority/business term; no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "Senior Program Manager, Architecture Review Board",
+              "company": "NVIDIA",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/senior-program-manager-architecture-review-board-at-nvidia-4424322428",
+              "reason": "excluded seniority/business term; no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "Data Center Infrastructure Specialist",
+              "company": "NVIDIA",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/data-center-infrastructure-specialist-at-nvidia-4414775725",
               "reason": "no AI evidence in title or job-specific snippet"
             }
           ]
@@ -3300,20 +3336,6 @@
           "accepted_count": 1,
           "rejected_sample": [
             {
-              "title": "Staff/Senior Machine Learning Scientist (Ad Cloud)",
-              "company": "Appier",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/staff-senior-machine-learning-scientist-ad-cloud-at-appier-4232776415",
-              "reason": "excluded seniority/business term; company mismatch: Appier"
-            },
-            {
-              "title": "Senior Machine Learning Scientist (LLM & Agents)",
-              "company": "Appier",
-              "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-agents-at-appier-4235914522",
-              "reason": "company mismatch: Appier"
-            },
-            {
               "title": "Research Scientist (Generative & Agentic AI)",
               "company": "Appier",
               "location": "Taipei, Taipei City, Taiwan",
@@ -3328,17 +3350,17 @@
               "reason": "company mismatch: Qualcomm"
             },
             {
-              "title": "【Cupola360】AI Engineer",
-              "company": "Cupola360",
-              "location": "Hsinchu Metropolitan Area",
-              "url": "https://tw.linkedin.com/jobs/view/%E3%80%90cupola360%E3%80%91ai-engineer-at-cupola360-4454513732",
-              "reason": "company mismatch: Cupola360"
+              "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
+              "company": "NVIDIA",
+              "location": "Taipei, Taipei City, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/research-scientist-deep-learning-and-computer-vision-new-college-graduate-at-nvidia-4427244058",
+              "reason": "company mismatch: NVIDIA"
             },
             {
-              "title": "Senior Machine Learning Scientist, Advertising Incrementality",
+              "title": "Senior Machine Learning Scientist (LLM & Agents)",
               "company": "Appier",
               "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/senior-machine-learning-scientist-advertising-incrementality-at-appier-4332964856",
+              "url": "https://tw.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-agents-at-appier-4235914522",
               "reason": "company mismatch: Appier"
             },
             {
@@ -3349,11 +3371,25 @@
               "reason": "company mismatch: Qualcomm"
             },
             {
-              "title": "AI 資料科學家_理級（內湖） - TWII01290",
-              "company": "Compal",
+              "title": "Algorithm Developer III - (E3)",
+              "company": "Applied Materials Taiwan",
+              "location": "Hsinchu City, Taiwan, Taiwan",
+              "url": "https://tw.linkedin.com/jobs/view/algorithm-developer-iii-e3-at-applied-materials-taiwan-4429417704",
+              "reason": "company mismatch: Applied Materials Taiwan; no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "【Cupola360】AI Engineer",
+              "company": "Cupola360",
+              "location": "Hsinchu Metropolitan Area",
+              "url": "https://tw.linkedin.com/jobs/view/%E3%80%90cupola360%E3%80%91ai-engineer-at-cupola360-4454513732",
+              "reason": "company mismatch: Cupola360"
+            },
+            {
+              "title": "AI Engineer, Playable Ads",
+              "company": "Appier",
               "location": "Taipei, Taipei City, Taiwan",
-              "url": "https://tw.linkedin.com/jobs/view/ai-%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%AE%B6-%E7%90%86%E7%B4%9A%EF%BC%88%E5%85%A7%E6%B9%96%EF%BC%89-twii01290-at-compal-4407610611",
-              "reason": "company mismatch: Compal"
+              "url": "https://tw.linkedin.com/jobs/view/ai-engineer-playable-ads-at-appier-4448132330",
+              "reason": "company mismatch: Appier"
             }
           ]
         }
@@ -3379,13 +3415,6 @@
           "accepted_count": 4,
           "rejected_sample": [
             {
-              "title": "AI Researcher - Content Video Generation (Pre-training)",
-              "company": "Shopee",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-researcher-content-video-generation-pre-training-at-shopee-4432224929",
-              "reason": "company mismatch: Shopee"
-            },
-            {
               "title": "Siri Language Engineer (Vietnamese)",
               "company": "Apple",
               "location": "Singapore, Singapore",
@@ -3393,46 +3422,53 @@
               "reason": "no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "Researcher",
-              "company": "Microsoft",
+              "title": "(Senior) Scientist, Computing & Intelligence, IAIC",
+              "company": "A*STAR - Agency for Science, Technology and Research",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/researcher-at-microsoft-4452456111",
-              "reason": "company mismatch: Microsoft; no AI evidence in title or job-specific snippet"
+              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-computing-intelligence-iaic-at-a-star-agency-for-science-technology-and-research-4429544782",
+              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research; no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "Computer Vision Engineer -- AIGC",
-              "company": "Baidu, Inc.",
+              "title": "Scientist, Computing & Intelligence, IAIC",
+              "company": "A*STAR - Agency for Science, Technology and Research",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/computer-vision-engineer-aigc-at-baidu-inc-4397264192",
-              "reason": "company mismatch: Baidu, Inc."
+              "url": "https://sg.linkedin.com/jobs/view/scientist-computing-intelligence-iaic-at-a-star-agency-for-science-technology-and-research-4398872973",
+              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research; no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "AICS SG - Machine Learning Engineer",
-              "company": "ASUS",
+              "title": "(Senior) Scientist, Computing & Intelligence, IAIC",
+              "company": "A*STAR - Agency for Science, Technology and Research",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/aics-sg-machine-learning-engineer-at-asus-4454454393",
-              "reason": "company mismatch: ASUS"
+              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-computing-intelligence-iaic-at-a-star-agency-for-science-technology-and-research-4422697925",
+              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research; no AI evidence in title or job-specific snippet"
             },
             {
-              "title": "Research Scientist - AI",
-              "company": "NVIDIA",
-              "location": "Queenstown, Central Singapore Community Development Council, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/research-scientist-ai-at-nvidia-4436878216",
-              "reason": "company mismatch: NVIDIA"
-            },
-            {
-              "title": "Research Scientist",
-              "company": "NVIDIA",
+              "title": "Research Scientist (Predicative Quality), IPV, ARTC",
+              "company": "A*STAR - Agency for Science, Technology and Research",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410858952",
-              "reason": "company mismatch: NVIDIA"
+              "url": "https://sg.linkedin.com/jobs/view/research-scientist-predicative-quality-ipv-artc-at-a-star-agency-for-science-technology-and-research-4403179125",
+              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research"
             },
             {
-              "title": "AI Researcher - Content Video Generation(Post training)",
+              "title": "Senior Scientist, AI for Health, BII",
+              "company": "A*STAR - Agency for Science, Technology and Research",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-ai-for-health-bii-at-a-star-agency-for-science-technology-and-research-4410026511",
+              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research"
+            },
+            {
+              "title": "Expert Algorithm Engineer - MPID Team",
               "company": "Shopee",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-researcher-content-video-generation-post-training-at-shopee-4432244058",
-              "reason": "company mismatch: Shopee"
+              "url": "https://sg.linkedin.com/jobs/view/expert-algorithm-engineer-mpid-team-at-shopee-4454976663",
+              "reason": "company mismatch: Shopee; no AI evidence in title or job-specific snippet"
+            },
+            {
+              "title": "(Senior) Scientist, Computing & Intelligence, IAIC",
+              "company": "A*STAR - Agency for Science, Technology and Research",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/senior-scientist-computing-intelligence-iaic-at-a-star-agency-for-science-technology-and-research-4429906305",
+              "reason": "company mismatch: A*STAR - Agency for Science, Technology and Research; no AI evidence in title or job-specific snippet"
             }
           ]
         }
@@ -3534,7 +3570,7 @@
           "cards_parsed": 60,
           "status": "ok",
           "blocker": null,
-          "accepted_count": 7,
+          "accepted_count": 5,
           "rejected_sample": [
             {
               "title": "Staff Research Engineer, Applied AI, DeepMind",
@@ -3544,53 +3580,53 @@
               "reason": "excluded seniority/business term"
             },
             {
-              "title": "Software Engineer, Wallet Multimodal Intelligence",
-              "company": "Google",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/software-engineer-wallet-multimodal-intelligence-at-google-4454266230",
-              "reason": "no AI evidence in title or job-specific snippet"
+              "title": "Senior Data Scientist (Integrity)",
+              "company": "Grab",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/senior-data-scientist-integrity-at-grab-4449388597",
+              "reason": "company mismatch: Grab"
             },
             {
-              "title": "Software Engineer, Content Safety",
-              "company": "Google",
+              "title": "Staff/ Senior Data Scientist, Multimodal AI, AI Practice",
+              "company": "GovTech Singapore",
               "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/software-engineer-content-safety-at-google-4443888996",
-              "reason": "no AI evidence in title or job-specific snippet"
+              "url": "https://sg.linkedin.com/jobs/view/staff-senior-data-scientist-multimodal-ai-ai-practice-at-govtech-singapore-4457460942",
+              "reason": "excluded seniority/business term; company mismatch: GovTech Singapore"
             },
             {
-              "title": "Product Manager, Google Partner Innovation",
-              "company": "Google",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/product-manager-google-partner-innovation-at-google-4447990997",
-              "reason": "excluded seniority/business term; no AI evidence in title or job-specific snippet"
+              "title": "GoTo Financial - Senior Data Scientist - Computer Vision & AI",
+              "company": "GoTo Group",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/goto-financial-senior-data-scientist-computer-vision-ai-at-goto-group-4436873063",
+              "reason": "company mismatch: GoTo Group"
             },
             {
-              "title": "Technical Lead Manager, Applied AI, DeepMind",
-              "company": "Google DeepMind",
+              "title": "Principal Engineer, Agentic AI, App and EcoSystem Safety",
+              "company": "Google",
               "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/technical-lead-manager-applied-ai-deepmind-at-google-deepmind-4448228420",
+              "url": "https://sg.linkedin.com/jobs/view/principal-engineer-agentic-ai-app-and-ecosystem-safety-at-google-4437581830",
               "reason": "excluded seniority/business term"
             },
             {
-              "title": "Forward Deployed Engineer, Data, GenAI, Google Cloud",
-              "company": "Google",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-data-genai-google-cloud-at-google-4448539318",
-              "reason": "no AI evidence in title or job-specific snippet"
+              "title": "Senior Principal Data Scientist (Fulfilment)",
+              "company": "Grab",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/senior-principal-data-scientist-fulfilment-at-grab-4407363021",
+              "reason": "excluded seniority/business term; company mismatch: Grab"
             },
             {
-              "title": "AI Customer Engineer, Retail, Google Cloud",
-              "company": "Google",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-customer-engineer-retail-google-cloud-at-google-4454418968",
-              "reason": "excluded seniority/business term"
+              "title": "GoTo Financial - Lead Data Scientist - AI",
+              "company": "GoTo Group",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/goto-financial-lead-data-scientist-ai-at-goto-group-4436874035",
+              "reason": "excluded seniority/business term; company mismatch: GoTo Group"
             },
             {
-              "title": "Software Engineer, Content Safety, Infra",
-              "company": "Google",
-              "location": "Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/software-engineer-content-safety-infra-at-google-4454287391",
-              "reason": "no AI evidence in title or job-specific snippet"
+              "title": "Principal Data Scientist (User Understanding Platformisation)",
+              "company": "Grab",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/principal-data-scientist-user-understanding-platformisation-at-grab-4452952120",
+              "reason": "excluded seniority/business term; company mismatch: Grab"
             }
           ]
         }
@@ -3692,14 +3728,49 @@
           "cards_parsed": 60,
           "status": "ok",
           "blocker": null,
-          "accepted_count": 3,
+          "accepted_count": 1,
           "rejected_sample": [
             {
-              "title": "DATA SCIENTIST",
-              "company": "Micron Technology",
+              "title": "Large Model Application Algorithm Research Scientist-International Content Security Algorithm Research",
+              "company": "TikTok",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
-              "reason": "company mismatch: Micron Technology"
+              "url": "https://sg.linkedin.com/jobs/view/large-model-application-algorithm-research-scientist-international-content-security-algorithm-research-at-tiktok-4424638989",
+              "reason": "company mismatch: TikTok"
+            },
+            {
+              "title": "GoTo Financial - Lead Data Scientist - AI",
+              "company": "GoTo Group",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/goto-financial-lead-data-scientist-ai-at-goto-group-4436874035",
+              "reason": "excluded seniority/business term; company mismatch: GoTo Group"
+            },
+            {
+              "title": "GoTo Financial - Senior Data Scientist - Computer Vision & AI",
+              "company": "GoTo Group",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/goto-financial-senior-data-scientist-computer-vision-ai-at-goto-group-4436873063",
+              "reason": "company mismatch: GoTo Group"
+            },
+            {
+              "title": "Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)",
+              "company": "TikTok",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-graduate-business-integrity-2026-start-phd-at-tiktok-4284141412",
+              "reason": "company mismatch: TikTok"
+            },
+            {
+              "title": "Applied Scientist - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+              "company": "TikTok",
+              "location": "Singapore, Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/applied-scientist-business-integrity-global-frontier-tech-recruitment-program-2027-start-phd-at-tiktok-4401881182",
+              "reason": "company mismatch: TikTok"
+            },
+            {
+              "title": "Large Model Application Algorithm Research Scientist-International Content Security Algorithm Research-Soaring Star Talent Program",
+              "company": "ByteDance",
+              "location": "Singapore",
+              "url": "https://sg.linkedin.com/jobs/view/large-model-application-algorithm-research-scientist-international-content-security-algorithm-research-soaring-star-talent-program-at-bytedance-4435856017",
+              "reason": "company mismatch: ByteDance"
             },
             {
               "title": "DATA SCIENTIST",
@@ -3709,46 +3780,11 @@
               "reason": "company mismatch: Micron Technology"
             },
             {
-              "title": "Researcher",
-              "company": "Microsoft",
+              "title": "DATA SCIENTIST",
+              "company": "Micron Technology",
               "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/researcher-at-microsoft-4452456111",
-              "reason": "company mismatch: Microsoft; no AI evidence in title or job-specific snippet"
-            },
-            {
-              "title": "Research Scientist",
-              "company": "NVIDIA",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/research-scientist-at-nvidia-4410858952",
-              "reason": "company mismatch: NVIDIA"
-            },
-            {
-              "title": "AI Research Scientist",
-              "company": "NVIDIA",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/ai-research-scientist-at-nvidia-4410867555",
-              "reason": "company mismatch: NVIDIA"
-            },
-            {
-              "title": "Research Scientist - AI",
-              "company": "NVIDIA",
-              "location": "Queenstown, Central Singapore Community Development Council, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/research-scientist-ai-at-nvidia-4436878216",
-              "reason": "company mismatch: NVIDIA"
-            },
-            {
-              "title": "Machine Learning Research Scientist - Business Integrity",
-              "company": "TikTok",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/machine-learning-research-scientist-business-integrity-at-tiktok-4447187027",
-              "reason": "company mismatch: TikTok"
-            },
-            {
-              "title": "Business Support Engineer - Meta Business Agents",
-              "company": "Meta",
-              "location": "Singapore, Singapore",
-              "url": "https://sg.linkedin.com/jobs/view/business-support-engineer-meta-business-agents-at-meta-4438047603",
-              "reason": "no AI evidence in title or job-specific snippet"
+              "url": "https://sg.linkedin.com/jobs/view/data-scientist-at-micron-technology-4438303123",
+              "reason": "company mismatch: Micron Technology"
             }
           ]
         }
@@ -3756,31 +3792,5 @@
       "blocker": null,
       "refreshed_url": null
     }
-  ],
-  "novelty": {
-    "prior_run": "2026-08-25",
-    "prior_result_count": 109,
-    "today_result_count": 111,
-    "new_canonical_urls": [
-      "https://sg.linkedin.com/jobs/view/2027-campus-hire-ai-algorithm-engineer-at-mediatek-4457628970",
-      "https://sg.linkedin.com/jobs/view/agentic-ai-software-development-engineer-at-amd-4455860385",
-      "https://sg.linkedin.com/jobs/view/ai-technical-training-engineer-forward-deployed-engineering-at-google-4458652113",
-      "https://sg.linkedin.com/jobs/view/senior-software-engineer-machine-learning-debug-at-google-4457496458",
-      "https://tw.linkedin.com/jobs/view/ai-application-engineer-at-google-4458947639",
-      "https://tw.linkedin.com/jobs/view/ai-engineer-%E2%80%93-smart-mfg-tech-solutions-at-micron-technology-4457930222",
-      "https://tw.linkedin.com/jobs/view/ai-engineer-for-digital-design-at-mediatek-4405133856",
-      "https://tw.linkedin.com/jobs/view/ai-processor-de-at-mediatek-4405129936",
-      "https://tw.linkedin.com/jobs/view/ai-processor-model-at-mediatek-4405143815",
-      "https://tw.linkedin.com/jobs/view/ai-software-and-system-architecture-engineer-at-mediatek-4430867550",
-      "https://tw.linkedin.com/jobs/view/computing-system-modeling-engineer-ai-data-center-at-mediatek-4405138879",
-      "https://tw.linkedin.com/jobs/view/data-scientist-smai-oi-full-stack-development-at-micron-technology-4458948732",
-      "https://tw.linkedin.com/jobs/view/it-engineer-gen-ai-at-mediatek-4405143817",
-      "https://tw.linkedin.com/jobs/view/pcb-design-eda-and-ai-engineer-new-college-graduate-2027-at-nvidia-4454438401",
-      "https://tw.linkedin.com/jobs/view/pcb-design-eda-and-ai-engineer-new-college-graduate-2027-at-nvidia-4454447325",
-      "https://tw.linkedin.com/jobs/view/sr-data-scientist-assembly-test-at-micron-technology-4458615817"
-    ],
-    "new_count": 16,
-    "disappeared_count": 14,
-    "caveat": "No successful run artifacts exist for 2026-08-26..2026-08-30; 'new' is relative to the last available run (2026-08-25) and spans up to 6 days."
-  }
+  ]
 }
