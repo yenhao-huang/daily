@@ -1,0 +1,429 @@
+# 2026-10-14 AI jobs watch — LinkedIn Jobs only
+
+## TOC
+
+- [條件 / Conditions](#條件--conditions)
+- [Executive summary](#executive-summary)
+- [Results by company](#results-by-company)
+  - [MediaTek](#mediatek)
+  - [Qualcomm](#qualcomm)
+  - [Realtek](#realtek)
+  - [TSMC](#tsmc)
+  - [Phison](#phison)
+  - [Micron](#micron)
+  - [Synology](#synology)
+  - [Cadence](#cadence)
+  - [Synopsys](#synopsys)
+  - [Trend Micro](#trend-micro)
+  - [Appier](#appier)
+  - [Intel](#intel)
+  - [AMD](#amd)
+  - [NVIDIA](#nvidia)
+  - [Apple](#apple)
+  - [Google](#google)
+  - [Meta](#meta)
+- [Search notes](#search-notes)
+
+## 條件 / Conditions
+
+- 地點：Taiwan、Singapore。
+- 公司：MediaTek、Qualcomm、Realtek、TSMC、Phison、Micron、Synology、Cadence、Synopsys、Trend Micro、Appier、Intel、AMD、NVIDIA、Apple、Google、Meta。
+- 來源限制：LinkedIn Jobs only；正式結果的 link/source 必須是 LinkedIn Jobs URL。
+- 固定連結策略：每家公司 × 地點先使用固定 LinkedIn Jobs URL；變體仍限 LinkedIn Jobs。
+- 排除：intern/internship、manager、director、staff、principal、lead、partner、明顯 sales/HR/legal/admin/marketing/business/pre-sales Customer Engineer/Field Application Engineer roles。
+- AI 相關性：必須來自職缺 title 或 LinkedIn Jobs 搜尋卡片中的職缺本身 snippet/detail。
+
+## Executive summary
+
+- 今日正式 LinkedIn Jobs matches：53 筆。
+- 覆蓋範圍：17 家公司 × 2 地點 = 34 個固定入口；每個入口均有 search note。
+- LinkedIn blocker / unreadable status entries：17 個；詳見 Search notes。
+
+## Results by company
+
+### MediaTek
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| MediaTek | Taiwan | Research Scientist | Unknown | https://tw.linkedin.com/jobs/view/research-scientist-at-mediatek-4405136850 | title evidence: Research Scientist | LinkedIn public search card; visible company=MediaTek; visible location=Taipei, Taipei City, Taiwan |
+| MediaTek | Taiwan | Senior Research Scientist | Senior | https://tw.linkedin.com/jobs/view/senior-research-scientist-at-mediatek-4405134881 | title evidence: Senior Research Scientist | LinkedIn public search card; visible company=MediaTek; visible location=Taipei, Taipei City, Taiwan |
+| MediaTek | Taiwan | Machine Learning and Computer Vision Algorithm Engineer | Unknown | https://tw.linkedin.com/jobs/view/machine-learning-and-computer-vision-algorithm-engineer-at-mediatek-4448761167 | title evidence: Machine Learning and Computer Vision Algorithm Engineer | LinkedIn public search card; visible company=MediaTek; visible location=Hsinchu, Taiwan, Taiwan |
+| MediaTek | Taiwan | Camera AI Algorithm Engineer | Unknown | https://tw.linkedin.com/jobs/view/camera-ai-algorithm-engineer-at-mediatek-4412576060 | title evidence: Camera AI Algorithm Engineer | LinkedIn public search card; visible company=MediaTek; visible location=Hsinchu, Taiwan, Taiwan |
+| MediaTek | Taiwan | Machine Learning - Architect/Researcher/Engineer | Unknown | https://tw.linkedin.com/jobs/view/machine-learning-architect-researcher-engineer-at-mediatek-4405150001 | title evidence: Machine Learning - Architect/Researcher/Engineer | LinkedIn public search card; visible company=MediaTek; visible location=Hsinchu, Taiwan, Taiwan |
+| MediaTek | Taiwan | Engineer/Senior Engineer for AI/Machine Learning | Senior | https://tw.linkedin.com/jobs/view/engineer-senior-engineer-for-ai-machine-learning-at-mediatek-4447681477 | title evidence: Engineer/Senior Engineer for AI/Machine Learning | LinkedIn public search card; visible company=MediaTek; visible location=Hsinchu, Taiwan, Taiwan |
+| MediaTek | Taiwan | Acoustic and voice AI algorithm developer | Unknown | https://tw.linkedin.com/jobs/view/acoustic-and-voice-ai-algorithm-developer-at-mediatek-4448750726 | title evidence: Acoustic and voice AI algorithm developer | LinkedIn public search card; visible company=MediaTek; visible location=Hsinchu, Taiwan, Taiwan |
+| MediaTek | Taiwan | Senior AI Runtime Engineer_Taipei | Senior | https://tw.linkedin.com/jobs/view/senior-ai-runtime-engineer-taipei-at-mediatek-4411349508 | title evidence: Senior AI Runtime Engineer_Taipei | LinkedIn public search card; visible company=MediaTek; visible location=Taipei, Taipei City, Taiwan |
+| MediaTek | Taiwan | _4G/5G Modem System Validation and AI Software Engineer | Unknown | https://tw.linkedin.com/jobs/view/4g-5g-modem-system-validation-and-ai-software-engineer-at-mediatek-4405150004 | title evidence: _4G/5G Modem System Validation and AI Software Engineer | LinkedIn public search card; visible company=MediaTek; visible location=Taipei, Taipei City, Taiwan |
+| MediaTek | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Qualcomm
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Qualcomm | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+| Qualcomm | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+
+### Realtek
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Realtek | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+| Realtek | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+
+### TSMC
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| TSMC | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+| TSMC | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+
+### Phison
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Phison | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+| Phison | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Micron
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Micron | Taiwan | SR. DATA SCIENTIST, ASSEMBLY & TEST | Senior | https://tw.linkedin.com/jobs/view/sr-data-scientist-assembly-test-at-micron-technology-4458615817 | title evidence: SR. DATA SCIENTIST, ASSEMBLY & TEST | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | Sr Data Scientist | Senior | https://tw.linkedin.com/jobs/view/sr-data-scientist-at-micron-technology-4469464054 | title evidence: Sr Data Scientist | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | Sr Data Scientist | Senior | https://tw.linkedin.com/jobs/view/sr-data-scientist-at-micron-technology-4469446517 | title evidence: Sr Data Scientist | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | SR DATA SCIENTIST | Senior | https://tw.linkedin.com/jobs/view/sr-data-scientist-at-micron-technology-4461645692 | title evidence: SR DATA SCIENTIST | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | SENIOR DATA SCIENTIST | Senior | https://tw.linkedin.com/jobs/view/senior-data-scientist-at-micron-technology-4467556167 | title evidence: SENIOR DATA SCIENTIST | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | SR DATA SCIENTIST, SMAI OI | Senior | https://tw.linkedin.com/jobs/view/sr-data-scientist-smai-oi-at-micron-technology-4410839383 | title evidence: SR DATA SCIENTIST, SMAI OI | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | MTS, AI Engineering, SMAI | Unknown | https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410841203 | title evidence: MTS, AI Engineering, SMAI | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | MTS, AI Engineering, SMAI | Unknown | https://tw.linkedin.com/jobs/view/mts-ai-engineering-smai-at-micron-technology-4410845145 | title evidence: MTS, AI Engineering, SMAI | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | SR AI ENGINEER, SMAI | Senior | https://tw.linkedin.com/jobs/view/sr-ai-engineer-smai-at-micron-technology-4443137404 | title evidence: SR AI ENGINEER, SMAI | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | SR AI ENGINEER, SMAI | Senior | https://tw.linkedin.com/jobs/view/sr-ai-engineer-smai-at-micron-technology-4443134495 | title evidence: SR AI ENGINEER, SMAI | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | SR AI Engineer | Senior | https://tw.linkedin.com/jobs/view/sr-ai-engineer-at-micron-technology-4471587951 | title evidence: SR AI Engineer | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | SR AI Engineer | Senior | https://tw.linkedin.com/jobs/view/sr-ai-engineer-at-micron-technology-4471594683 | title evidence: SR AI Engineer | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | SR. AI Engineer, SMAI | Senior | https://tw.linkedin.com/jobs/view/sr-ai-engineer-smai-at-micron-technology-4467539499 | title evidence: SR. AI Engineer, SMAI | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | SR. AI Engineer, SMAI | Senior | https://tw.linkedin.com/jobs/view/sr-ai-engineer-smai-at-micron-technology-4467556165 | title evidence: SR. AI Engineer, SMAI | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | DATA SCIENTIST, SMAI OI (Full Stack development) | Unknown | https://tw.linkedin.com/jobs/view/data-scientist-smai-oi-full-stack-development-at-micron-technology-4458948732 | title evidence: DATA SCIENTIST, SMAI OI (Full Stack development) | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | SR. AI Engineer | Senior | https://tw.linkedin.com/jobs/view/sr-ai-engineer-at-micron-technology-4467546354 | title evidence: SR. AI Engineer | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | Frontend Central Product Integration Engineering (cPIE) AI Transformation Skill Management Engineer | Unknown | https://tw.linkedin.com/jobs/view/frontend-central-product-integration-engineering-cpie-ai-transformation-skill-management-engineer-at-micron-technology-4410845261 | title evidence: Frontend Central Product Integration Engineering (cPIE) AI Transformation Skill Management Engineer | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Taiwan | Senior Full Stack AI Engineer, E2E AI solution | Senior | https://tw.linkedin.com/jobs/view/senior-full-stack-ai-engineer-e2e-ai-solution-at-micron-technology-4461946856 | title evidence: Senior Full Stack AI Engineer, E2E AI solution | LinkedIn public search card; visible company=Micron Technology; visible location=Taoyuan District, Taoyuan City, Taiwan |
+| Micron | Taiwan | Senior Full Stack AI Engineer, E2E AI solution | Senior | https://tw.linkedin.com/jobs/view/senior-full-stack-ai-engineer-e2e-ai-solution-at-micron-technology-4461957624 | title evidence: Senior Full Stack AI Engineer, E2E AI solution | LinkedIn public search card; visible company=Micron Technology; visible location=Taichung City, Taichung City, Taiwan |
+| Micron | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Synology
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Synology | Taiwan | Product Developer (生成式 AI 應用開發) | Unknown | https://tw.linkedin.com/jobs/view/product-developer-%E7%94%9F%E6%88%90%E5%BC%8F-ai-%E6%87%89%E7%94%A8%E9%96%8B%E7%99%BC-at-synology-4400770613 | title evidence: Product Developer (生成式 AI 應用開發) | LinkedIn public search card; visible company=Synology; visible location=Taipei, Taipei City, Taiwan |
+| Synology | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Cadence
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Cadence | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+| Cadence | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Synopsys
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Synopsys | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+| Synopsys | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Trend Micro
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Trend Micro | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+| Trend Micro | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Appier
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Appier | Taiwan | (Senior) Machine Learning Scientist (LLM & Agents) | Senior | https://tw.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-agents-at-appier-4235914522 | title evidence: (Senior) Machine Learning Scientist (LLM & Agents) | LinkedIn public search card; visible company=Appier; visible location=Taipei, Taipei City, Taiwan |
+| Appier | Taiwan | (Senior) Machine Learning Scientist (Modeling & Evaluation) | Senior | https://tw.linkedin.com/jobs/view/senior-machine-learning-scientist-modeling-evaluation-at-appier-4476768398 | title evidence: (Senior) Machine Learning Scientist (Modeling & Evaluation) | LinkedIn public search card; visible company=Appier; visible location=Taipei, Taipei City, Taiwan |
+| Appier | Taiwan | Research Scientist (Generative & Agentic AI) | Unknown | https://tw.linkedin.com/jobs/view/research-scientist-generative-agentic-ai-at-appier-4443077899 | title evidence: Research Scientist (Generative & Agentic AI) | LinkedIn public search card; visible company=Appier; visible location=Taipei, Taipei City, Taiwan |
+| Appier | Taiwan | Data Scientist, Analytics | Unknown | https://tw.linkedin.com/jobs/view/data-scientist-analytics-at-appier-4192060797 | title evidence: Data Scientist, Analytics | LinkedIn public search card; visible company=Appier; visible location=Taipei, Taipei City, Taiwan |
+| Appier | Taiwan | Senior Machine Learning Scientist, Advertising Incrementality | Senior | https://tw.linkedin.com/jobs/view/senior-machine-learning-scientist-advertising-incrementality-at-appier-4332964856 | title evidence: Senior Machine Learning Scientist, Advertising Incrementality | LinkedIn public search card; visible company=Appier; visible location=Taipei, Taipei City, Taiwan |
+| Appier | Taiwan | AI Engineer, Playable Ads | Unknown | https://tw.linkedin.com/jobs/view/ai-engineer-playable-ads-at-appier-4448132330 | title evidence: AI Engineer, Playable Ads | LinkedIn public search card; visible company=Appier; visible location=Taipei, Taipei City, Taiwan |
+| Appier | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Intel
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Intel | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+| Intel | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+
+### AMD
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| AMD | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+| AMD | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### NVIDIA
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| NVIDIA | Taiwan | Research Scientist, Deep Learning and Computer Vision - New College Graduate | Junior/New grad | https://tw.linkedin.com/jobs/view/research-scientist-deep-learning-and-computer-vision-new-college-graduate-at-nvidia-4427244058 | title evidence: Research Scientist, Deep Learning and Computer Vision - New College Graduate | LinkedIn public search card; visible company=NVIDIA; visible location=Taipei, Taipei City, Taiwan |
+| NVIDIA | Taiwan | AI Computing Software Development Engineer, TensorRT-LLM | Unknown | https://tw.linkedin.com/jobs/view/ai-computing-software-development-engineer-tensorrt-llm-at-nvidia-4451452930 | title evidence: AI Computing Software Development Engineer, TensorRT-LLM | LinkedIn public search card; visible company=NVIDIA; visible location=Hsinchu City, Taiwan, Taiwan |
+| NVIDIA | Taiwan | AI Computing Software Development Engineer, TensorRT-LLM | Unknown | https://tw.linkedin.com/jobs/view/ai-computing-software-development-engineer-tensorrt-llm-at-nvidia-4451457969 | title evidence: AI Computing Software Development Engineer, TensorRT-LLM | LinkedIn public search card; visible company=NVIDIA; visible location=Taipei, Taipei City, Taiwan |
+| NVIDIA | Taiwan | Developer Technology Engineer, HPC and AI | Unknown | https://tw.linkedin.com/jobs/view/developer-technology-engineer-hpc-and-ai-at-nvidia-4397657019 | title evidence: Developer Technology Engineer, HPC and AI | LinkedIn public search card; visible company=NVIDIA; visible location=Taipei, Taipei City, Taiwan |
+| NVIDIA | Taiwan | Senior AI Agent Development Engineer | Senior | https://tw.linkedin.com/jobs/view/senior-ai-agent-development-engineer-at-nvidia-4448903465 | title evidence: Senior AI Agent Development Engineer | LinkedIn public search card; visible company=NVIDIA; visible location=Hsinchu City, Taiwan, Taiwan |
+| NVIDIA | Taiwan | Senior AI Agent Development Engineer | Senior | https://tw.linkedin.com/jobs/view/senior-ai-agent-development-engineer-at-nvidia-4448593634 | title evidence: Senior AI Agent Development Engineer | LinkedIn public search card; visible company=NVIDIA; visible location=Taipei, Taipei City, Taiwan |
+| NVIDIA | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Apple
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Apple | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+| Apple | Singapore | Commercial Data Scientist, ANZSA | Unknown | https://sg.linkedin.com/jobs/view/commercial-data-scientist-anzsa-at-apple-4414172045 | title evidence: Commercial Data Scientist, ANZSA | LinkedIn public search card; visible company=Apple; visible location=Singapore, Singapore |
+| Apple | Singapore | Machine Learning Researcher, Image/ Video Generation | Unknown | https://sg.linkedin.com/jobs/view/machine-learning-researcher-image-video-generation-at-apple-4414159660 | title evidence: Machine Learning Researcher, Image/ Video Generation | LinkedIn public search card; visible company=Apple; visible location=Singapore, Singapore |
+| Apple | Singapore | Software Engineer, Generative AI & ML | Unknown | https://sg.linkedin.com/jobs/view/software-engineer-generative-ai-ml-at-apple-4414161575 | title evidence: Software Engineer, Generative AI & ML | LinkedIn public search card; visible company=Apple; visible location=Singapore, Singapore |
+| Apple | Singapore | Machine Learning Engineer, Strategic Data Solutions | Unknown | https://sg.linkedin.com/jobs/view/machine-learning-engineer-strategic-data-solutions-at-apple-4414166470 | title evidence: Machine Learning Engineer, Strategic Data Solutions | LinkedIn public search card; visible company=Apple; visible location=Singapore, Singapore |
+
+### Google
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Google | Taiwan | AI Application Engineer | Unknown | https://tw.linkedin.com/jobs/view/ai-application-engineer-at-google-4470314354 | title evidence: AI Application Engineer | LinkedIn public search card; visible company=Google; visible location=Banqiao District, New Taipei City, Taiwan |
+| Google | Taiwan | Senior Software Engineer, ISP and ML, Image Quality Tuning System | Senior | https://tw.linkedin.com/jobs/view/senior-software-engineer-isp-and-ml-image-quality-tuning-system-at-google-4469434683 | title evidence: Senior Software Engineer, ISP and ML, Image Quality Tuning System | LinkedIn public search card; visible company=Google; visible location=Zhubei City, Taiwan, Taiwan |
+| Google | Taiwan | Senior Software Engineer, ISP and ML, Image Quality Tuning System | Senior | https://tw.linkedin.com/jobs/view/senior-software-engineer-isp-and-ml-image-quality-tuning-system-at-google-4469439600 | title evidence: Senior Software Engineer, ISP and ML, Image Quality Tuning System | LinkedIn public search card; visible company=Google; visible location=Banqiao District, New Taipei City, Taiwan |
+| Google | Taiwan | Senior Software Engineer, Cloud AI/ML Infrastructure | Senior | https://tw.linkedin.com/jobs/view/senior-software-engineer-cloud-ai-ml-infrastructure-at-google-4449770246 | title evidence: Senior Software Engineer, Cloud AI/ML Infrastructure | LinkedIn public search card; visible company=Google; visible location=Taipei, Taipei City, Taiwan |
+| Google | Singapore | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; blocked |
+
+### Meta
+
+| Company | Location | Title | Level | LinkedIn Jobs URL | Evidence | Notes |
+|---|---|---|---|---|---|---|
+| Meta | Taiwan | No verified LinkedIn Jobs matches found today. |  |  |  | fixed link checked; no relevant result |
+| Meta | Singapore | Software Engineer, Machine Learning | Unknown | https://sg.linkedin.com/jobs/view/software-engineer-machine-learning-at-meta-4475605096 | title evidence: Software Engineer, Machine Learning | LinkedIn public search card; visible company=Meta; visible location=Singapore, Singapore |
+| Meta | Singapore | Software Engineering, Machine Learning | Unknown | https://sg.linkedin.com/jobs/view/software-engineering-machine-learning-at-meta-4475296530 | title evidence: Software Engineering, Machine Learning | LinkedIn public search card; visible company=Meta; visible location=Singapore, Singapore |
+| Meta | Singapore | Data Scientist, Product | Unknown | https://sg.linkedin.com/jobs/view/data-scientist-product-4472396894 | title evidence: Data Scientist, Product | LinkedIn public search card; visible company=FACEBOOK SINGAPORE PTE. LTD.; visible location=Singapore, Singapore |
+| Meta | Singapore | Software Engineer, Machine Learning | Unknown | https://sg.linkedin.com/jobs/view/software-engineer-machine-learning-4469460622 | title evidence: Software Engineer, Machine Learning | LinkedIn public search card; visible company=FACEBOOK SINGAPORE PTE. LTD.; visible location=Singapore, Singapore |
+
+## Search notes
+
+### MediaTek — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=MediaTek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=9; URL=https://www.linkedin.com/jobs/search/?keywords=MediaTek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### MediaTek — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=MediaTek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=MediaTek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Qualcomm — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Qualcomm+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Qualcomm+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Qualcomm — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Qualcomm+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Qualcomm+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Realtek — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Realtek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Realtek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Realtek — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Realtek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Realtek+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### TSMC — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=TSMC+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=TSMC+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### TSMC — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=TSMC+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=TSMC+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Phison — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Phison+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Phison+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Phison — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Phison+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Phison+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Micron — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Micron+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=19; URL=https://www.linkedin.com/jobs/search/?keywords=Micron+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Micron — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Micron+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Micron+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Synology — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Synology+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=1; URL=https://www.linkedin.com/jobs/search/?keywords=Synology+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Synology — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Synology+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Synology+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Cadence — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Cadence+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Cadence+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Cadence — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Cadence+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Cadence+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Synopsys — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Synopsys+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Synopsys+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Synopsys — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Synopsys+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Synopsys+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Trend Micro — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Trend+Micro+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Trend+Micro+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Trend Micro — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Trend+Micro+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Trend+Micro+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Appier — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Appier+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=6; URL=https://www.linkedin.com/jobs/search/?keywords=Appier+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Appier — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Appier+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Appier+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Intel — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Intel+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Intel+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Intel — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Intel+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Intel+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### AMD — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=AMD+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=AMD+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### AMD — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=AMD+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=AMD+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### NVIDIA — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=NVIDIA+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=6; URL=https://www.linkedin.com/jobs/search/?keywords=NVIDIA+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### NVIDIA — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=NVIDIA+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=NVIDIA+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Apple — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Apple+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Apple+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Apple — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Apple+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=4; URL=https://www.linkedin.com/jobs/search/?keywords=Apple+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Google — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Google+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=4; URL=https://www.linkedin.com/jobs/search/?keywords=Google+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Google — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Google+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: blocked
+- Blocker: HTTP 429
+- Attempts:
+  - `fixed`: blocked; HTTP 429; readable=False; cards=0; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Google+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+
+### Meta — Taiwan
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Meta+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+- Status: no relevant result
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=0; URL=https://www.linkedin.com/jobs/search/?keywords=Meta+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Taiwan
+
+### Meta — Singapore
+- Fixed URL: https://www.linkedin.com/jobs/search/?keywords=Meta+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
+- Status: found
+- Attempts:
+  - `fixed`: ok; HTTP 200; readable=True; cards=60; accepted=4; URL=https://www.linkedin.com/jobs/search/?keywords=Meta+%28AI+OR+%22machine+learning%22+OR+%22data+scientist%22+OR+LLM+OR+%22deep+learning%22+OR+%22computer+vision%22%29&location=Singapore
