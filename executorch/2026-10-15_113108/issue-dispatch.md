@@ -8,7 +8,7 @@
 Note: scope 依題目使用 perf、inference、operator、export、runtime、memory、backend、ci 等。
 本清單包含需先協調或拆分的架構題，已在個別介紹註明；有明確現成修正 PR 的其他候選已排除。
 
-## 1. (operator): Cortex-M depthwise convolution 缺少輸入 layout 檢查
+## 1. (operator) Cortex-M depthwise convolution 缺少輸入 layout 檢查
 
 Issue：[ExecuTorch #23812](https://redirect.github.com/pytorch/executorch/issues/23812)
 來源更新時間：2026-10-14T14:58:09Z
@@ -21,7 +21,7 @@ channels-first 輸入會被替換成只接受 channels-last 的 Cortex-M kernel�
 
 先用原文兩個案例確認 lowering 與 runtime 的 layout；依作者建議，在不支援時保留原 operator，或插入明確 layout conversion。同步檢查 fake implementation 的限制，加入轉換前後數值與 layout 回歸測試；完整執行需要 Cortex-M 測試環境。
 
-## 2. (runtime): Python Module 對 device output 配置了 host memory
+## 2. (runtime) Python Module 對 device output 配置了 host memory
 
 Issue：[ExecuTorch #23553](https://redirect.github.com/pytorch/executorch/issues/23553)
 來源更新時間：2026-10-07T21:52:36Z
@@ -34,7 +34,7 @@ PyModule::allocate_output_tensors 對未規劃的輸出一律配置 host bytes�
 
 參照 Method 的 device allocator 路徑，讓 Module 依輸出 device 配置 buffer，並讓回傳 tensor 正確持有生命週期。測試連續執行時舊輸出仍有效、device/CPU/零長度輸出與配置失敗情境；CUDA 行為需在實際 GPU 驗證。
 
-## 3. (backend): Vulkan 對不支援 dtype 缺少 partition fallback
+## 3. (backend) Vulkan 對不支援 dtype 缺少 partition fallback
 
 Issue：[ExecuTorch #11766](https://redirect.github.com/pytorch/executorch/issues/11766)
 來源更新時間：2026-09-18T20:36:43Z
@@ -47,7 +47,7 @@ Issue：[ExecuTorch #11766](https://redirect.github.com/pytorch/executorch/issue
 
 在 partitioner 判斷輸入與輸出的 dtype 能力，對不支援的節點保留 CPU fallback，並確認 portable kernel 本身是否支援。以 unsigned dtype 測試匯出、delegate 邊界及數值一致性，也涵蓋已支援 dtype 的不退步測試。
 
-## 4. (export): 新版 ultralytics 的 YOLO26 strict export 仍失敗
+## 4. (export) 新版 ultralytics 的 YOLO26 strict export 仍失敗
 
 Issue：[ExecuTorch #23453](https://redirect.github.com/pytorch/executorch/issues/23453)
 來源更新時間：2026-10-06T18:05:01Z
@@ -60,7 +60,7 @@ Issue：[ExecuTorch #23453](https://redirect.github.com/pytorch/executorch/issue
 
 以目前仍能重現的 ultralytics 版本縮小 unbacked symbol 的來源，檢查模型 wrapper 與匯出分支，先完成 strict export 與 portable 數值比對再提高 pin。不要重做已合併的 layout 修正；需下載模型權重並建立版本對照。
 
-## 5. (inference): 補齊 Arm streaming wakeword 匯出與連續幀測試
+## 5. (inference) 補齊 Arm streaming wakeword 匯出與連續幀測試
 
 Issue：[ExecuTorch #23440](https://redirect.github.com/pytorch/executorch/issues/23440)
 來源更新時間：2026-10-05T22:04:06Z
@@ -73,7 +73,7 @@ Issue：[ExecuTorch #23440](https://redirect.github.com/pytorch/executorch/issue
 
 先確認 portable export 前置工作是否就緒，再以 successive frames 與 reset/replay 建立 TOSA reference 比對，之後驗證 U55/U85 FVP。測試需檢查跨幀 buffer 狀態與量化誤差；FVP、TOSA 工具鏈及前置 export 是環境／依賴條件。
 
-## 6. (perf): 評估 XNNPACK workspace 與 ET activation memory 共用
+## 6. (perf) 評估 XNNPACK workspace 與 ET activation memory 共用
 
 Issue：[ExecuTorch #8764](https://redirect.github.com/pytorch/executorch/issues/8764)
 來源更新時間：2026-10-14T21:31:09Z
@@ -86,7 +86,7 @@ Issue：[ExecuTorch #8764](https://redirect.github.com/pytorch/executorch/issues
 
 先選含 graph break 的模型量測 ET arena 與 XNNPACK workspace 的峰值及生命週期，再評估靜態 shape 能否預先取得 workspace 大小並使用既有 scratch API。先以量測與小型概念驗證決定是否值得整合，不承諾直接完成跨 delegate 的通用記憶體規劃。
 
-## 7. (memory): 支援沒有固定上界的動態 tensor memory
+## 7. (memory) 支援沒有固定上界的動態 tensor memory
 
 Issue：[ExecuTorch #8766](https://redirect.github.com/pytorch/executorch/issues/8766)
 來源更新時間：2026-10-06T16:27:55Z
@@ -99,7 +99,7 @@ Issue：[ExecuTorch #8766](https://redirect.github.com/pytorch/executorch/issues
 
 先驗證目前 main 的既有動態能力，將剩餘需求拆成最小案例，評估序列化 lifetime metadata、buffer 重新配置及 relocation。以 build option 隔離額外 runtime 成本，比較峰值記憶體與延遲；本題適合分階段研究，不宜承諾一週完成。
 
-## 8. (operator): 補齊 while_loop 的 lowering 與 emitter 支援
+## 8. (operator) 補齊 while_loop 的 lowering 與 emitter 支援
 
 Issue：[ExecuTorch #8769](https://redirect.github.com/pytorch/executorch/issues/8769)
 來源更新時間：2026-09-18T20:13:22Z
@@ -112,7 +112,7 @@ Issue：[ExecuTorch #8769](https://redirect.github.com/pytorch/executorch/issues
 
 先以最小 while_loop 驗證失敗階段，再參照 cond/map/scan 的 emission，評估以現有 primitive 與 jump 表達迴圈。補零次／多次迭代、carry tensor、shape 上界與輸出數值測試，並獨立檢查迴圈生命週期的 memory planning；不要先假定需要擴充 runtime。
 
-## 9. (export): 讓隱含 dim-order 轉換在 portable graph 中一致表達
+## 9. (export) 讓隱含 dim-order 轉換在 portable graph 中一致表達
 
 Issue：[ExecuTorch #11086](https://redirect.github.com/pytorch/executorch/issues/11086)
 來源更新時間：2026-10-05T20:59:31Z
@@ -125,7 +125,7 @@ PyTorch 的 Linear、reduction 或 convolution 可能隱含轉 layout，但匯�
 
 先用 reduction 加 elementwise 與 channels-last Linear 的小案例重現，檢查輸入、輸出 metadata/spec 與實際 storage 的一致性。評估在 lowering 中同時插入 conversion 與傳播 output dim order，而非只對單一 kernel 打補丁。加入混合 layout 多算子鏈的數值回歸測試；開始前需由用戶確認是否與既有工作重疊。
 
-## 10. (ci): 評估依賴更新流程與受控的排程設定
+## 10. (ci) 評估依賴更新流程與受控的排程設定
 
 Issue：[ExecuTorch #21640](https://redirect.github.com/pytorch/executorch/issues/21640)
 來源更新時間：2026-08-10T19:18:23Z
