@@ -2,7 +2,7 @@
 
 批次：2026-10-15_113108
 更新時間：2026-10-15 13:30:41 Asia/Taipei
-選擇紀錄：尚未選擇；等待用戶從 [issue-dispatch.md](issue-dispatch.md) 指定這一批要處理的議題。本次只整理候選，沒有啟動 issue 開發。
+選擇紀錄：尚未選擇；等待用戶從 [issue-disptach.html](issue-disptach.html) 指定這一批要處理的議題。本次只整理候選，沒有啟動 issue 開發。
 
 | 選擇的 issue | 選擇 issue | issue 開發 | 用戶在社群寄送 PR | 該 PR 被 merge | 目前進度與依據 |
 | --- | --- | --- | --- | --- | --- |
