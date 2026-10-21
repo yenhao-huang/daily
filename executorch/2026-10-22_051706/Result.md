@@ -19,10 +19,10 @@
 
 | 追蹤項目 | 社群 PR | 進度 | 目前狀況／下一步 | 查核時間 |
 | --- | --- | --- | --- | --- |
-| Portable kernel：_embedding_bag.out | [ExecuTorch PR 23871](https://redirect.github.com/pytorch/executorch/pull/23871) | PR 未 merge | Open；head 9810885213；待審查。本次 CI：202 success、35 skipped、1 neutral，無失敗項；等待審查與合併。 | 2026-10-22 05:17:06 Asia/Taipei |
+| [ExecuTorch issue 11323](https://redirect.github.com/pytorch/executorch/issues/11323) 審查修正 | [ExecuTorch PR 23871](https://redirect.github.com/pytorch/executorch/pull/23871) | PR 未 merge | Open；head 9810885213；待審查。本次 CI：202 success、35 skipped、1 neutral，無失敗項；等待審查與合併。 | 2026-10-22 05:17:06 Asia/Taipei |
+| [ExecuTorch issue 11325](https://redirect.github.com/pytorch/executorch/issues/11325) avg_pool1d.out | 尚未送出 | 未發 PR | 已拆成獨立 [個人 fork PR 42](https://github.com/yenhao-huang/executorch/pull/42)；33 個正式測試通過。ASan／UBSan 同樣通過；等待檢視與社群提交。 | 2026-10-22 05:17:06 Asia/Taipei |
+| [ExecuTorch issue 11326](https://redirect.github.com/pytorch/executorch/issues/11326) avg_pool3d.out | 尚未送出 | 未發 PR | 已拆成獨立 [個人 fork PR 43](https://github.com/yenhao-huang/executorch/pull/43)；36 個正式測試通過。依賴 PR 42 的共用 helper，須先處理 PR 42；sanitizer 首次啟動異常，原 binary 重跑 36 個測試通過。 | 2026-10-22 05:17:06 Asia/Taipei |
 | Qwen3.5 static-shape prefill 修正 | [ExecuTorch PR 21873](https://redirect.github.com/pytorch/executorch/pull/21873) | PR 未 merge | Open；head d2bc53d2b0；已獲核准，尚未 merge。本次 CI：197 success、38 skipped、2 failure、1 neutral。WebGPU 的 models／operators Linux jobs 失敗，下一步確認失敗原因後再追蹤合併。 | 2026-10-22 05:17:06 Asia/Taipei |
-| [issue 11325](https://redirect.github.com/pytorch/executorch/issues/11325)：avg_pool1d.out | 尚未送出 | 未發 PR | 已拆成獨立 [個人 fork PR 42](https://github.com/yenhao-huang/executorch/pull/42)；33 個正式測試通過。ASan／UBSan 同樣通過；等待檢視與社群提交。 | 2026-10-22 05:17:06 Asia/Taipei |
-| [issue 11326](https://redirect.github.com/pytorch/executorch/issues/11326)：avg_pool3d.out | 尚未送出 | 未發 PR | 已拆成獨立 [個人 fork PR 43](https://github.com/yenhao-huang/executorch/pull/43)；36 個正式測試通過。依賴 PR 42 的共用 helper，須先處理 PR 42；sanitizer 首次啟動異常，原 binary 重跑 36 個測試通過。 | 2026-10-22 05:17:06 Asia/Taipei |
 
 追蹤來源：用戶指定追蹤兩個 PR，並於 2026-10-16 明確授權 embedding_bag 的審查修正；Qwen3.5 僅追蹤；2026-10-21 新增用戶選定的 avg_pool1d、avg_pool3d。
 進度僅使用「未發 PR／PR 未 merge／Done」；Done 必須確認社群 PR 已 merge。審查核准或 CI 成功不等於 Done，closed 未 merge 仍記為 PR 未 merge。
