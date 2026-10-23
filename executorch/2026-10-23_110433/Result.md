@@ -10,7 +10,6 @@
 | [ExecuTorch issue 11323](https://redirect.github.com/pytorch/executorch/issues/11323) 審查修正 | 完成 | 進行中 | 完成 | 未開始 | [個人 fork PR 39](https://github.com/yenhao-huang/executorch/pull/39) 已於 2026-10-18 20:19:19 Asia/Taipei merge。既有驗證：commit 2dab1b7b03，27 項針對測試及 ASan／UBSan 通過；相鄰測試 104 通過、6 跳過。社群 PR head 為 9810885213，[用戶修正說明](https://redirect.github.com/pytorch/executorch/pull/23871#issuecomment-6250632981) 已刊登；目前仍待社群審查。 |
 | [ExecuTorch issue 11325](https://redirect.github.com/pytorch/executorch/issues/11325) avg_pool1d.out | 完成 | 完成 | 未開始 | 未開始 | [個人 fork PR 42](https://github.com/yenhao-huang/executorch/pull/42) 仍為 open，head 99dbda5fd5。既有驗證：33 個正式測試及 ASan／UBSan 通過。尚未找到用戶提交的對應社群 PR；等待用戶檢視與提交。 |
 | [ExecuTorch issue 11326](https://redirect.github.com/pytorch/executorch/issues/11326) avg_pool3d.out | 完成 | 完成 | 未開始 | 未開始 | [個人 fork PR 43](https://github.com/yenhao-huang/executorch/pull/43) 仍為 open，head d2fc222dc2，依賴 PR 42 的共用 helper。既有驗證：36 個正式測試通過；sanitizer 首次啟動異常，原 binary 重跑 36 個測試通過。先處理 PR 42，再同步並確認 3D 差異；等待用戶提交社群 PR。 |
-
 | [ExecuTorch issue 18832](https://redirect.github.com/pytorch/executorch/issues/18832) Qwen3.5 prefill／WebGPU CI | 完成 | 完成 | 完成 | 未開始 | WebGPU CI 修復已交付 [個人 fork PR 44](https://github.com/yenhao-huang/executorch/pull/44)，commit 1ab6777。6 個回歸測試通過；固定版本 Dawn 的連結與 instance 建立測試通過。原社群 PR 已存在；這次 CI 修復尚未整合至其分支，完整 models／operators CI 尚待重跑。 |
 
 ## PR 追蹤表
