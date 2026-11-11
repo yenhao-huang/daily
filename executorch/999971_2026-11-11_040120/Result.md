@@ -1,8 +1,4 @@
-# ExecuTorch Result
-
-批次：999971_2026-11-11_040120
-報告日期：2026-11-11 Asia/Taipei
-更新時間：2026-11-11 10:18:07 Asia/Taipei（調整 stage 版面；查核時間沿用）
+更新時間：2026-11-11 10:18:07 Asia/Taipei
 
 | 選擇的 issue | 選擇 issue stage | issue 開發 stage | 用戶在社群寄送 PR stage | 社群評論 stage | 該 PR 被 merge stage |
 | --- | --- | --- | --- | --- | --- |
@@ -32,12 +28,6 @@
 - 驗證：[驗收報告](https://github.com/yenhao-huang/executorch/blob/11d7b004085896ba69c31030862c5ab1c199da20/docs/howard/22431.md)記錄 72 項 Vulkan／WebGPU Python 測試通過，另保留 32 組 INT8 C++ 案例證據。僅驗證 llvmpipe；實體 GPU、WebGPU native、encoder 品質與延遲未測，fork 無 CI checks。Claude ACCEPT 不等於社群核准或合併。
 - 查核時間：2026-11-11 04:03:40 Asia/Taipei。
 
-#### 追蹤範圍與選擇紀錄
-
-追蹤範圍：用戶於 2026-11-11 明確要求「停止這三項的每日追蹤」：embedding_bag（issue 11323／[PR 23871](https://redirect.github.com/pytorch/executorch/pull/23871)）、avg_pool1d（issue 11325／[PR 24122](https://redirect.github.com/pytorch/executorch/pull/24122)）、Qwen3.5（issue 18832／[PR 21873](https://redirect.github.com/pytorch/executorch/pull/21873)）。三項皆已合併，自即日起移出目前追蹤表，不再每日查核 PR、CI 或 review，也不從舊報告補回；僅在用戶明確要求後恢復。avg_pool3d、QNN gather、Vulkan per-token INT8 繼續追蹤。用戶同日另要求停止 [PR 24123](https://redirect.github.com/pytorch/executorch/pull/24123) 的追蹤；該 PR 已關閉且未合併，移出追蹤表後不再查核，也不從舊報告補回。avg_pool3d 正式追蹤 PR 24126。
-
-選擇紀錄：用戶於 2026-10-16 在本對話指示「開始處理問題」，授權處理 embedding_bag 審查修正（原 issue 11323／社群 PR 23871）。用戶於 2026-10-21 明確指示「決定實作 avg_pool1d、avg_pool3d」，新增 issue 11325／11326。用戶於 2026-10-23 在討論 Dawn 連結失敗後指示「處理問題」，授權 Qwen3.5 的 WebGPU CI 修復。用戶於 2026-10-28 指示「這周選擇 03、04 開啟 tmux 幫我處理」，選定 10/26 批次的 issue 24125（QNN gather）及 issue 22431（Vulkan per-token INT8）；20:45 記錄，兩題均已確認仍為 open。
-
 ### 社群評論 stage
 
 #### avg_pool3d.out（issue 11326）
@@ -63,7 +53,3 @@ CI：2026/11/11; CI fail: n/a; CI sucess: n/a; Require fix: n/a; Evidence: 尚�
 - 查核時間：2026-11-11 04:03:40 Asia/Taipei。
 
 CI：2026/11/11; CI fail: n/a; CI sucess: n/a; Require fix: n/a; Evidence: 尚未查得對應社群 PR；個人 fork PR 僅作開發證據。
-
-#### CI 判讀
-
-`Require fix` 是 executorch-dev 對「至少一項目前 CI 失敗需要修改本 PR」的主觀估計，並非 CI 通過率。日誌不足的歸因仍屬暫定。
